@@ -2,7 +2,7 @@ collections:
   our-family:
     output: true
     order:
-      - ICT Staff.md
+      - Executive, Administration and ICT Staff.md
       - Teaching Staff.md
       - CCA Teachers–in–charge.md
       - Student Well–Being Support.md
