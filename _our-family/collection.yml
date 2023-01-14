@@ -2,5 +2,6 @@ collections:
   our-family:
     output: true
     order:
+      - Teaching Staff.md
       - CCA Teachers–in–charge.md
       - Student Well–Being Support.md
