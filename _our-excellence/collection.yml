@@ -1,4 +1,5 @@
 collections:
   our-excellence:
     output: true
-    order: []
+    order:
+      - Progression Statistics.md
