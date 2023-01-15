@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Student Development Curriculum/Physical Education.md
       - Student Development Curriculum/Character and Citizenship Education.md
       - Student Development Curriculum/Information and Communication
         Technology.md
