@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Edusave Awards for Secondary Schools.md
       - Full Home Based Learning Information Page.md
       - Navigating the Student Learning Space (SLS).md
       - Nomination for Outstanding Youth in Education Award.md
