@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Full Home Based Learning Information Page.md
       - Navigating the Student Learning Space (SLS).md
       - Nomination for Outstanding Youth in Education Award.md
       - Nomination for President's Award for Teachers.md
