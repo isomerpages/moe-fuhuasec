@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Visual and Performing Arts/Concert Band.md
       - Visual and Performing Arts/Malay Culture and Language.md
       - Visual and Performing Arts/.keep
       - Physical Sports/Overview.md
