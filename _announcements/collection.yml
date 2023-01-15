@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Navigating the Student Learning Space (SLS).md
       - Nomination for Outstanding Youth in Education Award.md
       - Nomination for President's Award for Teachers.md
       - 2022 N' Level Results.md
