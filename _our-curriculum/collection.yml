@@ -2,6 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Distinctive Programmes/Forensic through Science.md
+      - Distinctive Programmes/Forensic Science.md
       - Distinctive Programmes/Leadership through Service.md
       - Distinctive Programmes/.keep
