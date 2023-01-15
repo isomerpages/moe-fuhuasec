@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://gmail.com
+          url: /announcements/dsa-through-alp/
   - infopic:
       title: Crash Landing on FHSS!
       subtitle: Fuhua Stories
