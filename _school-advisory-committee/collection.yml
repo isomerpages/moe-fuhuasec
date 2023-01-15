@@ -1,0 +1,4 @@
+collections:
+  school-advisory-committee:
+    output: true
+    order: []
