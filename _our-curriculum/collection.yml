@@ -2,6 +2,8 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Student Development Curriculum/Information and Communication
+        Technology.md
       - Student Development Curriculum/Co–curricular Activities Programme.md
       - Student Development Curriculum/.keep
       - Distinctive Programmes/Forensic Science.md
