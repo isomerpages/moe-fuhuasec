@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniformed Groups/Red Cross Youth.md
       - Uniformed Groups/Sea Scouts.md
       - Uniformed Groups/.keep
