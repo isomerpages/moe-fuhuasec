@@ -2,4 +2,5 @@ collections:
   our-excellence:
     output: true
     order:
+      - Success Stories.md
       - Progression Statistics.md
