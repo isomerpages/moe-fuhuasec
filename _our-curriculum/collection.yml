@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic Curriculum/Aesthetics and Craft & Technology.md
       - Academic Curriculum/.keep
       - Student Development Curriculum/Student Well–being.md
       - Student Development Curriculum/Physical Education.md
