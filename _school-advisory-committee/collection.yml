@@ -1,4 +1,5 @@
 collections:
   school-advisory-committee:
     output: true
-    order: []
+    order:
+      - School–based Scholarships and Awards.md
