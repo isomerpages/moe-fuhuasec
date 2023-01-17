@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Academic Curriculum/Overview.md
       - Academic Curriculum/English Language & Literature.md
       - Academic Curriculum/Mother Tongue Languages.md
       - Academic Curriculum/Mathematics.md
