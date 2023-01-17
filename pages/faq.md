@@ -87,17 +87,13 @@ We offer three academic courses: Express, Normal (Academic) and Normal (Technica
 Please see the table below for the academic subjects offered, by levels and courses.
 
 | Level | Course | Subject |
-| --- | --- | --- |
-| Lower Secondary | Express  | English Language, Mother Tongue Language1, Higher Mother Tongue Language2, Art, English Literature, Geography, History, Music, Mathematics, Science, Design and Technology, and Food and Consumer Education |
-|   | Normal (Academic)  | English Language, Mother Tongue Language1, Art, English Literature, Geography, History, Music, Mathematics, Science, Design and Technology, and Food and Consumer Education |
-|   
- | Normal (Technical) | English Language, Mother Tongue Language1, Art, Music, Social Studies, Mathematics, Science, Computer Applications, Design and Technology, and Food and Consumer Education |
-| Upper Secondary | Express  | English Language, Mother Tongue Language1, Higher Mother Tongue Language2, Combined Humanities (Social Studies with Electives –  Geography or History), Art, English Literature, Geography, History, Elementary Mathematics, Additional Mathematics, Biology, Chemistry, Physics, Principles of Accounts  
- |
-|   | Normal (Academic)  | English Language, Mother Tongue Language1, Combined Humanities (Social Studies with Electives – Geography or History), Art, Elementary Mathematics, Combined Science (Chemistry and Physics), Additional Mathematics, Design and Technology, and Food and Nutrition, Principles of Accounts  
- |
-|   | Normal (Technical)  | English Language, Mother Tongue Language1, Social Studies, Elements of Business Skills, Mathematics, Science, Computer Applications, Design and Technology, and Food Studies  
- |
+|:---:|:---:|:---:|
+| Lower Secondary | Express  | English Language, Mother Tongue Language1, Higher Mother Tongue Language2, Art, English Literature, Geography, History, Music, Mathematics, Science, Design and Technology, and Food and Consumer Education |
+|   | Normal (Academic)  | English Language, Mother Tongue Language1, Art, English Literature, Geography, History, Music, Mathematics, Science, Design and Technology, and Food and Consumer Education |
+|  | Normal (Technical) | English Language, Mother Tongue Language1, Art, Music, Social Studies, Mathematics, Science, Computer Applications, Design and Technology, and Food and Consumer Education |
+| Upper Secondary | Express  | English Language, Mother Tongue Language1, Higher Mother Tongue Language2, Combined Humanities (Social Studies with Electives –  Geography or History), Art, English Literature, Geography, History, Elementary Mathematics, Additional Mathematics, Biology, Chemistry, Physics, Principles of Accounts |
+|   | Normal (Academic)  | English Language, Mother Tongue Language1, Combined Humanities (Social Studies with Electives – Geography or History), Art, Elementary Mathematics, Combined Science (Chemistry and Physics), Additional Mathematics, Design and Technology, and Food and Nutrition, Principles of Accounts |
+|   | Normal (Technical)  | English Language, Mother Tongue Language1, Social Studies, Elements of Business Skills, Mathematics, Science, Computer Applications, Design and Technology, and Food Studies |
 
 1Some Mother Tongue Languages may be offered at external centres 
 
