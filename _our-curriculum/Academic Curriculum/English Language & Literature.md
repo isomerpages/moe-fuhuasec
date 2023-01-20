@@ -47,7 +47,7 @@ _IGNITE_ stretches the potential of students talented in writing and speaking. 
 
 **YMCA Plain English Speaking Awards**
 
-<img src="/images/ela1.png" style="width:60%">
+<img src="/images/ela1.png" style="width:50%">
 
 <center> GODGE AVANI MANDAR (3S1)
 <br>Finalist<br>
@@ -61,7 +61,7 @@ _IGNITE_ stretches the potential of students talented in writing and speaking. 
 | Silver | 12 |
 |  Bronze | 18  |
 
-<img src="/images/ela2.png" style="width:60%">
+<img src="/images/ela2.png" style="width:50%">
 
 <center> XU SHENGYA (3S5)<br><i>“From a Sandman”</i><br>
 Gold Finalist Award </center>
