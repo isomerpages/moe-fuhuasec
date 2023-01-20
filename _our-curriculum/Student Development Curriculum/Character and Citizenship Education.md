@@ -35,7 +35,7 @@ _Foundation Programme_
 
 _Foundation Programme_ aims to inculcate core values and skills through multiple platforms at the school-wide level including Instructional Programmes, CCE lessons, Form Teacher periods, National Education, Values-in-Action, Sexuality Education, Education and Career Guidance Programme and other level-based programmes. 
 
-For more information about Sexuality Education at Fuhua Secondary School, please click [here.](https://fuhuasec-moe-edu-sg-admin.cwp.sg/our-curriculum/student-development-curriculum/character-and-citizenship-education/sexuality-education)
+For more information about Sexuality Education at Fuhua Secondary School, please click [here.](https://staging.d2jrpotv8emy04.amplifyapp.com/cce/Sexuality-Education/)
 
   
 
