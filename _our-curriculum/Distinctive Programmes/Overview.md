@@ -11,4 +11,4 @@ The school's distinctive programmes include the Applied Learning Programme (ALP)
   
 
 The ALP is STEM (Science, Technology, Engineering and Mathematics)-focused: [**Forensic Science**.](https://staging.d2jrpotv8emy04.amplifyapp.com/our-curriculum/Distinctive-Programmes/forensic-science/)  
-The LLP focuses on Community and Youth Leadership (CYL): **[Leadership through Service](https://staging.d2jrpotv8emy04.amplifyapp.com/our-curriculum/Distinctive-Programmes/leadership-through-service/)**.
+The LLP focuses on Community and Youth Leadership (CYL):  [**Leadership through Service**](https://staging.d2jrpotv8emy04.amplifyapp.com/our-curriculum/Distinctive-Programmes/leadership-through-service/) .
