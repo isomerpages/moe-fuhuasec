@@ -63,13 +63,13 @@ This competition is organised by Republic Polytechnic's (RP) School of Hospitali
 
 The competition provided our students with the opportunity to demonstrate their creativity, problem-solving skills and presentation skills in front of a panel of hospitality industry leaders. Responding to the competition theme “Towards innovative and healthier Singaporean cuisine”, our students re-created local dishes that will appeal to the current and future population in terms of flavour, nutrition, therapeutic properties, texture and presentation.
 
-<figure><img src="/images/aes1.png" style="width:75%"><figcaption>Our champions, Kenneth Tan Kai Xuan (left) Wayne Soh Kai (right) from Class 3S7</figcaption></figure>
+<figure><img src="/images/aes1.png" style="width:55%"><figcaption>Our champions, Kenneth Tan Kai Xuan (left) Wayne Soh Kai (right) from Class 3S7</figcaption></figure>
 
-<figure><img src="/images/aes2.png" style="width:75%"><figcaption>One of their shortlisted dishes - the innovative spicy Laksa tart</figcaption></figure>
+<figure><img src="/images/aes2.png" style="width:55%"><figcaption>One of their shortlisted dishes - the innovative spicy Laksa tart</figcaption></figure>
 
-<figure><img src="/images/aes3.png" style="width:75%"><figcaption>The students sharing their proposal with the judges</figcaption></figure>
+<figure><img src="/images/aes3.png" style="width:55%"><figcaption>The students sharing their proposal with the judges</figcaption></figure>
 
-<figure><img src="/images/aes4.png" style="width:75%"><figcaption>The winning dish -  “Prata Brural”. (Bridge+Curry+Ball)</figcaption></figure>
+<figure><img src="/images/aes4.png" style="width:55%"><figcaption>The winning dish -  “Prata Brural”. (Bridge+Curry+Ball)</figcaption></figure>
 
 **Cluster West 7 Upload! Online Art Competition 2021**                                                                                  
 
@@ -79,6 +79,6 @@ Our inaugural W7 Upload! Online Art Competition 2021 which was held between the 
 
 The theme for this year is “The New Normal”. Besides allowing students to hone their creativity, art skills and boost their confidence as blooming young artists, it was also an eye-opening opportunity for them to see how peers from other schools express themselves through the art pieces created on a common theme.
 
-<figure><img src="/images/aes5.png" style="width:75%"><figcaption>Certificate of Distinction</figcaption></figure>
+<figure><img src="/images/aes5.png" style="width:55%"><figcaption>Certificate of Distinction</figcaption></figure>
 
-<figure><img src="/images/aes6.png" style="width:75%"><figcaption>Certificate of Accomplishment</figcaption></figure>
+<figure><img src="/images/aes6.png" style="width:55%"><figcaption>Certificate of Accomplishment</figcaption></figure>
