@@ -13,6 +13,15 @@ sections:
           description: ""
           url: /announcements/overview/
   - infopic:
+      title: 2023 Secondary 1 Orientation
+      subtitle: Fuhua News
+      description: "Our Secondary 1s participated in a fun-filled Orientation Week
+        programme that was held from 3rd January to 7th January. "
+      button: Find out more
+      url: fds
+      image: /images/s1o.png
+      alt: Image alt text
+  - infopic:
       title: Crash Landing on FHSS!
       subtitle: Fuhua Stories
       description: "The Lion Mums visit a class in FHSS. Click here to watch! "
