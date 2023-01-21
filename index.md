@@ -18,7 +18,7 @@ sections:
       description: "Our Secondary 1s participated in a fun-filled Orientation Week
         programme that was held from 3rd January to 7th January. "
       button: Find out more
-      url: fds
+      url: /2023-Secondary1-Orientation/
       image: /images/s1o.png
       alt: Image alt text
   - infopic:
