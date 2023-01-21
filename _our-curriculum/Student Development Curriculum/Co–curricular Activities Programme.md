@@ -35,8 +35,8 @@ In planning and implementing our CCA programmes, it is ensured that there is: 
 
   
 
-The specific knowledge, skills and values developed depends on the choice of CCA. There are four broad clusters of CCAs: Clubs and Societies, Physical Sports, Uniformed Groups, and Visual and Performing Arts.
+The specific knowledge, skills and values developed depends on the choice of CCA. There are four broad clusters of CCAs: [Clubs and Societies](https://staging.d2jrpotv8emy04.amplifyapp.com/co-curricular-activities/Clubs-and-Societies/overview/), [Physical Sports](https://staging.d2jrpotv8emy04.amplifyapp.com/co-curricular-activities/Physical-Sports/overview/), [Uniformed Groups](https://staging.d2jrpotv8emy04.amplifyapp.com/co-curricular-activities/Uniformed-Groups/overview/), and [Visual and Performing Arts](https://staging.d2jrpotv8emy04.amplifyapp.com/co-curricular-activities/Visual-and-Performing-Arts/overview/).
 
   
 
-Click on the links on the right panel for more information on the CCA offerings.
+Click on the links hyperlinks above for more information on the CCA offerings.
