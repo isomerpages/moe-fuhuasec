@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Visual-and-Performing-Arts/art-club/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-### Art C.ub
+### Art Club
 ##### About Us
 
 **Vision** <br>Love Art, Love Life
