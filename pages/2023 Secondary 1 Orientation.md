@@ -14,3 +14,20 @@ The orientation culminated with a Bestowment Ceremony, a highlight and tradition
   
 **A very warm welcome to all our Secondary 1s and we wish you a fulfilling journey here in Fuhua!**
 
+<img src="/images/so1.png" style="width:60%">
+
+**Making friends through bonding activities**
+
+<img src="/images/so3.png" style="width:60%">
+
+**CCA Orientation - Band**
+
+<img src="/images/so4.png" style="width:60%">
+
+<img src="/images/so5.png" style="width:60%">
+
+**Our Secondary 1s doing the Fuhua Cheer at the Bestowment Ceremony**
+
+<img src="/images/so6.png" style="width:60%">
+
+**CCA Orientation - Red Cross**
