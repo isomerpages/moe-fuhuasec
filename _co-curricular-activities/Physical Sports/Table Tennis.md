@@ -27,3 +27,24 @@ third_nav_title: Physical Sports
 <figure><img src="/images/tt1.png" style="width:55%"><figcaption>E-CCA Sessions in 2021</figcaption></figure>
 
 ##### OUR Achievements
+
+| Year | Event | Achievement |
+|:---:|:---:|:---:|
+| 2021  | SSSC West Zone Competition B Boy  | 4th Position  |
+| 2019 | SSSC West Zone Competition B Boy | 4th Position |
+| 2019 | SSSC West Zone Competition C Girl | 4th Position |
+| 2019 | SSSC West Zone Competition B Girl  |  4th Position |
+| 2018 | SSSC West Zone Competition B Boy  |  4th Position |
+| 2018 | SSSC West Zone Competition C Girl  |  4th Position |
+| 2018 | SSSC West Zone Competition B Girl  |  4th Position |
+| 2017 | SSSC West Zone Competition B Boy |  4th Position |
+| 2017 | SSSC West Zone Competition C Girl  |  4th Position |
+| 2017 | SSSC West Zone Competition B Girl  |  4th Position |
+
+**2021 'B' Division West Zone Competition**
+
+<figure><img src="/images/tt2.png" style="width:55%"><figcaption>The 2021 'B' Division Girls</figcaption></figure>
+
+<figure><img src="/images/tt3.png" style="width:55%"><figcaption>The 2021 'B' Division Boys</figcaption></figure>
+
+<figure><img src="/images/tt4.png" style="width:55%"><figcaption>Congratulations 'B' Division Boys on emerging 4th!</figcaption></figure>
