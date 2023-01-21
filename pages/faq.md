@@ -46,7 +46,7 @@ All Ministry of Education (MOE) schools have two distinctive programmes: the App
 
   
 
-Our ALP is STEM (Science, Technology, Engineering and Mathematics)-focused: Forensic Science. Please click **[here](https://fuhuasec.moe.edu.sg/our-curriculum/distinctive-programmes/applied-learning-programme-alp)** for more information on our ALP. Our LLP focuses on Community and Youth Leadership (CYL): Leadership through Service. Please click **[here](https://fuhuasec.moe.edu.sg/our-curriculum/distinctive-programmes/learning-for-life-programme-llp)** for more information on our LLP. 
+Our ALP is STEM (Science, Technology, Engineering and Mathematics)-focused: Forensic Science. Please click **[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-curriculum/Distinctive-Programmes/forensic-science/)** for more information on our ALP. Our LLP focuses on Community and Youth Leadership (CYL): Leadership through Service. Please click **[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-curriculum/Distinctive-Programmes/leadership-through-service/)** for more information on our LLP. 
 
   
 
@@ -72,7 +72,7 @@ There are three components in our CCE programme: CCE Lessons, School-based CCE a
 
 **9\. What are the Co-curricular Activities (CCA) available?**
 
-We offer a total of 18 CCAs across the four clusters: Clubs and Societies, Physical Sports, Uniformed Groups and Visual and Performing Arts Groups. Please click **[here](https://fuhuasec.moe.edu.sg/our-curriculum/student-development-curriculum/co-curricular-activities-programme)** for more information on our CCAs.
+We offer a total of 18 CCAs across the four clusters: Clubs and Societies, Physical Sports, Uniformed Groups and Visual and Performing Arts Groups. Please click **[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-partners/School-Advisory-Committee/school-based-scholarships-and-awards/)** for more information on our CCAs.
 
   
 
@@ -115,7 +115,7 @@ Depending on the timetable, formal curriculum ends between 12.30 pm and 2.00 pm 
 
   
 
-Mondays, Wednesdays and Fridays are CCA days. Please click **[here](https://fuhuasec.moe.edu.sg/our-curriculum/student-development-curriculum/co-curricular-activities-programme)** for more information on the specific CCAs. Talent development, supplementary and remediation lessons can be conducted after formal curriculum time on Tuesdays and Thursdays. 
+Mondays, Wednesdays and Fridays are CCA days. Please click **[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-partners/School-Advisory-Committee/school-based-scholarships-and-awards/)** for more information on the specific CCAs. Talent development, supplementary and remediation lessons can be conducted after formal curriculum time on Tuesdays and Thursdays. 
 
   
 
@@ -197,7 +197,7 @@ The Ministry of Education (MOE) provides financial assistance to needy Singapore
 
   
 
-For students who are not eligible for the MOE FAS but require financial assistance, the school provides financial assistance to needy Singapore citizen students, so that all Singaporean students can receive additional support to benefit from the opportunities in school. Please click **[here](https://fuhuasec.moe.edu.sg/our-partners/school-advisory-committee/school-based-scholarships-and-awards)** for more information. 
+For students who are not eligible for the MOE FAS but require financial assistance, the school provides financial assistance to needy Singapore citizen students, so that all Singaporean students can receive additional support to benefit from the opportunities in school. Please click **[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-partners/School-Advisory-Committee/school-based-scholarships-and-awards/)** for more information. 
 
   
 
@@ -223,4 +223,4 @@ Please click **[here](https://www.moe.gov.sg/financial-matters/awards-scholarsh
 
   
 
-Our School Advisory Committee (SAC) also gives out scholarships and awards to students annually, to recognise students who are all-round performers, have demonstrated significant improvement in the area of academic studies or have performed well despite financial difficulties. Please click **[here](https://fuhuasec.moe.edu.sg/our-partners/school-advisory-committee/school-based-scholarships-and-awards)** for more information.
+Our School Advisory Committee (SAC) also gives out scholarships and awards to students annually, to recognise students who are all-round performers, have demonstrated significant improvement in the area of academic studies or have performed well despite financial difficulties. Please click **[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-partners/School-Advisory-Committee/school-based-scholarships-and-awards/)** for more information.
