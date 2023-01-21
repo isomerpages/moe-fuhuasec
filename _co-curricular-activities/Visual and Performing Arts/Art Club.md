@@ -4,26 +4,25 @@ permalink: /co-curricular-activities/Visual-and-Performing-Arts/art-club/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-### Infocomm Club
+### Art C.ub
 ##### About Us
 
-**Vision** <br>Excite. Express. Experience. Nurture students to become technology-driven individuals.
+**Vision** <br>Love Art, Love Life
 
-**Mission**<br> To excite students' learning with Info-communication Technologies;  <br>
-To express students' creativity through Photography and Videography;  <Br>
-To experience behind-the-scene production in events management
+**Mission**<br> To provide a nurturing and enriching environment to develop students’ ability to appreciate and make art, thus developing confident and compassionate leaders of tomorrow who share a love for art and life.
 
 ##### OUR Key Programmes
 
-*   Photography modules
-*   Videography modules
-*   Elective programmes in coding, web-designing and/or AVA
+*   Chinese ink painting  
+*   Western Art    
+*   Values In Action Projects    
+*   Art Camp
 
 ##### OUR Achievements
 
 | Year | Event | Achievement |
 |:---:|:---:|:---:|
-|  2020 |  SYFgoesOnline! Pixel Perfect |  Selected entry for online showcase |
-| 2019 | Singapore Garden Photographer of the Year | Merit Winner (Youth Category) |
-|  2019 | 3D-Tronics  | Best Design for Elderly  |
-|  2019 | N.EMation  | Top 100 Teams  |
+| 2020 |  Singapore Youth Festival Arts Presentation (Online) | Participation  |
+|  2019  | 13th Singapore National Junior Watercolour Competition  | Merit Award   |
+| 2018 | 12th Singapore National Junior Watercolour Competition  | Highly Commended Award |
+| 2018  | Singapore Youth Festival Art Exhibition |  Certificate of Recognition |
