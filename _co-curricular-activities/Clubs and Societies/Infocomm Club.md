@@ -18,7 +18,7 @@ To experience behind-the-scene production in events management
 *   Photography modules
 *   Videography modules
 *   Elective programmes in coding, web-designing and/or AVA
-*   
+
 ##### OUR Achievements
 
 | Year | Event | Achievement |
