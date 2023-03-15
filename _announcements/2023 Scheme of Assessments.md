@@ -14,34 +14,21 @@ You may access the relevant SOA via the links below.
 
 
 [2023 FHSS Sec 1Exp SOA.pdf](/files/soa1.pdf)  
-
 [2023 FHSS Sec 1NA SOA.pdf](/files/soa2.pdf)
-
 [2023 FHSS Sec 1NT SOA.pdf](/files/soa3.pdf)
 
-  
-
 [2023 FHSS Sec 2Exp SOA.pdf](/files/soa4.pdf)
-
 [2023 FHSS Sec 2NA SOA.pdf](/files/soa5.pdf)
-
 [2023 FHSS Sec 2NT SOA.pdf](/files/soa6.pdf)
 
-
 [2023 FHSS Sec 3Exp SOA.pdf](/files/soa7.pdf)
-
 [2023 FHSS Sec 3NA SOA.pdf](/files/soa8.pdf)
-
 [2023 FHSS Sec 3NT SOA.pdf](/files/soa9.pdf)
 
-
 [2023 FHSS Sec 4Exp SOA.pdf](/files/soa10.pdf)
-
 [2023 FHSS Sec 4NA SOA.pdf](/files/soa11.pdf)
-
 [2023 FHSS Sec 4NT SOA.pdf](/files/soa12.pdf)
 
-  
 [2023 FHSS Sec 5NA SOA.pdf](/files/soa13.pdf)
 
 
