@@ -49,8 +49,6 @@ To find out more about the Sexuality Education lessons that will be taught in 20
 
 **At Fuhua Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
 
-
-
 | Topics/Lessons | Learning Objectives | Time Period |
 | -------- | -------- | -------- |
 | Mass Talk by HPB appointed vendor    | (i) Awareness of the different STIs and HIV/AIDS<br> (ii) Modes of Transmission<br> (iii) Modes of protection, specifically on how the condom is used<br> (iv) Consequences and impact of STIs/HIV    | Term 3 Week 6    |
