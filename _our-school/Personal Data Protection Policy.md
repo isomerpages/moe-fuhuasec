@@ -8,7 +8,6 @@ description: ""
 This Data Protection Policy outlines the management of Personal Data in accordance with the Personal Data Protection Act (“PDPA”).  
 
 This policy seeks the understanding for the purposes for which FHSS collects, uses and/or discloses Personal Data. This policy states the agreement and consent given to FHSS as well as authorised service providers and relevant third parties collecting, using, disclosing and/or sharing Personal Data as stated in this Data Protection Policy.  
-
 ##### **1. Personal Data**  
 
 In this Data Protection Policy, “Personal Data” refers to any data or information from which a person can be identified either (a) from that data; or (b) from that data and other information to which the school has or is likely to have access. Examples of such Personal Data include Full name, NRIC Number or FIN (Foreign Identification Number), Passport number, Photograph or video image of an individual, Mobile telephone number, Personal email address, Thumbprint, DNA profile and any other information relating to the person that has been provided to the school in one form or another.  
@@ -28,29 +27,18 @@ v\. When Personal Data is submitted to the school for any other reason.      
 
 FHSS may collect, use and/or disclose Personal Data as follows:
 
-1\.  Evaluative purposes;  
-    
-2\.  Educational and student care purposes;  
-    
-3\.  Administration purposes;    
-    
-4\.  Publicity and communication purposes;  
-    
-5\.  Verification and update purposes;   
-    
-6\.  Conducting research for statistical profiling and other purposes to review, develop and improve the services of the school;  
-    
-7\.  Conducting financial reporting and analysis related to the school operations;  
-    
-8\.  Managing the school infrastructure and business operations and complying with internal policies and procedures;    
-    
-9\.  Archival of documents and records ;  
-    
-10\.  Managing and terminating an employment relationship.  
-    
-11\.  Security purposes;  
-    
-12\.  Any other purposes which the school may notify you of at the time of obtaining your consent.  
+i\.  Evaluative purposes;     
+ii\.  Educational and student care purposes;     
+iii\.  Administration purposes;     
+iv\.  Publicity and communication purposes;    
+v\.  Verification and update purposes;   
+vi\.  Conducting research for statistical profiling and other purposes to review, develop and improve the services of the school;    
+vii\.  Conducting financial reporting and analysis related to the school operations;    
+viii\.  Managing the school infrastructure and business operations and complying with internal policies and procedures;     
+ix\.  Archival of documents and records ;    
+x\.  Managing and terminating an employment relationship.    
+xi\.  Security purposes;  
+xii\.  Any other purposes which the school may notify you of at the time of obtaining your consent.  
     
 
   
