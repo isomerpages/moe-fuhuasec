@@ -21,10 +21,9 @@ third_nav_title: Distinctive Programmes
     
 **Programme Structure**
 
-Core Programme
+**Core Programme**
+<br> All lower secondary students undergo a one-year programme which focuses on inculcating scientific thinking skills through the delivery of lessons built on teaching various forensic techniques used in crime scene investigation. All lessons are designed to include hands-on activities that engage the students and promote scientific thinking.
 
-All lower secondary students undergo a one-year programme which focuses on inculcating scientific thinking skills through the delivery of lessons built on teaching various forensic techniques used in crime scene investigation. All lessons are designed to include hands-on activities that engage the students and promote scientific thinking.
-
-Elective Programme
-
+**Elective Programme**
+<br>
 Modules on specialised forensic techniques (e.g. digital forensics) are offered to selected students with a deep interest in forensic science for them to acquire knowledge and skills beyond the Core Programmme.
