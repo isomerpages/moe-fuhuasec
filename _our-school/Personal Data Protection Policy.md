@@ -13,26 +13,17 @@ This policy seeks the understanding for the purposes for which FHSS collects, us
 
 In this Data Protection Policy, “Personal Data” refers to any data or information from which a person can be identified either (a) from that data; or (b) from that data and other information to which the school has or is likely to have access. Examples of such Personal Data include Full name, NRIC Number or FIN (Foreign Identification Number), Passport number, Photograph or video image of an individual, Mobile telephone number, Personal email address, Thumbprint, DNA profile and any other information relating to the person that has been provided to the school in one form or another.  
 
-  
-
 Photographs and video images of our students and the legal guardians may be taken during school activities and events such as classroom lessons, CCA, school camps, or school concerts. The school may use and publish such photographs or video recordings in school publications, the school’s website, social media channels, or other communication channels.
 
 ##### **2. Collection of Personal Data**  
 FHSS may collect Personal Data as follows: 
 
-1\.  Through an application to join the school for work or study;   
+i\. Through an application to join the school for work or study;   
+ii\. Through an application to be a service provider to the school;    
+iii\. Through the interaction with FHSS staff for official purposes;   
+iv\. When responding to a request for additional Personal Data;    
+v\. When Personal Data is submitted to the school for any other reason.         
     
-2\.  Through an application to be a service provider to the school;    
-    
-3\.  Through the interaction with FHSS staff for official purposes;   
-    
-4\.  When responding to a request for additional Personal Data;    
-    
-5.  When Personal Data is submitted to the school for any other reason.         
-    
-
-  
-
 ##### **3. Purposes for the Collection, Use and Disclosure of Personal Data**
 
 FHSS may collect, use and/or disclose Personal Data as follows:
