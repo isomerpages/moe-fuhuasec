@@ -16,17 +16,14 @@ To develop empathetic, passionate and thoughtful Fuhuanites who contribute posit
 The approach to the teaching and learning of Humanities involves:
 
 1\.  Promoting authentic and experiential learning;  
-    
 2\.  Developing analytical and critical thinking through inquiry; and  
-    
 3\.  Strengthening disciplinary thinking  
     
 
 **Key programmes**
 
 **1\.Authentic and experiential learning experiences**
-
-The suite of authentic and experiential learning experiences allows students to make connections between the learning they are doing in the classroom and the world. Students immerse in experiences which encourage reflection to hone existing and develop new skills, attitudes and dispositions.
+<br>The suite of authentic and experiential learning experiences allows students to make connections between the learning they are doing in the classroom and the world. Students immerse in experiences which encourage reflection to hone existing and develop new skills, attitudes and dispositions.
 
 (i) Beyond Borders: Humanities Overseas Cultural Immersion  
 
@@ -37,12 +34,10 @@ Secondary 3 students embark on an overseas Humanities immersion programme to gai
 Secondary 3 Express and Normal (Academic) students participate in various learning journeys which provide them with opportunities to apply and draw connections between concepts they have learnt and the real world.
 
 **2\.Interactive Humanities Learning Trails**
-
-Interactive Humanities Learning Trails is a platform for students to develop their analytical and critical thinking skills through Inquiry-based Learning. Using mobile devices, students go through the process of reasoning and constructing meaning. They are also introduced to data and information skills, which include the collection, analysis and representation of data.
+<br> Interactive Humanities Learning Trails is a platform for students to develop their analytical and critical thinking skills through Inquiry-based Learning. Using mobile devices, students go through the process of reasoning and constructing meaning. They are also introduced to data and information skills, which include the collection, analysis and representation of data.
 
 **3\.Illuminate**
-
-Illuminate aims to strengthen disciplinary thinking among the talented Fuhuanites. It provides opportunities for students to develop a greater interest and passion for the Humanities beyond what is taught in the classroom.
+<br> Illuminate aims to strengthen disciplinary thinking among the talented Fuhuanites. It provides opportunities for students to develop a greater interest and passion for the Humanities beyond what is taught in the classroom.
 
 (i) Humanities Challenge  
 
