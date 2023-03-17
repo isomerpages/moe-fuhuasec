@@ -28,5 +28,4 @@ To instil in Fuhuanites the love for the Mother Tongue language and culture, and
 <br> All Secondary 1 and 2 Express students taking Higher CL/CL will be offered this programme. It is a school-based enrichment programme where students learn about the history and development of traditional Chinese culture such as costumes, cuisines, architecture, Chinese medicine, wedding ceremonies etc.
 
 **3\. 3-minute speech**
-
-Based on a topic given, students prepare a 3-minute speech to be presented in class. This activity provides a platform for all students to express themselves clearly and confidently. Teachers’ feedback and peers' critique which are given aim to help the students improve and become better communicators.
+<br> Based on a topic given, students prepare a 3-minute speech to be presented in class. This activity provides a platform for all students to express themselves clearly and confidently. Teachers’ feedback and peers' critique which are given aim to help the students improve and become better communicators.
