@@ -39,7 +39,7 @@ a. Science
 
 7\. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.  
   
-To find out more about the Sexuality Education lessons that will be taught in 2023 at Fuhua Secondary School, view this document [here ([here](/files/SEd%20Curriculum.pdf))
+To find out more about the Sexuality Education lessons that will be taught in 2023 at Fuhua Secondary School, view this document [here]([here](/files/SEd%20Curriculum.pdf))
 
 **_eTeens_** **Programme**:
 
