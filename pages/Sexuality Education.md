@@ -44,13 +44,9 @@ b. Character and Citizenship Education (CCE)
 
 7\. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.  
   
-At Fuhua Secondary School, the following Sexuality Education lessons will be taught in 2022:
+At Fuhua Secondary School, the following Sexuality Education lessons will be taught in 2023:
 
-<img src="/images/se1.png" style="width:60%">
-<img src="/images/se2.png" style="width:60%">
-<img src="/images/se3.png" style="width:60%">
-<img src="/images/se4.png" style="width:60%">
-<img src="/images/se5.png" style="width:60%">
+[](/files/SEd%20Curriculum.pdf)
 
 **_eTeens_** **Programme**:
 
