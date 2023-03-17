@@ -29,6 +29,5 @@ M&M learning experiences include: 
 * Drama or Play Appreciation
 * Learning Journeys
 
-**IGNITE**
-
-IGNITE stretches the potential of students talented in writing and speaking. It allows accomplished writers to hone their creativity and provides opportunities for them to participate in national and international competitions. Their masterpieces are also encapsulated in the annual in-house publication. Confident speakers will showcase their effective communication skills at school and external platforms. 
+**2\.IGNITE**
+<br> IGNITE stretches the potential of students talented in writing and speaking. It allows accomplished writers to hone their creativity and provides opportunities for them to participate in national and international competitions. Their masterpieces are also encapsulated in the annual in-house publication. Confident speakers will showcase their effective communication skills at school and external platforms.
