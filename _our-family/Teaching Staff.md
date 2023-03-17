@@ -6,7 +6,7 @@ description: ""
 ### Teaching Staff
 
 ##### Secondary 1 <br>
-Mrs Portia Sim / Assistant Year Head (Lower Sec) (tan\_poh\_hong@schools.gov.sg)
+Mrs Portia Sim / Assistant Year Head (Lower Sec) (tan_poh_hong@schools.gov.sg)
 
 | Class | Name | Email address |
 |:---:|---|---|
@@ -20,22 +20,22 @@ Mrs Portia Sim / Assistant Year Head (Lower Sec) (tan\_poh\_hong@schools.gov.sg)
 |  |  |  |
 
 ##### Secondary 2 <br>
-Miss Germain Kang / Year Head (Lower Sec) (germain\_kang@schools.gov.sg)
+Miss Germain Kang / Year Head (Lower Sec) (germain_kang@schools.gov.sg)
 
 | Class | Name | Email address |
 |:---:|---|---|
 | 2I1 | Miss Woo Wen Qi | wen_qi_woo@schools.gov.sg |
-| 2I2 | Miss Lai Min Lee<br>Miss Nuha Amani | lai_min_lee@schools.gov.sg<br>nuha_amani@fhss.edu.sg |
+| 2I2 | Miss Lai Min Lee<br>Miss Nuha Amani | lai_min_lee@schools.gov.sg<br>nuha_amani_misbahuddin@schools.gov.sg |
 | 2I3 | Miss Nur Hanis  | nur_hanis_mohamad_gh@schools.gov.sg |
 | 2I4 | Mr Khoo Yong Kang | khoo_yong_kang@schools.gov.sg |
-| 2I5 | Ms Lim Ying Hui | lim_ying_hui@schools.gov.sg |
+| 2I5 | Ms Lim Ying Hui<br>Mr Koh Tze Hou | lim_ying_hui@schools.gov.sg<br>koh_tze_hou@schools.gov.sg |
 | 2I6 | Ms Hur Hafizah Bte Ismail | nur_hafizah_ismail_a@schools.gov.sg |
 | 2I7 | Mdm Rafidah Bte A Rahman | rafidah_a_rahman@schools.gov.sg |
 | 2I8  | Mr Chew Mingzhi<br>Mdm Rohana Bte Ismail | chew_mingzhi@schools.gov.sg<br>rohana_ismail@schools.gov.sg |
 |  |  |  |
 
 ##### Secondary 3 <br>
-Miss Siti Rohani / Assistant Year Head (internal) (siti\_rohani\_hanim\_selamat@schools.gov.sg)
+Miss Siti Rohani / Assistant Year Head (internal) (siti_rohani_hanim_selamat@schools.gov.sg)
 
 | Class | Name | Email address |
 |:---:|---|---|
@@ -44,13 +44,13 @@ Miss Siti Rohani / Assistant Year Head (internal) (siti\_rohani\_hanim\_selamat@
 | 3S3 | Miss Huang Xiaojun | huang_xiaojun@schools.gov.sg |
 | 3S4 | Mr Muhammad Khairi<br>Miss Tay Zhi Hwei | muhammad_khairi_ruslihan@schools.gov.sg<br>tay_zhi_hwei@schools.gov.sg |
 | 3S5 | Miss Lee Mui Keow<br>Ms Lim Lee Lian | lee_mui_keow@schools.gov.sg<br>lim_lee_lian_a@schools.gov.sg |
-| 3S6 | Mr Raymond Loh<br>Mr Lim Jeremiah | loh_kok_wee_raymond@schools.gov.sg <br>jeremiah_lim@fhss.edu.sg |
+| 3S6 | Mr Raymond Loh<br>Mr Lim Jeremiah | loh_kok_wee_raymond@schools.gov.sg <br>lim_jeremiah_elijah_mario@schools.gov.sg |
 | 3S7 | Mr Kwa Chia Rhun | kwa_chia_rhun@schools.gov.sg |
 | 3S8 | Mr Ong Fui Liang<br>Ms Veronica Tei  | ong_fui_liang@schools.gov.sg<br>veronica_tei_ying_ying@schools.gov.sg  |
 |  |  |  |
 
 ##### Secondary 4 and 5 <br>
-Mr Chiong Yin Fung / Assistant Year Head (chiong\_yin\_fung@schools.gov.sg)
+Mr Chiong Yin Fung / Assistant Year Head (chiong_yin_fung@schools.gov.sg)
 
 | Class | Name | Email address |
 |:---:|---|---|
