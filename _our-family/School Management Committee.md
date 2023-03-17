@@ -5,7 +5,8 @@ description: ""
 ---
 ### School Management Committee
 
-![](/images/comm1.png)
+![](/images/SL.png)
+
 
 | Name | Designation | Email address |
 |---|---|---|
