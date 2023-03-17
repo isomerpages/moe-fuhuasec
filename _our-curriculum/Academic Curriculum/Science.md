@@ -24,8 +24,7 @@ The approach to the teaching and learning of Science involves:
 **Key Programmes**
 
 **1\.INSPIRE**
-
-INSPIRE allows students to achieve multiple spires of excellence in the area of Science. The programme aims to:
+<br>INSPIRE allows students to achieve multiple spires of excellence in the area of Science. The programme aims to:
 
 * further develop the skills and abilities of students talented in science by providing an environment where students can work with peers who share similar aspirations;  
     
@@ -35,12 +34,9 @@ INSPIRE allows students to achieve multiple spires of excellence in the area of
 
 There are three tiers in INSPIRE: 
 
-Tier 1 - Interest-based modules in partnership with external agencies e.g. Science Centre and the polytechnics
-
-Tier 2 - Academic-based modules for selected students such as Junior Olympiads training
-
-Tier 3 - Student-initiated modules to deepen students' interest in science and appreciate the application of science
+* Tier 1 - Interest-based modules in partnership with external agencies e.g. Science Centre and the polytechnics
+* Tier 2 - Academic-based modules for selected students such as Junior Olympiads training
+* Tier 3 - Student-initiated modules to deepen students' interest in science and appreciate the application of science
 
 **2\. Science Enrichment Programme**
-
-The Science Enrichment Programme aims to provide a vibrant science learning environment with impactful learning experiences targeting the different learning needs and interests of students. It provides students with the opportunity to gain a deeper appreciation of their environment and the role of science in their everyday life and widen their knowledge of science beyond the textbook. The programme includes learning journeys and interest-based workshops (in areas such as Food Science, Forensic Science and Engineering Science) for all students.
+<br>The Science Enrichment Programme aims to provide a vibrant science learning environment with impactful learning experiences targeting the different learning needs and interests of students. It provides students with the opportunity to gain a deeper appreciation of their environment and the role of science in their everyday life and widen their knowledge of science beyond the textbook. The programme includes learning journeys and interest-based workshops (in areas such as Food Science, Forensic Science and Engineering Science) for all students.
