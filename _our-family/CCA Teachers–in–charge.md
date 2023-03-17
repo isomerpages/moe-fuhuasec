@@ -11,7 +11,7 @@ description: ""
 |---|---|---|
 | Environment | Mdm Rafidah (OIC)<br>Miss Rachel Liau<br>Miss Lee Mui Keow | rafidah_a_rahman@schools.gov.sg<br>liau_jia_yu_rachel@schools.gov.sg<br>lee_mui_keow@schools.gov.sg |
 | English Language, Drama and Debating | Mr Kwa Chia Rhun (OIC)Miss Loh Su Min | kwa_chia_rhun@schools.gov.sg<br>loh_su_min@schools.gov.sg |
-| Infocomm | Miss Siti Rohani  (OIC)<br>Mr Tan Gek Guang | siti_rohani_hanim_selamat@schools.gov.sg<br>tan_gek_guang@schools.gov.sg |
+| Infocomm | Miss Siti Rohani  (OIC)<br>Mr Tan Gek Guang<br>Mr Koh Tze Hou | siti_rohani_hanim_selamat@schools.gov.sg<br>tan_gek_guang@schools.gov.sg<br>koh_tze_hou@schools.gov.sg|
 | Robotics | Mr Ong Fui Liang (OIC)<br>Mr Tan Boon Teck<br>Mr Joshua Tan Lin Jie | ong_fui_liang@schools.gov.sg<br>tan_boon_teck_a@schools.gov.sg<br>joshua_tan_lin_jie@schools.gov.sg |
 
 ##### Cluster: Physical Sports
@@ -19,7 +19,7 @@ description: ""
 | CCA | Name | Email address |
 |---|---|---|
 | Badminton | Miss Huang Xiaojun (OIC)<br>Mr Smithy Methias (2IC) <br>Mr Foo Gui Zhong | huang_xiaojun@schools.gov.sg<br>smithy_methiasyusoef_adam@schools.gov.sg<br>foo_gui_zhong@schools.gov.sg |
-| Shooting | Mr Yeo Kai Xiang (OIC)<br>Ms Grace Lee Ern<br>Mr Lim Jeremiah | yeo_kai_xiang@schools.gov.sg<br>grace_lee_ern@schools.gov.sg<br>jeremiah_lim@fhss.edu.sg |
+| Shooting | Mr Yeo Kai Xiang (OIC)<br>Ms Grace Lee Ern<br>Mr Lim Jeremiah | yeo_kai_xiang@schools.gov.sg<br>grace_lee_ern@schools.gov.sg<br>lim_jeremiah_elijah_mario@schools.gov.sg |
 | Table Tennis | Mr Ng Khong Keong (OIC)<br>Ms Kok Han Ni<br>Mdm Jamaliah | ng_khong_keong@schools.gov.sg<br>kok_han_ni@schools.gov.sg<br>jamaliah_mohd_ramzan@schools.gov.sg |
 | Tchoukball | Mr Chew Mingzhi (OIC)<br>Ms Nur Hafizah (2IC) | chew_mingzhi@schools.gov.sg<br>nur_hafizah_ismail_a@schools.gov.sg |
 
@@ -30,7 +30,7 @@ description: ""
 | National Cadet Corps (Land) | Mr Ian Tai Zhi Jian (OIC)<br>Mdm Teo Chek Gin (2IC)<br>Mr Raymond Loh | ian_tai_zhi_jian@schools.gov.sg<br>teo_chek_gin@schools.gov.sg<br>loh_kok_wee@schools.gov.sg |
 | National Police Cadet Corps | Mr Tan Ying Quan (OIC)<br>Ms Veronica Tei (2IC)<br>Mr Goh Kee Lee | tan_ying_quan@schools.gov.sg<br>veronica_tei_ying_ying@schools.gov.sg<br>goh_kee_lee@schools.gov.sg |
 | Red Cross Youth | Miss Nur Hanis (OIC)<br>Miss Nurhuda bte Pardi (2IC)<br>Mr Khoo Yong Kang <br>Mr Tan Yong Qiao Elton | nur_hanis_mohamad_gh@schools.gov.sg<br>nurhuda_pardi@schools.gov.sg<br>khoo_yong_kang@schools.gov.sg<br>tan_yong_qiao_elton@schools.gov.sg |
-| Sea Scouts | Mr Muhammad Khairi (OIC)<br>Mr Theodore Low<br>Miss Nuha Amani | muhammad_khairi_ruslihan@schools.gov.sg<br>low_ying_hongtheodore@schools.gov.sg<br>nuha_amani@fhss.edu.sg |
+| Sea Scouts | Mr Muhammad Khairi (OIC)<br>Mr Theodore Low<br>Miss Nuha Amani | muhammad_khairi_ruslihan@schools.gov.sg<br>low_ying_hongtheodore@schools.gov.sg<br>nuha_amani_misbahuddin@schools.gov.sg |
 
 ##### Cluster: Visual and Performing Arts
 
