@@ -113,6 +113,7 @@ On https://lms.asknlearn.com/FHSS/login.aspx, click on ‘Login as Parents’. 
 3\. DSA through **Performing Arts** (Concert Band and Chinese Orchestra)  
 
 **Please note that the DSA-Sec Exercise for the Secondary 1 2024 intake will begin in early May.**    
+
 **17\. What is the Primary School Leaving Examination (PSLE) aggregate range of students admitted?**
 
 The ranges of the 2023 Secondary 1 cohort, by courses, are as follows:  
