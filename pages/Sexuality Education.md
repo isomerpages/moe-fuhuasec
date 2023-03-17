@@ -18,12 +18,9 @@ description: ""
 3\. The key messages of Sexuality Education are:
 
 (i) Love and respect yourself as you love and respect others;
-
-(ii) Build positive relationships based on love and respect (which are the foundation for strong families);
-
-(iii)  Make responsible decisions for yourself, your family and society; and
-
-(iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+<br> (ii) Build positive relationships based on love and respect (which are the foundation for strong families);
+<br> (iii)  Make responsible decisions for yourself, your family and society; and
+<br> (iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education) for more information on MOE Sexuality Education.   
 
@@ -33,10 +30,8 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sex
 4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 
 5\. The subjects that incorporate topics on sexuality include:
-
 a. Science
-
-b. Character and Citizenship Education (CCE)
+<br> b. Character and Citizenship Education (CCE)
 
 **Sexuality Education Lessons**:
 
@@ -44,7 +39,7 @@ b. Character and Citizenship Education (CCE)
 
 7\. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.  
   
-To find out more about the Sexuality Education lessons that will be taught in 2023 at Fuhua Secondary School, view this document: [](/files/SEd%20Curriculum.pdf)
+To find out more about the Sexuality Education lessons that will be taught in 2023 at Fuhua Secondary School, view this document [here]([here](/files/SEd%20Curriculum.pdf)
 
 **_eTeens_** **Programme**:
 
