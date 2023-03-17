@@ -2,14 +2,14 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Academic Curriculum/Overview.md
-      - Academic Curriculum/English Language & Literature.md
-      - Academic Curriculum/Mother Tongue Languages.md
-      - Academic Curriculum/Mathematics.md
-      - Academic Curriculum/Science.md
-      - Academic Curriculum/Humanities.md
-      - Academic Curriculum/Aesthetics and Craft & Technology.md
       - Academic Curriculum/.keep
+      - Academic Curriculum/Overview.md
+      - Academic Curriculum/Aesthetics and Craft & Technology.md
+      - Academic Curriculum/English Language & Literature.md
+      - Academic Curriculum/Humanities.md
+      - Academic Curriculum/Mathematics.md
+      - Academic Curriculum/Mother Tongue Languages.md
+      - Academic Curriculum/Science.md
       - Student Development Curriculum/Overview.md
       - Student Development Curriculum/Student Well–being.md
       - Student Development Curriculum/Physical Education.md
