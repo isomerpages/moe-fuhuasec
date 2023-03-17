@@ -8,8 +8,6 @@ third_nav_title: School Advisory Committee
 
 Our School Advisory Committee (SAC) gives out scholarships and awards to students annually, to recognise students who are all-round performers, have demonstrated significant improvement in the area of academic studies or have performed well despite financial difficulties. 
 
-  
-
 **Fuhua SAC Scholarship**
 
 This scholarship is given to newly admitted Secondary One students who are all-round performers.
