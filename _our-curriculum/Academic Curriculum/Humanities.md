@@ -52,6 +52,6 @@ The Humanities Challenge is a platform that enriches the lower secondary Humanit
 
 Students also have the opportunity to take part in external competitions such as:
 
-*   NUS Geography Challenge
-*   MOE History Challenge
-*   NLB Historical Scene Investigation
+* NUS Geography Challenge
+* MOE History Challenge
+* NLB Historical Scene Investigation
