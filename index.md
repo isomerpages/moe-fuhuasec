@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage Header.jpg
+      background: /images/Isomer Header Gif.gif
       key_highlights:
         - title: Announcements
           description: ""
