@@ -12,27 +12,24 @@ Please find below the Schemes of Assessment (SOA) for 2023. The SOA aim to provi
 
 You may access the relevant SOA via the links below.
 
+[2023 FHSS Sec 1Exp SOA](/files/2023%20FHSS%20Sec%201Exp%20SOA.pdf)<BR>
+[2023 FHSS Sec 1NA SOA](/files/2023%20FHSS%20Sec%201NA%20SOA.pdf)<BR>
+[2023 FHSS Sec 1NT SOA](/files/2023%20FHSS%20Sec%201NT%20SOA.pdf)<BR>
 
-[2023 FHSS Sec 1Exp SOA.pdf](/files/soa1.pdf)  
-[2023 FHSS Sec 1NA SOA.pdf](/files/soa2.pdf)  
-[2023 FHSS Sec 1NT SOA.pdf](/files/soa3.pdf)
+[2023 FHSS Sec 2Exp SOA](/files/2023%20FHSS%20Sec%202Exp%20SOA.pdf)<BR>
+[2023 FHSS Sec 2NA SOA](/files/2023%20FHSS%20Sec%202NA%20SOA.pdf)<BR>
+[2023 FHSS Sec 2NT SOA](/files/2023%20FHSS%20Sec%202NT%20SOA.pdf)<BR>
 
-[2023 FHSS Sec 2Exp SOA.pdf](/files/soa4.pdf)  
-[2023 FHSS Sec 2NA SOA.pdf](/files/soa5.pdf)  
-[2023 FHSS Sec 2NT SOA.pdf](/files/soa6.pdf)
+[2023 FHSS Sec 3Exp SOA](/files/2023%20FHSS%20Sec%203Exp%20SOA.pdf)<br>
+[2023 FHSS Sec 3NA SOA](/files/2023%20FHSS%20Sec%203NA%20SOA.pdf)<BR>
+[2023 FHSS Sec 3NT SOA](/files/2023%20FHSS%20Sec%203NT%20SOA.pdf)
 
-[2023 FHSS Sec 3Exp SOA.pdf](/files/soa7.pdf)  
-[2023 FHSS Sec 3NA SOA.pdf](/files/soa8.pdf)  
-[2023 FHSS Sec 3NT SOA.pdf](/files/soa9.pdf)
+[2023 FHSS Sec 4Exp SOA](/files/2023%20FHSS%20Sec%204Exp%20SOA.pdf)<br>
+[2023 FHSS Sec 4NA SOA](/files/2023%20FHSS%20Sec%204NA%20SOA.pdf)<br>
+[2023 FHSS Sec 4NT SOA](/files/2023%20FHSS%20Sec%204NT%20SOA.pdf)<BR>
 
-
-[2023 FHSS Sec 4Exp SOA.pdf](/files/soa10.pdf)  
-[2023 FHSS Sec 4NA SOA.pdf](/files/soa11.pdf)  
-[2023 FHSS Sec 4NT SOA.pdf](/files/soa12.pdf)
-
-
-[2023 FHSS Sec 5NA SOA.pdf](/files/soa13.pdf)
-
-
+[2023 FHSS Sec 5NA SOA](/files/2023%20FHSS%20Sec%205NA%20SOA.pdf)
 
 Thank you!
+
+*Last Updated 22 March 2023*
