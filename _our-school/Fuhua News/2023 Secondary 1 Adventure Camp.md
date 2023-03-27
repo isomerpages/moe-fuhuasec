@@ -4,3 +4,6 @@ permalink: /our-school/fuhua-news/s1advcamp23/
 description: ""
 third_nav_title: Fuhua News
 ---
+#### Outdoor Adventure Camp (6 to 9 March 2023)
+
+Click [here](https://drive.google.com/drive/folders/1TW1UEAepRkn-KopwBVw0TtqKIEpQ6lsO?usp=share_link) to browse photographs of this memorable event! 
