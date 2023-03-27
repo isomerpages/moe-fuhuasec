@@ -11,13 +11,13 @@ description: ""
 
 |   | Eligible for Junior College | Eligible for Polytechnic | Eligible for Pre-University |
 |:---:|:---:|:---:|---|
-| 2021 | 91.8% | 100% | 97.5% |
+| 2022 | 92.8% | 99.3% | 98% |
 
 **Secondary 5 Normal Academic**
 
 |   | Eligible for Junior College | Eligible for Polytechnic | Eligible for Pre-University |
 |:---:|:---:|:---:|---|
-| 2021 | 37.5% | 93.8% | 50% |
+| 2022 | 26.3% | 94.7% | 42.1% |
 
 ##### Eligibility for Post-Secondary Education: GCE N-Level Candidates
 
