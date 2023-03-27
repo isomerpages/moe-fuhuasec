@@ -101,15 +101,9 @@ Starting 2018, we offer Subject-Based Banding (SBB) for the Normal (Academic) an
 
 All Fuhuanites are expected to report to school by **7.25am** on all days of the week except for Thursday. On Thursdays, Fuhuanites can report to school by **8.15am**. 
 
-  
-
 Depending on the timetable, formal curriculum ends between 12.30 pm and 2.00 pm for Secondary 1 and 12.30 pm and 2.30 pm for Secondary 2. For the upper secondary levels, formal curriculum time ends between 12.30 pm and 3.30 pm.
 
-  
-
 Mondays, Wednesdays and Fridays are CCA days. Please click **[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-partners/School-Advisory-Committee/school-based-scholarships-and-awards/)** for more information on the specific CCAs. Talent development, supplementary and remediation lessons can be conducted after formal curriculum time on Tuesdays and Thursdays. 
-
-  
 
 Other enrichment programmes (e.g. local and overseas learning journeys, excursions to Institutes of Higher Learning, etc.) may take place after formal curriculum hours. 
 
@@ -117,29 +111,19 @@ Other enrichment programmes (e.g. local and overseas learning journeys, excursio
 
 **C. School Materials and Resources**
 
-  
-
 **13\. What are the books and stationery needed?**
 
 Booklists for the various levels and courses are issued to current students at the end of Term 4 for the next year. 
-
-  
 
 **14\. Where can I purchase the formal school uniform and sports attire?**
 
 The formal school uniform and sports attire are for sale at the school bookshop. Additional counters are also set up during Secondary 1 Registration and the period of Secondary 1 Orientation to facilitate the purchase of uniforms by the new students. 
 
-  
-
 The supplier of the formal school uniform and sports attire is My Uniform Shop, 209 New Upper Changi Road #03-651 Singapore 460209. The supplier can also be reached at +65 6276 6689.
-
-  
 
 **15\. How can I log on to the Parents Portal on AsknLearn?**
 
 On https://lms.asknlearn.com/FHSS/login.aspx, click on ‘Login as Parents’. The User ID is the student’s birth certificate number. The default password is parents. If parents encounter any issues, please call the AsknLearn helpdesk at +65 6777 9661 from Mondays to Fridays, 7.30 am to 9.00 pm.
-
-  
 
 **D. School Admission**
 
@@ -157,12 +141,8 @@ On https://lms.asknlearn.com/FHSS/login.aspx, click on ‘Login as Parents’. 
 
 The ranges of the 2023 Secondary 1 cohort, by courses, are as follows:  
 
-  
-
-Express: 5 - 14
-
-Normal Academic: 21 - 23
-
+Express: 5 - 14 <br>
+Normal Academic: 21 - 23<br>
 Normal Technical: 25 - 28
 
   
@@ -173,25 +153,15 @@ Normal Technical: 25 - 28
 
 We are a government school and charge Singapore citizen students a monthly school fee, a monthly standard miscellaneous fee and a monthly second-tier miscellaneous fee. The monthly second-tier miscellaneous fee is S$10. Students can use their Edusave Account to pay for the second-tier miscellaneous fee.   
 
-  
-
 For Permanent Residents and International Students, a monthly school fee and a monthly miscellaneous fee is charged. 
 
-  
-
 Please click **[here](https://www.moe.gov.sg/financial-matters/fees)** for more information.
-
-  
 
 **19\. What are the financial assistance schemes available?**
 
 The Ministry of Education (MOE) provides financial assistance to needy Singapore citizen students in Government, Government-aided schools and Institutes of Higher Learning through the MOE Financial Assistance Scheme (FAS). This is to allow all Singaporeans, regardless of their financial background, to benefit from the best opportunities in education. Please click **[here](https://www.moe.gov.sg/financial-matters/financial-assistance)** for more information.
 
-  
-
 For students who are not eligible for the MOE FAS but require financial assistance, the school provides financial assistance to needy Singapore citizen students, so that all Singaporean students can receive additional support to benefit from the opportunities in school. Please click **[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-partners/School-Advisory-Committee/school-based-scholarships-and-awards/)** for more information. 
-
-  
 
 **20\. What the scholarships and awards available?**
 
@@ -212,7 +182,5 @@ Edusave Awards are given by the government annually to Singaporean students to e
 *   Edusave Good Progress Award
 
 Please click **[here](https://www.moe.gov.sg/financial-matters/awards-scholarships)** for more information.
-
   
-
 Our School Advisory Committee (SAC) also gives out scholarships and awards to students annually, to recognise students who are all-round performers, have demonstrated significant improvement in the area of academic studies or have performed well despite financial difficulties. Please click **[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-partners/School-Advisory-Committee/school-based-scholarships-and-awards/)** for more information.
