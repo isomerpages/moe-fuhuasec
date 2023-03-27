@@ -37,4 +37,12 @@ sections:
       alt: Image alt text
       url: /our-school/fuhua-news/cny23
       image: /images/SLs.jpg
+  - infopic:
+      title: 2023 Mother Tongue Fortnight
+      subtitle: FUHUA NEWS
+      description: Appreciating Language & Culture through Authentic Learning Experiences!
+      button: FIND OUT MORE
+      url: /our-school/fuhua-news/mtlfortnight23/
+      image: /images/Picture1.jpg
+      alt: Image alt text
 ---
