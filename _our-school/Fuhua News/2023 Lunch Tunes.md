@@ -10,4 +10,4 @@ Lunch Tunes was organised by the Aesthetics Development Committee on 27 February
 
 ![](/images/IMG_0320.jpeg)
 
-Click [here](https://drive.google.com/file/d/1iqqqzh3CibbPeMnAt-NkCfghDSu78Tfp/view?usp=sharing) to watch highlights of the event! 
+Click [here](https://drive.google.com/file/d/1iqqqzh3CibbPeMnAt-NkCfghDSu78Tfp/view?usp=sharing) to watch highlights of the event!
