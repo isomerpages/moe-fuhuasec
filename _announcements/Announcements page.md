@@ -3,8 +3,6 @@ title: Announcements page
 permalink: /announcements/overview/
 description: ""
 ---
-
-
 [**Uninstalling DMA from Sec 4 Students' PLDs**](https://sites.google.com/moe.edu.sg/ndlp-pld-portal/dma-and-cyber-wellness/dma-uninstallation-for-sec-4-students-plds-in-2022)
 
 Dear Sec 4 students, please get prepared for the uninstallation of the DMA from your PLD. Click here and follow the steps.
@@ -30,6 +28,3 @@ Dear Parents / Guardians,
 Please click here to access the FAQs regarding PLD Initiative.
 
 * * *
-
-[**2023 Secondary 5 Name List**](/files/s5class.pdf)
-
