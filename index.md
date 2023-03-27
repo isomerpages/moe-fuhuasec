@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Fuhua Secondary School
-description: Brief site description here
+description: " "
 image: /images/fuhua-logo.png
 permalink: /
 notification: ""
@@ -46,3 +46,4 @@ sections:
       url: /our-school/fuhua-news/cny23
       image: /images/SLs.jpg
 ---
+
