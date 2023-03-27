@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Isomer Header Gif.gif
       key_highlights:
-        - title: Announcements
+        - title: CLICK HERE FOR OUR LATEST ANNOUNCEMENTS!
           description: ""
           url: /announcements/overview/
   - infopic:
