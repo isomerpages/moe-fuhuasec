@@ -4,7 +4,6 @@ permalink: /faq/
 ---
 ### Frequently-Asked Questions
 
-  
 
 **A. School Information**
 
@@ -12,32 +11,25 @@ permalink: /faq/
 
 We are located at 5 Jurong West Street 41, Singapore 649410.
 
-  
-
 **2\. How can I contact the school?**
 
 We can be reached at +65 6563 3067 during the school’s operating hours. You can also email us at fhss@moe.edu.sg 
-
-  
 
 **3\. How can I travel to the school by public transport?**
 
 We are located within a 15-minute walk from Chinese Garden and Lakeside MRT stations. You can also take bus services 49 or 335 and drop off along Jurong West Street 41. Bus services 98, 98M, 99, 157, 185, 187, 198, 334, 502, 542 and 657 will drop you off along Jurong West Ave 1. Bus service 180 will drop you off along Boon Lay Way. It is a 3 to 7-minute walk to the school from these bus stops. 
 
-  
 
 **4\. What are the operating hours?**
 
 We operate from 7.30 am to 6.30 pm on school days and from 8.30 am to 5.30 pm during the school holidays. We do not operate on public holidays. 
-
   
 
 **5\. What are the school terms?**
 
-There are four terms in an academic year. In 2022, Term 1 runs from 4 January to 11 March; Term 2 from 21 March to 27 May; Term 3 from 27 June to 2 September; and Term 4 from 12 September to 18 November. The last full school day of Term 4 is 28 October as the school is one of the venues for the GCE O-Level written examinations. 
+There are four terms in an academic year. In 2023, Term 1 runs from 3 January to 10 March; Term 2 from 20 March to 26 May; Term 3 from 26 June to 1 September; and Term 4 from 11 September to 17 November. The last full school day of Term 4 is 27 October as the school is one of the venues for the GCE O-Level written examinations. 
 
-  
-
+ 
 **B. School Programmes**
 
 **6\. What are the distinctive programmes?**
@@ -95,9 +87,9 @@ Please see the table below for the academic subjects offered, by levels and cour
 |   | Normal (Academic)  | English Language, Mother Tongue Language1, Combined Humanities (Social Studies with Electives – Geography or History), Art, Elementary Mathematics, Combined Science (Chemistry and Physics), Additional Mathematics, Design and Technology, and Food and Nutrition, Principles of Accounts |
 |   | Normal (Technical)  | English Language, Mother Tongue Language1, Social Studies, Elements of Business Skills, Mathematics, Science, Computer Applications, Design and Technology, and Food Studies |
 
-1Some Mother Tongue Languages may be offered at external centres 
+1 Some Mother Tongue Languages may be offered at external centres 
 
-2Some Higher Mother Tongue Languages may be offered at external centres
+2 Some Higher Mother Tongue Languages may be offered at external centres
 
   
 
@@ -163,15 +155,15 @@ On https://lms.asknlearn.com/FHSS/login.aspx, click on ‘Login as Parents’. 
 
 **17\. What is the Primary School Leaving Examination (PSLE) aggregate range of students admitted?**
 
-The ranges of the 2022 Secondary 1 cohort, by courses, are as follows:  
+The ranges of the 2023 Secondary 1 cohort, by courses, are as follows:  
 
   
 
-Express: 7 - 13
+Express: 5 - 14
 
 Normal Academic: 21 - 23
 
-Normal Technical: 25 - 27
+Normal Technical: 25 - 28
 
   
 
