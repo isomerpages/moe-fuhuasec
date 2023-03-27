@@ -15,9 +15,11 @@ sections:
   - infopic:
       title: 2023 Chinese New Year Celebrations
       subtitle: FUHUA NEWS
-      description: Infopic description
-      button: Button Text
+      description: "Hopping into the Year of the Rabbit! "
+      button: FIND OUT MORE
       alt: Image alt text
+      url: /our-school/fuhua-news/cny23
+      image: /images/SLs.jpg
   - infopic:
       title: 2023 Mother Tongue Fortnight
       subtitle: FUHUA STORIES
