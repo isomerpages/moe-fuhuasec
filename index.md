@@ -21,14 +21,12 @@ sections:
       url: /our-school/fuhua-news/lunchtunes23/
       image: /images/IMG_0320.jpeg
   - infopic:
-      title: 2023 Secondary 1 Adventure Camp
-      subtitle: Fuhua News
-      description: Our Secondary 1 students ended Term 1 with an Outdoor Adventure
-        Camp from 6th to 9th March.
+      title: OUR STORIES
+      subtitle: Fuhua Secondary School
+      description: Keep up with what's happening in Fuhua!
       button: FIND OUT MORE
       url: /our-school/Fuhua-news/s1advcamp23/
       image: /images/IMG_1802.jpeg
-      alt: Image alt text
   - infopic:
       title: 2023 Mother Tongue Fortnight
       subtitle: FUHUA NEWS
@@ -46,4 +44,3 @@ sections:
       url: /our-school/fuhua-news/cny23
       image: /images/SLs.jpg
 ---
-
