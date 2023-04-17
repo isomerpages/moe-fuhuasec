@@ -15,7 +15,7 @@ sections:
   - infobar:
       title: FUHUA NEWS
       subtitle: OUR Stories
-      description: Find out what's happening in Fuhua!
+      description: Find out what OUR Fuhuanites have been up to!
       button: CLICK HERE
       url: https://staging.d2jrpotv8emy04.amplifyapp.com/our-school/fuhua-news/
 ---
