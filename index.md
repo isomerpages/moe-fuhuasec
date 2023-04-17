@@ -16,7 +16,7 @@ sections:
       title: Fuhua News
       subtitle: OUR Stories
       button: CLICK HERE
-      url: /fuhuanews
+      url: /fuhuanews/
   - infobar:
       title: Schemes of Assessment
       subtitle: QUICK LINK
