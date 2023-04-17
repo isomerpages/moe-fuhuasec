@@ -22,4 +22,9 @@ sections:
       subtitle: QUICK LINK
       button: Click here
       url: https://staging.d2jrpotv8emy04.amplifyapp.com/announcements/2023-scheme-of-assessments/
+  - infobar:
+      title: 2023 STUDENT HANDBOOK
+      subtitle: QUICK LINK
+      button: CLICK HERE
+      url: https://sites.google.com/fhss.edu.sg/2023studenthandbook/home
 ---
