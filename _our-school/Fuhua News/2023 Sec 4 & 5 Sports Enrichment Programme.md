@@ -12,4 +12,6 @@ The students were feeling excited as they reported to the hall in the morning in
 
 For archery, the students were taught basic archery techniques and they had to strategise with their teammates against other groups.  For bowling, the students travelled to Singapore Poly Graduate Guild to learn basic bowling skills. For fencing, the students were taught how to spar using foam swords and they had a competition. For rollerblading, the students learnt how to skate around obstacles and even skating backwards. For rock climbing, the students travelled to Ground Up, a climbing gym and enjoyed a session of rock climbing and bouldering.
 
-Click [here](https://drive.google.com/drive/folders/1g7ZwHQ7tjI1H7AuoCSL_9wvP5GDZ_xxO?usp=sharing) to view photos and videos of the event!
+![](/images/fencing.JPG)
+
+Click [here](https://drive.google.com/drive/folders/1g7ZwHQ7tjI1H7AuoCSL_9wvP5GDZ_xxO?usp=sharing) to view more photos and videos of the event!
