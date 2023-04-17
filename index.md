@@ -16,7 +16,7 @@ sections:
       title: Fuhua News
       subtitle: OUR Stories
       button: CLICK HERE
-      url: https://staging.d2jrpotv8emy04.amplifyapp.com/our-school/fuhua-news/
+      url: /fuhuanews
   - infobar:
       title: Schemes of Assessment
       subtitle: QUICK LINK
