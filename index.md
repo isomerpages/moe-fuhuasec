@@ -27,4 +27,9 @@ sections:
       subtitle: QUICK LINK
       button: CLICK HERE
       url: https://sites.google.com/fhss.edu.sg/2023studenthandbook/home
+  - infobar:
+      title: Fuhua Annual
+      subtitle: Quick Link
+      button: CLICK HERE
+      url: /fhssannual/
 ---
