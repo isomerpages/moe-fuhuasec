@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Success Stories.md
-      - Progression Statistics.md
