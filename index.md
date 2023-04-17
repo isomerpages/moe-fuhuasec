@@ -15,7 +15,11 @@ sections:
   - infobar:
       title: FUHUA NEWS
       subtitle: OUR Stories
-      description: Find out what OUR Fuhuanites have been up to!
       button: CLICK HERE
       url: https://staging.d2jrpotv8emy04.amplifyapp.com/our-school/fuhua-news/
+  - infobar:
+      title: Schemes of Assessment
+      subtitle: QUICK LINK
+      button: Click here
+      url: https://staging.d2jrpotv8emy04.amplifyapp.com/announcements/2023-scheme-of-assessments/
 ---
