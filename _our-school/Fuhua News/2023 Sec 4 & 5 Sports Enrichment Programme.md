@@ -4,7 +4,7 @@ permalink: /our-school/fuhua-news/sep/
 description: ""
 third_nav_title: Fuhua News
 ---
-#### Enriching OUR Sporting Experience
+#### Enriching OUR Fuhuanites' Sporting Experience
 
 On 9th March, the Sec 4 and 5 students attended the Sec 4 and 5 Sports Enrichment Programme (SEP) organised by Fuhua's PE Department. SEP was introduced by the PE department to allow students to experience a sport which they may not have the opportunity to learn during PE lessons to develop their interest and enrich their sporting experience.
 
