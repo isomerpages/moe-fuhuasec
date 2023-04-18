@@ -1,32 +1,30 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Fuhua Secondary School
+description: " "
+image: /images/fuhua-logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Isomer Header Gif.gif
+      key_highlights:
+        - title: CLICK HERE FOR OUR LATEST ANNOUNCEMENTS!
+          description: ""
+          url: /announcements/overview/
+  - infobar:
+      title: Fuhua News
+      subtitle: OUR Stories
+      button: LEARN MORE
+      url: /fuhuanews/
+  - infobar:
+      title: Schemes of Assessment
+      subtitle: QUICK LINK
+      button: LEARN MORE
+      url: https://staging.d2jrpotv8emy04.amplifyapp.com/announcements/2023-scheme-of-assessments/
+  - infobar:
+      title: Fuhua Annual
+      subtitle: Quick Link
+      button: LEARN MORE
+      url: /fhssannual/
 ---
-

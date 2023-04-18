@@ -1,0 +1,6 @@
+collections:
+  school-advisory-committee:
+    output: true
+    order:
+      - Overview.md
+      - School–based Scholarships and Awards.md

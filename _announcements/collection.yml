@@ -1,0 +1,14 @@
+collections:
+  announcements:
+    output: true
+    order:
+      - Announcements page.md
+      - 2023 Scheme of Assessments.md
+      - COVID–19 Vaccination Exercise for Students in Schools and Institutes of
+        Higher Learning.md
+      - Edusave Awards for Secondary Schools.md
+      - Full Home Based Learning Information Page.md
+      - Navigating the Student Learning Space (SLS).md
+      - DSA through ALP in Forensic Science.md
+      - "DSA through Performing Arts: Chinese Orchestra and Concert Band.md"
+      - "DSA through Sports: Badminton and Shooting.md"

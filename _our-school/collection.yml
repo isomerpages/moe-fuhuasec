@@ -1,0 +1,18 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Philosophy.md
+      - School Crest.md
+      - School Song.md
+      - Fuhua News/.keep
+      - Fuhua News/2023 Chinese New Year Celebrations.md
+      - Fuhua News/2023 Mother Tongue Fortnight.md
+      - Fuhua News/2023 Pesta Pantun.md
+      - Fuhua News/2023 Golden Bee Challenge.md
+      - Fuhua News/2023 Secondary 1 Adventure Camp.md
+      - Fuhua News/2023 Lunch Tunes.md
+      - Fuhua News/2023 Sec 4 & 5 Sports Enrichment Programme.md
+      - Frequently Asked Questions.md
+      - Personal Data Protection Policy.md

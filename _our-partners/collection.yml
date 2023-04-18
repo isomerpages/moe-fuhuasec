@@ -1,0 +1,12 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - School Advisory Committee/Overview.md
+      - School Advisory Committee/School–based Scholarships and Awards.md
+      - School Advisory Committee/.keep
+      - Parent Support Group/Vision, Mission & Objectives.md
+      - Parent Support Group/Events.md
+      - Parent Support Group/Office Holders.md
+      - Parent Support Group/.keep
+      - Alumni.md

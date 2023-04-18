@@ -1,0 +1,9 @@
+collections:
+  our-family:
+    output: true
+    order:
+      - School Management Committee.md
+      - Executive, Administration and ICT Staff.md
+      - Teaching Staff.md
+      - CCA Teachers–in–charge.md
+      - Student Well–Being Support.md

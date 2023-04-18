@@ -1,0 +1,30 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Clubs and Societies/Overview.md
+      - Clubs and Societies/English Language, Drama & Debating.md
+      - Clubs and Societies/Environment Club.md
+      - Clubs and Societies/Infocomm Club.md
+      - Clubs and Societies/Robotics Club.md
+      - Clubs and Societies/.keep
+      - Visual and Performing Arts/Overview.md
+      - Visual and Performing Arts/Art Club.md
+      - Visual and Performing Arts/Chinese Dance and Wushu.md
+      - Visual and Performing Arts/Chinese Orchestra.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Concert Band.md
+      - Visual and Performing Arts/Malay Culture and Language.md
+      - Visual and Performing Arts/.keep
+      - Physical Sports/Overview.md
+      - Physical Sports/Badminton.md
+      - Physical Sports/Shooting.md
+      - Physical Sports/Table Tennis.md
+      - Physical Sports/Tchoukball.md
+      - Physical Sports/.keep
+      - Uniformed Groups/Overview.md
+      - Uniformed Groups/National Cadet Corps (Land).md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Uniformed Groups/Red Cross Youth.md
+      - Uniformed Groups/Sea Scouts.md
+      - Uniformed Groups/.keep
