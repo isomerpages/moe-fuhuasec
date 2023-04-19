@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Direct School Admission/DSA through ALP in Forensic Science.md
       - Direct School Admission/.keep
       - Announcements page.md
       - 2023 Scheme of Assessments.md
