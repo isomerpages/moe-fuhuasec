@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Direct School Admission/.keep
       - Announcements page.md
       - 2023 Scheme of Assessments.md
       - COVID–19 Vaccination Exercise for Students in Schools and Institutes of
