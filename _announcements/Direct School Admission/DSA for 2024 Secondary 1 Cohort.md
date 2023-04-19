@@ -14,8 +14,8 @@ Students who are successfully admitted to the school via DSA are expected to hon
 ###### DSA at Fuhua Secondary School
 The school is inviting applications for DSA in the following areas: 
 
-1. DSA through the school's **Applied Sciences - Forensic Science**
+1. DSA through the school's [Applied Sciences - Forensic Science](/announcements/dsa-through-alp/)
 2. DSA through [Sports: Badminton, Shooting and Tchoukball](/announcements/dsa-through-sports/)
-3. DSA through **Performing Arts: Choir, Concert Band and Chinese Orchestra**
+3. DSA through [Performing Arts: Choir, Concert Band and Chinese Orchestra](/announcements/dsa-through-performing-arts/)
 
 The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.
