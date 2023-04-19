@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Direct School Admission/DSA for 2024 Secondary 1 Cohort.md
       - "Direct School Admission/DSA through Sports: Badminton and Shooting.md"
       - "Direct School Admission/DSA through Performing Arts: Chinese Orchestra
         and Concert Band.md"
