@@ -15,6 +15,9 @@ sections:
         - title: QUICKLINKS
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-links/
+        - title: FUHUA NEWS
+          description: ""
+          url: https://www.fuhuasec.moe.edu.sg/our-school/fuhua-news/cny23/
   - infobar:
       title: Fuhua News
       subtitle: OUR Stories
