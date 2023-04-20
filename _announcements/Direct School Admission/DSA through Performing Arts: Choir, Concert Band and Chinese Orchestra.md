@@ -50,7 +50,3 @@ Shortlisted applicants will be assessed on both their demonstrated and potential
 
 *   Shortlisted applicants will be required to play a piece of his/her choice.
 *   He/she will also be given a piece of music to sight-read during the interview.
-
-  
-
-**Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer.**

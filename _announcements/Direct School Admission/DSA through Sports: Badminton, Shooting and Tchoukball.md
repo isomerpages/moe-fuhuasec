@@ -17,11 +17,11 @@ The school is looking for Primary 6 students with the following qualities: 
 *   Demonstrated leadership in primary school as a Prefect, Class Monitor, and/or CCA leader etc.
 *   Have exhibited integrity, keen interest and commitment to serve and lead in their CCA in primary school. 
 
-3.  **Character**
+2.  **Character**
 
 *   Conduct Grade of 'Good' or better in Primary 5 and 6. 
 
-5.  **Participation in Sports**
+3.  **Participation in Sports**
 
 *   Demonstrate strong interest and talent in sports beyond the abilities of students in the same age group and/or have a history of accomplished performance at the national and/or international level.
 
