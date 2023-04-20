@@ -9,9 +9,12 @@ sections:
   - hero:
       background: /images/Isomer Header Gif.gif
       key_highlights:
-        - title: CLICK HERE FOR OUR LATEST ANNOUNCEMENTS!
+        - title: ANNOUNCEMENTS
           description: ""
           url: /announcements/overview/
+        - title: QUICKLINKS
+          description: ""
+          url: https://www.fuhuasec.moe.edu.sg/our-links/
   - infobar:
       title: Fuhua News
       subtitle: OUR Stories
