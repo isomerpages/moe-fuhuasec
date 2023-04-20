@@ -2,6 +2,7 @@
 title: DSA through ALP in Forensic Science
 permalink: /announcements/dsa-through-alp/
 description: ""
+third_nav_title: Direct School Admission
 ---
 ### DSA through ALP in Forensic Science 
 

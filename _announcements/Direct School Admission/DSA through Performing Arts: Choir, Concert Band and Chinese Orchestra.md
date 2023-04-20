@@ -1,7 +1,8 @@
 ---
-title: "DSA through Performing Arts: Chinese Orchestra and Concert Band"
+title: "DSA through Performing Arts: Choir, Concert Band and Chinese Orchestra"
 permalink: /announcements/dsa-through-performing-arts/
 description: ""
+third_nav_title: Direct School Admission
 ---
 [Home](https://fuhuasec.moe.edu.sg/) \> Life@Fuhua > Announcements > DSA through Performing Arts: Chinese Orchestra and Concert Band
 
