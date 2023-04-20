@@ -9,22 +9,21 @@ sections:
   - hero:
       background: /images/Isomer Header Gif.gif
       key_highlights:
-        - title: CLICK HERE FOR OUR LATEST ANNOUNCEMENTS!
+        - title: ANNOUNCEMENTS
           description: ""
           url: /announcements/overview/
-  - infobar:
-      title: Fuhua News
-      subtitle: OUR Stories
-      button: LEARN MORE
-      url: /fuhuanews/
+        - title: FUHUA NEWS
+          description: ""
+          url: https://www.fuhuasec.moe.edu.sg/our-school/fuhua-news/cny23/
+        - title: QUICK LINKS
+          description: ""
+          url: https://www.fuhuasec.moe.edu.sg/our-links/
   - infobar:
       title: Schemes of Assessment
-      subtitle: QUICK LINK
       button: LEARN MORE
       url: https://staging.d2jrpotv8emy04.amplifyapp.com/announcements/2023-scheme-of-assessments/
   - infobar:
       title: Fuhua Annual
-      subtitle: Quick Link
       button: LEARN MORE
       url: /fhssannual/
 ---
