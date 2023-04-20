@@ -12,12 +12,12 @@ sections:
         - title: ANNOUNCEMENTS
           description: ""
           url: /announcements/overview/
-        - title: QUICKLINKS
-          description: ""
-          url: https://www.fuhuasec.moe.edu.sg/our-links/
         - title: FUHUA NEWS
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-school/fuhua-news/cny23/
+        - title: QUICKLINKS
+          description: ""
+          url: https://www.fuhuasec.moe.edu.sg/our-links/
   - infobar:
       title: Fuhua News
       subtitle: OUR Stories
