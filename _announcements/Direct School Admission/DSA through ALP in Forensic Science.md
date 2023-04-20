@@ -38,6 +38,3 @@ The Fuhua DSA-Sec Exercise focussing on the ALP seeks to admit students who poss
   
 
 Shortlisted applicants will be assessed on both their demonstrated and potential abilities and qualities, through interviews and performance tasks. 
-
-  
-**Please note that meeting all the criteria does not guarantee the student will be shortlisted/ given an offer.**
