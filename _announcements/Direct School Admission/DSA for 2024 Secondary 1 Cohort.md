@@ -14,7 +14,7 @@ The school is inviting applications for DSA in the following areas:
 2. DSA through [Sports: Badminton, Shooting and Tchoukball](/announcements/dsa-through-sports/)
 3. DSA through [Performing Arts: Choir, Concert Band and Chinese Orchestra](/announcements/dsa-through-performing-arts/)
 
-The selection process and timeline for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.
+For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.
 
 For clarifications on the DSA Exercise, the school can be contacted via the following channels: 
 
