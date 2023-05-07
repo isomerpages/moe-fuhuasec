@@ -129,13 +129,12 @@ On&nbsp;https://lms.asknlearn.com/FHSS/login.aspx, click on â€˜Login as Parentsâ
 
 **16\. What are the Direct School Admission-Secondary (DSA-Sec) areas?**&nbsp;
 
-1\. DSA through&nbsp;**Applied Learning Programme in Forensic Science**&nbsp;(STEM ALP)  
-2\. DSA through&nbsp;**Sports**&nbsp;(Badminton, Shooting and Tchoukball)  
-3\. DSA through&nbsp;**Performing Arts**&nbsp;(Choir, Concert Band and Chinese Orchestra)  
+1\.  DSA through [Applied Learning Programme in Forensic Science](/announcements/dsa-through-alp/) (STEM ALP) <br><br>
+2\. DSA through [Sports](/announcements/dsa-through-sports/) (Badminton, Shooting and Tchoukball) <br> <br>
+3\. DSA through [Performing Arts](/announcements/dsa-through-performing-arts/) (Choir, Concert Band and Chinese Orchestra)  
 
-**Please note that the DSA-Sec Exercise for the Secondary 1 2023 intake will begin in early May.**&nbsp;&nbsp;  
+**Please refer to our [DSA Announcement](/announcements/direct-school-admission/dsa2024/) for more details.**
 
-  
 
 **17\. What is the Primary School Leaving Examination (PSLE) aggregate range of students admitted?**
 
