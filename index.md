@@ -26,4 +26,9 @@ sections:
       title: Fuhua Annual
       button: LEARN MORE
       url: /fhssannual/
+  - infobar:
+      title: Direct School Admission Exercise
+      subtitle: For Secondary 1 (2024)
+      button: LEARN MORE
+      url: /announcements/direct-school-admission/dsa2024/
 ---
