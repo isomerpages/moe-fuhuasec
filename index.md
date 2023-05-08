@@ -19,6 +19,11 @@ sections:
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-links/
   - infobar:
+      title: Direct School Admission Exercise
+      subtitle: For Secondary 1 (2024)
+      button: LEARN MORE
+      url: /announcements/direct-school-admission/dsa2024/
+  - infobar:
       title: Schemes of Assessment
       button: LEARN MORE
       url: https://staging.d2jrpotv8emy04.amplifyapp.com/announcements/2023-scheme-of-assessments/
@@ -26,9 +31,4 @@ sections:
       title: Fuhua Annual
       button: LEARN MORE
       url: /fhssannual/
-  - infobar:
-      title: Direct School Admission Exercise
-      subtitle: For Secondary 1 (2024)
-      button: LEARN MORE
-      url: /announcements/direct-school-admission/dsa2024/
 ---
