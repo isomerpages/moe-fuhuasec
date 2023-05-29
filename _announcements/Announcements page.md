@@ -3,6 +3,12 @@ title: Announcements page
 permalink: /announcements/overview/
 description: ""
 ---
+**2023 Parent Engagement Session Resources** <br>
+Secondary 1
+<br> Secondary 2
+<br> Secondary 3 
+<br> Secondary 4 &amp; 5
+
 [**Uninstalling DMA from Sec 4 Students' PLDs**](https://sites.google.com/moe.edu.sg/ndlp-pld-portal/dma-and-cyber-wellness/dma-uninstallation-for-sec-4-students-plds-in-2022)
 
 Dear Sec 4 students, please get prepared for the uninstallation of the DMA from your PLD. Click here and follow the steps.
