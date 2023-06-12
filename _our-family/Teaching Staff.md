@@ -14,7 +14,7 @@ Mrs Portia Sim / Assistant Year Head (Lower Sec) (tan_poh_hong@schools.gov.sg)
 | 1R2 | Mr Ismail Bin Ja'afar<br>Miss Tse Hal Ye Cherie | ismail_b_jaafar@schools.gov.sg<br>tse_hal_ye_cherie@schools.gov.sg |
 | 1R3 | Mdm Lai Hung Lan<br>Mr Low Ying Hong, Theodore | lai_hung_lan@schools.gov.sg<br>low_ying_hongtheodore@schools.gov.sg |
 | 1R4 | Mr Yeo Kai Xiang<br>Ms Kok Han Ni | yeo_kai_xiang@schools.gov.sg<br>kok_han_ni@schools.gov.sg |
-| 1R5 | Mdm Teo Chek Gin<br>Miss Li Zhu | teo_chek_gin@schools.gov.sg<br>li_zhu@schools.gov.sg |
+| 1R5 | Mdm Teo Chek Gin<br> | teo_chek_gin@schools.gov.sg<br> |
 | 1R6 | Miss Nurhuda bte Pardi<br>Mr Tan Gek Guang | nurhuda_pardi@schools.gov.sg<br>tan_gek_guang@schools.gov.sg |
 | 1R7 | Mr Tan Yong Qiao Elton<br>Ms Yu Ying | tan_yong_qiao_elton@schools.gov.sg<br>yu_ying@schools.gov.sg |
 |  |  |  |
