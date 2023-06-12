@@ -17,19 +17,20 @@ You may access the relevant SOA via the links below.
 [2023 FHSS Sec 1 NT SOA](/files/2023%20SOA/2023%20FHSS%20Sec%201NT%20SOA.pdf)
 
 [2023 FHSS Sec 2 EXP SOA](/files/2023%20SOA/2023%20FHSS%20Sec%202Exp%20SOA.pdf)<br>
-[2023 FHSS Sec 2 NA SOA](/files/2023%20SOA/2023%20FHSS%20Sec%202NA%20SOA.pdf)<br>
+[2023 FHSS Sec 2 NA SOA](/files/2023%20SOA/2023%20fhss%20sec%202na%20soa_6june23.pdf)<br>
 [2023 FHSS Sec 2 NT SOA](/files/2023%20SOA/2023%20FHSS%20Sec%202NT%20SOA.pdf)
 
-[2023 FHSS Sec 3 Exp SOA](/files/2023%20SOA/2023%20FHSS%20Sec%203Exp%20SOA.pdf)<br>
-[2023 FHSS Sec 3 NA SOA](/files/2023%20SOA/2023%20FHSS%20Sec%203NA%20SOA.pdf)<br>
+[2023 FHSS Sec 3 Exp SOA](/files/2023%20SOA/2023%20fhss%20sec%203exp%20soa_6june23.pdf) <br>
+[2023 FHSS Sec 3 NA SOA](/files/2023%20SOA/2023%20fhss%20sec%203na%20soa_6june23.pdf)<br>
 [2023 FHSS Sec 3 NT SOA](/files/2023%20SOA/2023%20FHSS%20Sec%203NT%20SOA.pdf)<br>
 
-[2023 FHSS Sec 4 Exp SOA](/files/2023%20SOA/2023%20FHSS%20Sec%204Exp%20SOA.pdf)<br>
-[2023 FHSS Sec 4 NA SOA](/files/2023%20SOA/2023%20FHSS%20Sec%204NA%20SOA.pdf)<br>
+[2023 FHSS Sec 4 Exp SOA](/files/2023%20SOA/2023%20fhss%20sec%204exp%20soa_6june23.pdf) <br>
+[2023 FHSS Sec 4 NA SOA](/files/2023%20SOA/2023%20fhss%20sec%204na%20soa_6june23.pdf) <br>
 [2023 FHSS Sec 4 NT SOA](/files/2023%20SOA/2023%20fhss%20sec%204nt%20soa.pdf)
 
-[2023 FHSS Sec 5NA SOA](/files/2023%20SOA/2023%20FHSS%20Sec%205NA%20SOA.pdf)
+[2023 FHSS Sec 5NA SOA](/files/2023%20SOA/2023%20fhss%20sec%205na%20soa_6june23.pdf)
+
 
 Thank you!
 
-*Last Updated 20 April 2023*
+*Last Updated 13 June 2023*
