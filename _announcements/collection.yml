@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Announcements page.md
+      - School Administration/.keep
+      - School Administration/School Canteen Advertisement.md
       - Direct School Admission/.keep
       - Direct School Admission/DSA for 2024 Secondary 1 Cohort.md
       - Direct School Admission/DSA through ALP in Forensic Science.md

@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Fuhua Secondary School
-description: " "
+description: ""
 image: /images/fuhua-logo.png
 permalink: /
 notification: ""
@@ -19,10 +19,10 @@ sections:
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-links/
   - infobar:
-      title: Direct School Admission Exercise
-      subtitle: For Secondary 1 (2024)
+      title: School Canteen Advertisement
       button: LEARN MORE
-      url: /announcements/direct-school-admission/dsa2024/
+      url: /announcements/school-administration/canteen/
+      description: MUSLIM COOKED FOOD (RICE STALL)
   - infobar:
       title: Schemes of Assessment
       button: LEARN MORE

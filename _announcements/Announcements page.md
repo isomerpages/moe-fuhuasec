@@ -8,6 +8,8 @@ description: ""
 <br> [Secondary 2](https://drive.google.com/file/d/1lC5tO0wGM7-NeBZlCmV7wN5z3tkt52FB/view?usp=drive_link)
 <br> [Upper Secondary](https://drive.google.com/file/d/1YOuFeZo-U1EinOFUsXC6oVnwS3ODwgfb/view?usp=drive_link)
 
+***
+
 [**Uninstalling DMA from Sec 4 Students' PLDs**](https://sites.google.com/moe.edu.sg/ndlp-pld-portal/dma-and-cyber-wellness/dma-uninstallation-for-sec-4-students-plds-in-2022)
 
 Dear Sec 4 students, please get prepared for the uninstallation of the DMA from your PLD. Click here and follow the steps.
