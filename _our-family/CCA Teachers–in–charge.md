@@ -18,7 +18,7 @@ description: ""
 
 | CCA | Name | Email address |
 |---|---|---|
-| Badminton | Miss Huang Xiaojun (OIC)<br>Mr Smithy Methias (2IC) <br>Mr Foo Gui Zhong | huang_xiaojun@schools.gov.sg<br>smithy_methiasyusoef_adam@schools.gov.sg<br>foo_gui_zhong@schools.gov.sg |
+| Badminton | Miss Huang Xiaojun (OIC)<br>Mr Foo Gui Zhong | huang_xiaojun@schools.gov.sg<br>foo_gui_zhong@schools.gov.sg |
 | Shooting | Mr Yeo Kai Xiang (OIC)<br>Ms Grace Lee Ern<br>Mr Lim Jeremiah | yeo_kai_xiang@schools.gov.sg<br>grace_lee_ern@schools.gov.sg<br>lim_jeremiah_elijah_mario@schools.gov.sg |
 | Table Tennis | Mr Ng Khong Keong (OIC)<br>Ms Kok Han Ni<br>Mdm Jamaliah | ng_khong_keong@schools.gov.sg<br>kok_han_ni@schools.gov.sg<br>jamaliah_mohd_ramzan@schools.gov.sg |
 | Tchoukball | Mr Chew Mingzhi (OIC)<br>Ms Nur Hafizah (2IC) | chew_mingzhi@schools.gov.sg<br>nur_hafizah_ismail_a@schools.gov.sg |
@@ -37,8 +37,8 @@ description: ""
 | CCA | Name | Email address |
 |---|---|---|
 | Art | Miss Tay Zhi Hwei (OIC) <br>Miss Yew Ning | tay_zhi_hwei@schools.gov.sg<br>yew_ning@schools.gov.sg |
-| Concert Band | Mdm Lai Hung Lan (OIC)<br>Miss Li Zhu<br>Ms Yu Ying | lai_hung_lan@schools.gov.sg<br>li_zhu@schools.gov.sg<br>yu_ying@schools.gov.sg |
-| Chinese Dance<br>& Wushu | Miss Woo Wen Qi (OIC)<br>Miss Esther Diana Lim You Qi | wen_qi_woo@schools.gov.sg<br>esther_lim_you_qi@schools.gov.sg |
+| Concert Band | Mdm Lai Hung Lan (OIC)<br>Ms Yu Ying | lai_hung_lan@schools.gov.sg<br>yu_ying@schools.gov.sg |
+| Chinese Dance<br>&amp; Wushu | Miss Woo Wen Qi (OIC)<br>Miss Esther Diana Lim You Qi | wen_qi_woo@schools.gov.sg<br>esther_lim_you_qi@schools.gov.sg |
 | Chinese Orchestra | Ms Tan Tuan Ling (OIC)<br>Miss Lai Min Lee (2IC)<br>Ms Lim Ying Hui | tan_tuan_ling@schools.gov.sg<br>lai_min_lee@schools.gov.sg<br>lim_ying_hui@schools.gov.sg |
 | Choir | Ms Angeline Chua (OIC)<br>Ms Jasmine Lim (2IC)<br>Miss Tse Hal Ye Cherie | chua_wan_ching_angeline@schools.gov.sg<br>lim_jia_lin@schools.gov.sg<br>tse_hal_ye_cherie@schools.gov.sg |
 | Malay Cultural Society | Mr Ismail Bin Ja'afar (OIC)<br>Mdm Rohana Ismail | ismail_b_jaafar@schools.gov.sg<br>rohana_ismail@schools.gov.sg |
