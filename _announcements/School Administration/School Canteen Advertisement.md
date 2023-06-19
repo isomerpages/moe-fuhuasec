@@ -7,9 +7,9 @@ third_nav_title: School Administration
 #### School Canteen Advertisement
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Muslim Cooked Food    | 23 June 2023    | Rice Stall     |
+| Muslim Cooked Food | 23 June 2023 | Rice Stall | <br>
 
-**Application Procedure**
+<br> **Application Procedure**
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
