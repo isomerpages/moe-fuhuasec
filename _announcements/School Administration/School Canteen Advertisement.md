@@ -5,9 +5,11 @@ description: ""
 third_nav_title: School Administration
 ---
 #### School Canteen Advertisement
+
+
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Muslim Cooked Food | 23 June 2023 | Rice Stall | <br>
+| Muslim Cooked Food    | 23 June 2023     | Rice Stall     |
 
 <br> **Application Procedure**
 
