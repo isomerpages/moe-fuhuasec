@@ -31,7 +31,9 @@ sections:
       title: Fuhua Annual
       button: LEARN MORE
       url: /fhssannual/
-  - resources:
-      title: Semester 2 Timetables
-      button: Resources Button Name
+  - infobar:
+      title: Semester 2 Class Timetable
+      description: With effect from 26 June 2023
+      button: LEARN MORE
+      url: https://drive.google.com/file/d/1_xIwPL8J5nnhak0c9uz6ZFGGOhdeOm2-/view?usp=sharing
 ---
