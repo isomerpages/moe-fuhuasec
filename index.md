@@ -24,6 +24,11 @@ sections:
       url: /announcements/school-administration/canteen/
       description: MUSLIM COOKED FOOD (RICE STALL)
   - infobar:
+      title: Semester 2 Class Timetable
+      description: With effect from 26 June 2023
+      button: LEARN MORE
+      url: https://drive.google.com/file/d/1_xIwPL8J5nnhak0c9uz6ZFGGOhdeOm2-/view?usp=sharing
+  - infobar:
       title: Schemes of Assessment
       button: LEARN MORE
       url: https://staging.d2jrpotv8emy04.amplifyapp.com/announcements/2023-scheme-of-assessments/
@@ -32,8 +37,9 @@ sections:
       button: LEARN MORE
       url: /fhssannual/
   - infobar:
-      title: Semester 2 Class Timetable
-      description: With effect from 26 June 2023
+      title: Supplementary Lessons Schedule
+      subtitle: For Graduating Students
+      description: Term 3 [Weeks 1-5]
       button: LEARN MORE
-      url: https://drive.google.com/file/d/1_xIwPL8J5nnhak0c9uz6ZFGGOhdeOm2-/view?usp=sharing
+      url: https://drive.google.com/file/d/1rfGLO9a1o561Xect9V_OhOQsmdGkLdAl/view?usp=sharing
 ---
