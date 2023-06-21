@@ -31,4 +31,7 @@ sections:
       title: Fuhua Annual
       button: LEARN MORE
       url: /fhssannual/
+  - resources:
+      title: Semester 2 Timetables
+      button: Resources Button Name
 ---
