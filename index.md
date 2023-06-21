@@ -29,6 +29,12 @@ sections:
       button: LEARN MORE
       url: https://drive.google.com/file/d/1_xIwPL8J5nnhak0c9uz6ZFGGOhdeOm2-/view?usp=sharing
   - infobar:
+      title: Supplementary Lessons Schedule
+      subtitle: For Graduating Students
+      description: Term 3 [Weeks 1-5]
+      button: LEARN MORE
+      url: https://drive.google.com/file/d/1rfGLO9a1o561Xect9V_OhOQsmdGkLdAl/view?usp=sharing
+  - infobar:
       title: Schemes of Assessment
       button: LEARN MORE
       url: https://staging.d2jrpotv8emy04.amplifyapp.com/announcements/2023-scheme-of-assessments/
@@ -36,10 +42,4 @@ sections:
       title: Fuhua Annual
       button: LEARN MORE
       url: /fhssannual/
-  - infobar:
-      title: Supplementary Lessons Schedule
-      subtitle: For Graduating Students
-      description: Term 3 [Weeks 1-5]
-      button: LEARN MORE
-      url: https://drive.google.com/file/d/1rfGLO9a1o561Xect9V_OhOQsmdGkLdAl/view?usp=sharing
 ---
