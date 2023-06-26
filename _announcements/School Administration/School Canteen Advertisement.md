@@ -9,7 +9,7 @@ third_nav_title: School Administration
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Muslim Cooked Food    | 23 June 2023     | Rice Stall     |
+| Muslim Cooked Food    | 14 July 2023     | Rice Stall     |
 
 <br> **Application Procedure**
 
