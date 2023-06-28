@@ -37,7 +37,7 @@ description: ""
 | CCA | Name | Email address |
 |---|---|---|
 | Art | Miss Tay Zhi Hwei (OIC) <br>Miss Yew Ning | tay_zhi_hwei@schools.gov.sg<br>yew_ning@schools.gov.sg |
-| Concert Band | Mdm Lai Hung Lan (OIC)<br>Ms Yu Ying | lai_hung_lan@schools.gov.sg<br>yu_ying@schools.gov.sg |
+| Concert Band | Mdm Lai Hung Lan (OIC)<br>Ms Yu Ying<br>Miss Kelly Sng | lai_hung_lan@schools.gov.sg<br>yu_ying@schools.gov.sg<br>kelly_sng@schools.gov.sg |
 | Chinese Dance<br>&amp; Wushu | Miss Woo Wen Qi (OIC)<br>Miss Esther Diana Lim You Qi | wen_qi_woo@schools.gov.sg<br>esther_lim_you_qi@schools.gov.sg |
 | Chinese Orchestra | Ms Tan Tuan Ling (OIC)<br>Miss Lai Min Lee (2IC)<br>Ms Lim Ying Hui | tan_tuan_ling@schools.gov.sg<br>lai_min_lee@schools.gov.sg<br>lim_ying_hui@schools.gov.sg |
 | Choir | Ms Angeline Chua (OIC)<br>Ms Jasmine Lim (2IC)<br>Miss Tse Hal Ye Cherie | chua_wan_ching_angeline@schools.gov.sg<br>lim_jia_lin@schools.gov.sg<br>tse_hal_ye_cherie@schools.gov.sg |
