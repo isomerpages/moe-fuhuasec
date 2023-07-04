@@ -33,7 +33,7 @@ sections:
       subtitle: For Graduating Students
       description: Term 3 [Weeks 1-5]
       button: LEARN MORE
-      url: https://drive.google.com/file/d/1rfGLO9a1o561Xect9V_OhOQsmdGkLdAl/view?usp=sharing
+      url: https://drive.google.com/file/d/1Iooj9OAdi4Ei-_XAw94z9ROQpMEnj_Uh/view?usp=sharing
   - infobar:
       title: Schemes of Assessment
       button: LEARN MORE
