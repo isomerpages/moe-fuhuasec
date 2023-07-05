@@ -27,13 +27,13 @@ sections:
       title: Semester 2 Class Timetable
       description: With effect from 26 June 2023
       button: LEARN MORE
-      url: https://drive.google.com/file/d/1_xIwPL8J5nnhak0c9uz6ZFGGOhdeOm2-/view?usp=sharing
+      url: hthttps://drive.google.com/file/d/1F1TMPnpWUmpxHkk-cRxWw1zmr4G-ncUN/view?usp=sharing
   - infobar:
       title: Supplementary Lessons Schedule
       subtitle: For Graduating Students
       description: Term 3 [Weeks 1-5]
       button: LEARN MORE
-      url: https://drive.google.com/file/d/1rfGLO9a1o561Xect9V_OhOQsmdGkLdAl/view?usp=sharing
+      url: https://drive.google.com/file/d/1Iooj9OAdi4Ei-_XAw94z9ROQpMEnj_Uh/view?usp=sharing
   - infobar:
       title: Schemes of Assessment
       button: LEARN MORE
