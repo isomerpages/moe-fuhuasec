@@ -24,6 +24,11 @@ sections:
       url: /announcements/school-administration/canteen/
       description: MUSLIM COOKED FOOD (RICE STALL)
   - infobar:
+      title: Preliminary Examinations Timetable
+      subtitle: FOR GRADUATING STUDENTS
+      button: LEARN MORE
+      url: /announcements/overview/
+  - infobar:
       title: Semester 2 Class Timetable
       description: With effect from 26 June 2023
       button: LEARN MORE
@@ -42,9 +47,4 @@ sections:
       title: Fuhua Annual
       button: LEARN MORE
       url: /fhssannual/
-  - infobar:
-      title: Preliminary Examinations Timetable
-      subtitle: FOR GRADUATING STUDENTS
-      button: LEARN MORE
-      url: /announcements/overview/
 ---
