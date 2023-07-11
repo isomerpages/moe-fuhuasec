@@ -3,6 +3,14 @@ title: Announcements page
 permalink: /announcements/overview/
 description: ""
 ---
+**Secondary 4 &amp; 5 Preliminary Examinations Timetable**
+
+* Click [here](https://drive.google.com/file/d/1rhR1_UKTcJF5QgyQuzOh76-42sp5fC-2/view?usp=drive_link) for the 4E5N Timetable
+* Click [here](https://drive.google.com/file/d/1bnSQjjsdViebEJ2EaiBrADA9G4LCt9qo/view?usp=drive_link) for the 4NANT Timetable
+
+***
+
+
 **2023 Parent Engagement Session Resources** <br>
 [Secondary 1](https://drive.google.com/file/d/10oPm0oXFx8yrKZgHSQGLTsU5v45BhSZT/view?usp=drive_link)
 <br> [Secondary 2](https://drive.google.com/file/d/1lC5tO0wGM7-NeBZlCmV7wN5z3tkt52FB/view?usp=drive_link)
