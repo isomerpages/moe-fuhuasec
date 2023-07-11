@@ -42,4 +42,9 @@ sections:
       title: Fuhua Annual
       button: LEARN MORE
       url: /fhssannual/
+  - infobar:
+      title: Preliminary Examinations Timetable
+      subtitle: FOR GRADUATING STUDENTS
+      button: LEARN MORE
+      url: /announcements/overview/
 ---
