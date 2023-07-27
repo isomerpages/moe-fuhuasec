@@ -12,4 +12,6 @@ At the end of the programme, prizes and awards were given out for the Art Challe
 
 **Congratulations to all prize winners!**
 
-Click [here](https://drive.google.com/drive/folders/1YzC99PRx03TsWnsQyAFH2jq4cvnAoCAT?usp=sharing) to view photographs of our Fuhuanites in action on Aesthetics Day! 
+Click [here](https://drive.google.com/drive/folders/1YzC99PRx03TsWnsQyAFH2jq4cvnAoCAT?usp=sharing) to view photographs of our Fuhuanites in action on Aesthetics Day!
+
+Click [here](https://www.canva.com/design/DAFoli6EbJI/gs3nlgC7syvkD776ylluag/edit?utm_content=DAFoli6EbJI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to view the winning works for the Inter-house Art Challenge!
