@@ -34,12 +34,6 @@ sections:
       button: LEARN MORE
       url: https://drive.google.com/file/d/1F1TMPnpWUmpxHkk-cRxWw1zmr4G-ncUN/view?usp=sharing
   - infobar:
-      title: Supplementary Lessons Schedule
-      subtitle: For Graduating Students
-      description: Term 3 [Weeks 1-5]
-      button: LEARN MORE
-      url: https://drive.google.com/file/d/1Iooj9OAdi4Ei-_XAw94z9ROQpMEnj_Uh/view?usp=sharing
-  - infobar:
       title: Schemes of Assessment
       button: LEARN MORE
       url: https://staging.d2jrpotv8emy04.amplifyapp.com/announcements/2023-scheme-of-assessments/
