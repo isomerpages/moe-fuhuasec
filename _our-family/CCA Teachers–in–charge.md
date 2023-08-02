@@ -18,10 +18,10 @@ description: ""
 
 | CCA | Name | Email address |
 |---|---|---|
-| Badminton | Miss Huang Xiaojun (OIC)<br>Mr Foo Gui Zhong | huang_xiaojun@schools.gov.sg<br>foo_gui_zhong@schools.gov.sg |
+| Badminton | Miss Huang Xiaojun (OIC)<br>Mr Foo Gui Zhong<br>Mr John Ng Cheng Earn| huang_xiaojun@schools.gov.sg<br>foo_gui_zhong@schools.gov.sg<br>john_ng_cheng_earn@schools.gov.sg |
 | Shooting | Mr Yeo Kai Xiang (OIC)<br>Ms Grace Lee Ern<br>Mr Lim Jeremiah | yeo_kai_xiang@schools.gov.sg<br>grace_lee_ern@schools.gov.sg<br>lim_jeremiah_elijah_mario@schools.gov.sg |
 | Table Tennis | Mr Ng Khong Keong (OIC)<br>Ms Kok Han Ni<br>Mdm Jamaliah | ng_khong_keong@schools.gov.sg<br>kok_han_ni@schools.gov.sg<br>jamaliah_mohd_ramzan@schools.gov.sg |
-| Tchoukball | Mr Chew Mingzhi (OIC)<br>Ms Nur Hafizah (2IC) | chew_mingzhi@schools.gov.sg<br>nur_hafizah_ismail_a@schools.gov.sg |
+| Tchoukball | Mr Chew Mingzhi (OIC)<br>Ms Nur Hafizah (2IC)<br> Miss Tay Hannah | chew_mingzhi@schools.gov.sg<br>nur_hafizah_ismail_a@schools.gov.sg<br>tay_hannah@schools.gov.sg |
 
 ##### Cluster: Uniformed Groups
 
