@@ -3,11 +3,7 @@ title: Success Stories
 permalink: /our-excellence/success-stories/
 description: ""
 ---
-
-<br>![](/images/np%2027%20july.jpg)<br><img src="/images/Success%20Stories/foo%20xing%20ru.png" style="width:60%">
+<br>![](/images/tan%20li%20wen.jpg)
+<br>![](/images/np%2027%20july.jpg)
+<br>![](images/Success%20Stories/foo%20xing%20ru.png)
 <br>![](/images/cls_thi%20ri%20thant.png)<br>
-<img src="/images/ss1.png" style="width:60%"><br>
-<img src="/images/ss2.png" style="width:60%"><br>
-<img src="/images/ss3.png" style="width:60%"><br>
-<img src="/images/ss4.png" style="width:60%"><br>
-<img src="/images/ss5.png" style="width:60%"><br>
