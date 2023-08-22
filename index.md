@@ -19,11 +19,6 @@ sections:
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-links/
   - infobar:
-      title: School Canteen Advertisement
-      button: LEARN MORE
-      url: /announcements/school-administration/canteen/
-      description: MUSLIM COOKED FOOD (RICE STALL)
-  - infobar:
       title: Preliminary Examinations Timetable
       subtitle: FOR GRADUATING STUDENTS
       button: LEARN MORE
