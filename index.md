@@ -36,4 +36,9 @@ sections:
       title: Fuhua Annual
       button: LEARN MORE
       url: /fhssannual/
+  - infobar:
+      title: EOY Examinations Timetable
+      subtitle: FOR SECONDARY 1-3 STUDENTS
+      button: learn more
+      url: /announcements/overview/
 ---
