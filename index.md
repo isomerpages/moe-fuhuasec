@@ -19,6 +19,11 @@ sections:
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-links/
   - infobar:
+      title: EOY Examinations Timetable
+      subtitle: FOR SECONDARY 1-3 STUDENTS
+      button: learn more
+      url: /announcements/overview/
+  - infobar:
       title: Preliminary Examinations Timetable
       subtitle: FOR GRADUATING STUDENTS
       button: LEARN MORE
@@ -36,9 +41,4 @@ sections:
       title: Fuhua Annual
       button: LEARN MORE
       url: /fhssannual/
-  - infobar:
-      title: EOY Examinations Timetable
-      subtitle: FOR SECONDARY 1-3 STUDENTS
-      button: learn more
-      url: /announcements/overview/
 ---
