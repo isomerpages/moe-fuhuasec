@@ -24,11 +24,6 @@ sections:
       button: learn more
       url: /announcements/overview/
   - infobar:
-      title: Preliminary Examinations Timetable
-      subtitle: FOR GRADUATING STUDENTS
-      button: LEARN MORE
-      url: /announcements/overview/
-  - infobar:
       title: Semester 2 Class Timetable
       description: With effect from 26 June 2023
       button: LEARN MORE
