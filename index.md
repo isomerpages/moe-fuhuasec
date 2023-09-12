@@ -27,7 +27,7 @@ sections:
       title: Semester 2 Class Timetable
       description: With effect from 26 June 2023
       button: LEARN MORE
-      url: https://drive.google.com/file/d/1F1TMPnpWUmpxHkk-cRxWw1zmr4G-ncUN/view?usp=sharing
+      url: https://drive.google.com/file/d/1LDx6fMe86kl3bF33P9plb-EIjkHCIbKZ/view?usp=sharing
   - infobar:
       title: Schemes of Assessment
       button: LEARN MORE
