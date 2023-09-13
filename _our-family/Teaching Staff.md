@@ -29,7 +29,7 @@ Miss Germain Kang / Year Head (Lower Sec) (germain_kang@schools.gov.sg)
 | 2I3 | Miss Nur Hanis<br>Miss Kelly Sng  | nur_hanis_mohamad_gh@schools.gov.sg<br>kelly_sng@schools.gov.sg |
 | 2I4 | Mr Khoo Yong Kang | khoo_yong_kang@schools.gov.sg |
 | 2I5 | Ms Lim Ying Hui<br>Mr Koh Tze Hou | lim_ying_hui@schools.gov.sg<br>koh_tze_hou@schools.gov.sg |
-| 2I6 | Ms Hur Hafizah Bte Ismail<br>Mr Chia Chun Teck | nur_hafizah_ismail_a@schools.gov.sg<br>chia_chun_teck@schools.gov.sg |
+| 2I6 | Ms Nur Hafizah Bte Ismail<br>Mr Chia Chun Teck | nur_hafizah_ismail_a@schools.gov.sg<br>chia_chun_teck@schools.gov.sg |
 | 2I7 | Mdm Rafidah Bte A Rahman | rafidah_a_rahman@schools.gov.sg |
 | 2I8  | Mr Chew Mingzhi<br>Mdm Rohana Bte Ismail | chew_mingzhi@schools.gov.sg<br>rohana_ismail@schools.gov.sg |
 |  |  |  |
