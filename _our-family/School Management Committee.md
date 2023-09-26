@@ -21,7 +21,8 @@ description: ""
 | Mr Ng Wei Ping | School Staff Developer  | ng_wei_ping@schools.gov.sg  |
 | Mr Chiong Yin Fung | Assistant Year Head (US)<br>(Covering Year Head (US)) | chiong_yin_fung@schools.gov.sg  |
 | Miss Germain Kang     | Year Head (LS) | germain_kang@schools.gov.sg |
-| Ms Low Lai Mei   | HOD Aesthetics, Craft &amp; Technology | low_lai_mei@schools.gov.sg  || Miss Siti Rohani     | Assistant Year Head (US) (internal) | siti_rohani_hanim_selamat@schools.gov.sg |
+| Ms Low Lai Mei   | HOD Aesthetics, Craft &amp; Technology | low_lai_mei@schools.gov.sg  | 
+| Miss Siti Rohani  | Assistant Year Head (US) (internal) | siti_rohani_hanim_selamat@schools.gov.sg |
 | Mrs Portia Sim | Assistant Year Head (LS)  | tan_poh_hong@schools.gov.sg  |
 | Miss Nur Hanis | LH Science (internal) | nur_hanis_mohamad_gh@schools.gov.sg  |
 | Ms Melissa Wee | SH English  | wee_wen_jie_melissa@schools.gov.sg |
