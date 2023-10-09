@@ -19,7 +19,7 @@ sections:
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-links/
   - infobar:
-      title: EOY Examinations Timetable
+      title: Post-Exam Timetable
       subtitle: FOR SECONDARY 1-3 STUDENTS
       button: learn more
       url: /announcements/overview/
