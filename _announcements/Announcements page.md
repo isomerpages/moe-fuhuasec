@@ -3,10 +3,9 @@ title: Announcements page
 permalink: /announcements/overview/
 description: ""
 ---
-**Secondary 1-3 End-of-Year (EOY) Examinations Timetable**
-* Click [here](https://drive.google.com/file/d/1w8jZVvbpy3zoAcg2CoaMYADUvZAh_mNm/view?usp=sharing) for the Secondary 1E/NA/NT timetable.
-* Click [here](https://drive.google.com/file/d/1VZv3nV_8bZHTps9o949l5qNNS9VIVjWC/view?usp=drive_link) for the Secondary 2E/NA/NT timetable.
-* Click [here](https://drive.google.com/file/d/1HbYP_pIErv4zjDs-IKIk7aQV2YgxORb3/view?usp=drive_link) for the Secondary 3E/NA/NT timetable.
+***
+**Post-Examinations Timetable**<br>
+Please click [here](https://drive.google.com/file/d/1SlC-FX9ZFOTqDh2UotKmhGgjtsn75w8N/view?usp=sharing) for the timetable.
 
 ***
 
