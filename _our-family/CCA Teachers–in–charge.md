@@ -10,7 +10,7 @@ description: ""
 | CCA | Name | Email address |
 |---|---|---|
 | Environment | Mdm Rafidah (OIC)<br>Miss Rachel Liau<br>Miss Lee Mui Keow | rafidah_a_rahman@schools.gov.sg<br>liau_jia_yu_rachel@schools.gov.sg<br>lee_mui_keow@schools.gov.sg |
-| English Language, Drama and Debating | Mr Kwa Chia Rhun (OIC)Miss Loh Su Min | kwa_chia_rhun@schools.gov.sg<br>loh_su_min@schools.gov.sg |
+| English Language, Drama and Debating | Mr Kwa Chia Rhun (OIC)<br>Miss Loh Su Min | kwa_chia_rhun@schools.gov.sg<br>loh_su_min@schools.gov.sg |
 | Infocomm | Miss Siti Rohani  (OIC)<br>Mr Tan Gek Guang<br>Mr Koh Tze Hou | siti_rohani_hanim_selamat@schools.gov.sg<br>tan_gek_guang@schools.gov.sg<br>koh_tze_hou@schools.gov.sg|
 | Robotics | Mr Ong Fui Liang (OIC)<br>Mr Tan Boon Teck<br>Mr Joshua Tan Lin Jie | ong_fui_liang@schools.gov.sg<br>tan_boon_teck_a@schools.gov.sg<br>joshua_tan_lin_jie@schools.gov.sg |
 
