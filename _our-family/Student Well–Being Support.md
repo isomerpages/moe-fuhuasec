@@ -11,4 +11,4 @@ description: ""
 | Mr Wong Wei Jian Irvin | School Counsellor | wong_wei_jian_irvin@schools.gov.sg |
 | Mr Wong Jun Qiang Benjamin  | Senior SEN Officer  | wong_benjamin@schools.gov.sg  |
 | Miss Lim Lay Choon | Student Welfare Officer  | lim_lay_choon_a@schools.gov.sg  |
-| Mdm Peylene Stephanie Goh  | ECG Counsellor  | stephanie_goh@fhss.edu.sg  |
+| Mr Loh Weijie | ECG Counsellor | loh_weijie@schools.gov.sg |

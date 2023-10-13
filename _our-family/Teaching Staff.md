@@ -79,8 +79,7 @@ Mr Chiong Yin Fung / Assistant Year Head (chiong_yin_fung@schools.gov.sg)
 
 | Department | Name | Email address |
 |---|---|---|
-| Aesthetics, Craft &amp; Technology | Mr Quan Wing Wah<br>Ms Veronica Wee Su-Mien | quan_wing_wah@schools.gov.sg <br>veronica_wee_sumien@schools.gov.sg |
-| English | Ms Mary Christina Stanislaw<br>Ms Chen Siying Jasmine<br>Ms Elviora Loh Ooi Ling<br>Mr Low Choon How Michael | mary_christina_stanislaw@schools.gov.sg<br>chen_siying_jasmine@schools.gov.sg<br>elviora_loh_ooi_ling@schools.gov.sg<br>low_choon_how@schools.gov.sg |
+| Aesthetics, Craft &amp; Technology | Mr Quan Wing Wah | quan_wing_wah@schools.gov.sg <br>| English | Ms Mary Christina Stanislaw<br>Ms Chen Siying Jasmine<br>Ms Elviora Loh Ooi Ling<br>Mr Low Choon How Michael | mary_christina_stanislaw@schools.gov.sg<br>chen_siying_jasmine@schools.gov.sg<br>elviora_loh_ooi_ling@schools.gov.sg<br>low_choon_how@schools.gov.sg |
 | Mother Tongue | Ms Zhang Li | zhang_li_d@schools.gov.sg |
 | Humanities | Miss Elaine Lim <br>Ms Lee Lay Hwa | elaine_lim_mei_mei@schools.gov.sg <br>lee_lay_hwa@schools.gov.sg |
 | Mathematics | Mdm Jacqueline Tay<br>Mrs Tay Ai Chin<br>Mr Lee Chee Guan<br>Ms Tan Xin Yi<br>Miss Gao Conger | tay_li_choo@schools.gov.sg<br>tay_ai_chin@schools.gov.sg <br>lee_chee_guan@schools.gov.sg<br>tan_xin_yi@schools.gov.sg<br>gao_conger@schools.gov.sg |
