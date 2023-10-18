@@ -17,4 +17,4 @@ description: ""
 *   [Application form for Leave of Absence in FHSS](https://form.gov.sg/60b9ba6bc878dc001267bbce)
 *   [DMA Portal (for Default and Option A only)](https://sg-portal.mobileguardian.com/)
 *   [DMA Support for Parents and Guardians](https://sites.google.com/moe.edu.sg/ndlp-pld-portal/dma-and-cyber-wellness)
-*   [MOE FAS Application Form](https://form.gov.sg/632432ba67747a0011d4a0cc)
+*   [MOE FAS Application Form](https://go.gov.sg/moe-efas)
