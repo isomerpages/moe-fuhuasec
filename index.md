@@ -19,21 +19,18 @@ sections:
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-links/
   - infobar:
-      title: Post-Exam Timetable
-      subtitle: FOR SECONDARY 1-3 STUDENTS
-      button: learn more
-      url: /announcements/overview/
-  - infobar:
-      title: Semester 2 Class Timetable
-      description: With effect from 26 June 2023
+      title: 2023 Fuhua Open House
+      subtitle: WALK OUR WAY, RISE WITH US!
+      id: infobar
       button: LEARN MORE
-      url: https://drive.google.com/file/d/1LDx6fMe86kl3bF33P9plb-EIjkHCIbKZ/view?usp=sharing
-  - infobar:
-      title: Schemes of Assessment
-      button: LEARN MORE
-      url: https://staging.d2jrpotv8emy04.amplifyapp.com/announcements/2023-scheme-of-assessments/
+      url: https://drive.google.com/file/d/1NjYk-IEjmkIdRXL9jh2CYXOhJulnLuGn/view?usp=sharing
   - infobar:
       title: Fuhua Annual
       button: LEARN MORE
       url: /fhssannual/
+  - infobar:
+      title: Post-Exam Timetable
+      subtitle: FOR SECONDARY 1-3 STUDENTS
+      button: learn more
+      url: /announcements/overview/
 ---
