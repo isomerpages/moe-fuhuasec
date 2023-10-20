@@ -18,14 +18,6 @@ sections:
         - title: QUICK LINKS
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-links/
-  - infopic:
-      title: 2023 Open House
-      subtitle: WALK OUR WAY, RISE WITH US
-      id: infopic
-      button: LEARN MORE
-      url: https://drive.google.com/file/d/1NjYk-IEjmkIdRXL9jh2CYXOhJulnLuGn/view?usp=sharing
-      image: /images/fuhua secondary school motd_final.png
-      alt: Image alt text
   - infobar:
       title: Post-Exam Timetable
       subtitle: FOR SECONDARY 1-3 STUDENTS
@@ -35,4 +27,10 @@ sections:
       title: Fuhua Annual
       button: LEARN MORE
       url: /fhssannual/
+  - infobar:
+      title: 2023 Open House
+      subtitle: WALK OUR WAY, RISE WITH US!
+      id: infobar
+      button: LEARN MORE
+      url: https://drive.google.com/file/d/1NjYk-IEjmkIdRXL9jh2CYXOhJulnLuGn/view?usp=sharing
 ---
