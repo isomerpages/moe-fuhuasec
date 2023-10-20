@@ -19,14 +19,14 @@ sections:
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-links/
   - infobar:
+      title: Fuhua Annual
+      button: LEARN MORE
+      url: /fhssannual/
+  - infobar:
       title: Post-Exam Timetable
       subtitle: FOR SECONDARY 1-3 STUDENTS
       button: learn more
       url: /announcements/overview/
-  - infobar:
-      title: Fuhua Annual
-      button: LEARN MORE
-      url: /fhssannual/
   - infobar:
       title: 2023 Open House
       subtitle: WALK OUR WAY, RISE WITH US!
