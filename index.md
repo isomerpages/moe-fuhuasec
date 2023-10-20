@@ -19,7 +19,7 @@ sections:
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-links/
   - infobar:
-      title: 2023 Open House
+      title: 2023 Fuhua Open House
       subtitle: WALK OUR WAY, RISE WITH US!
       id: infobar
       button: LEARN MORE
