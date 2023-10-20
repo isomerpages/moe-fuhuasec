@@ -24,11 +24,6 @@ sections:
       button: learn more
       url: /announcements/overview/
   - infobar:
-      title: Semester 2 Class Timetable
-      description: With effect from 26 June 2023
-      button: LEARN MORE
-      url: https://drive.google.com/file/d/1LDx6fMe86kl3bF33P9plb-EIjkHCIbKZ/view?usp=sharing
-  - infobar:
       title: Schemes of Assessment
       button: LEARN MORE
       url: https://staging.d2jrpotv8emy04.amplifyapp.com/announcements/2023-scheme-of-assessments/
