@@ -25,12 +25,12 @@ sections:
       button: LEARN MORE
       url: https://drive.google.com/file/d/1NjYk-IEjmkIdRXL9jh2CYXOhJulnLuGn/view?usp=sharing
   - infobar:
-      title: Fuhua Annual
-      button: LEARN MORE
-      url: /fhssannual/
-  - infobar:
       title: Post-Exam Timetable
       subtitle: FOR SECONDARY 1-3 STUDENTS
       button: learn more
       url: /announcements/overview/
+  - infobar:
+      title: Fuhua Annual
+      button: LEARN MORE
+      url: /fhssannual/
 ---
