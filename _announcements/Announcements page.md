@@ -7,7 +7,7 @@ description: ""
 **Post-Examinations Timetable**<br>
 Please click [here](https://drive.google.com/file/d/1SlC-FX9ZFOTqDh2UotKmhGgjtsn75w8N/view?usp=sharing) for the timetable.
 
-**Please note that school will end at 10.30am on Thursday, 26 October 2023. **
+**Please note that school will end at 10.30am on Thursday, 26 October 2023.**
 
 ***
 
