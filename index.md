@@ -25,8 +25,8 @@ sections:
       button: LEARN MORE
       url: https://drive.google.com/file/d/1NjYk-IEjmkIdRXL9jh2CYXOhJulnLuGn/view?usp=sharing
   - infobar:
-      title: Post-Exam Timetable
-      subtitle: FOR SECONDARY 1-3 STUDENTS
+      title: Recognising OUR Teachers
+      subtitle: "Nominate your teachers now! "
       button: learn more
       url: /announcements/overview/
   - infobar:
