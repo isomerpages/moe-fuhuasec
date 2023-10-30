@@ -25,10 +25,10 @@ sections:
       button: LEARN MORE
       url: https://drive.google.com/file/d/1NjYk-IEjmkIdRXL9jh2CYXOhJulnLuGn/view?usp=sharing
   - infobar:
-      title: Recognising OUR Teachers
-      subtitle: "Nominate your teachers now! "
+      title: NIE Caring Teacher Award 2024
+      subtitle: Nominate your teachers now!
       button: learn more
-      url: /announcements/overview/
+      url: https://www.facebook.com/story.php?story_fbid=pfbid0ojWjofo5WVH5o4zrZ67XveaR7fHpgpmHSZFjuXTnEf8sM9u2Kx5CfYDDAXcF1eMVl&id=100064687840146&mibextid=Nif5oz&paipv=0&eav=AfZr91_ZltoAL_vDdvtz1BkRCma2OwJSlV96R_myfh5VXBuj3jdSp-52AETWLENj2kY&_rdr
   - infobar:
       title: Fuhua Annual
       button: LEARN MORE
