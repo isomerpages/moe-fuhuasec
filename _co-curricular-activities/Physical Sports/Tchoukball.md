@@ -3,13 +3,14 @@ title: Tchoukball
 permalink: /co-curricular-activities/Physical-Sports/tchoukball/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ### Tchoukball
 ##### About Us
 
-**Vision** <br>Developing an all-round student-athlete through Tchoukball CCA
+**Vision**<br>Developing an all-round student-athlete through Tchoukball CCA
 
-**Mission**<br> To nurture our young student-athletes holistically by providing them with exposure to competitive team sports, developing their competence in Tchoukball, and also develop their sportsmanship and passion for Tchoukball and other sports.
+**Mission**<br>To nurture our young student-athletes holistically by providing them with exposure to competitive team sports, developing their competence in Tchoukball, as well as, develop their sportsmanship and passion for Tchoukball and other sports.
 
 ##### OUR Key Programmes
 
@@ -20,16 +21,13 @@ third_nav_title: Physical Sports
 *   Sports leadership opportunities
 *   Sports VIA with external organisations
 
-<figure><img src="/images/tt1.png" style="width:55%"><figcaption>E-CCA Sessions in 2021</figcaption></figure>
-
 ##### OUR Achievements
 
 | Year | Event | Achievement |
 |:---:|:---:|:---:|
-|   2019 | National Inter-School 'C' Division Tchoukball Championships  | 'C' Boys - 3rd Placing  |
-|  2019 | National Inter-School 'B' Division Tchoukball Championships   | 'B' Girls - 5th Placing   |
-| 2018 | National Inter-School 'B' Division Tchoukball Championships | 'B' Girls - 5th Placing |
-| 2018 | National Inter-School 'B' Division Tchoukball Championships  |  'B' Boys - 5th Placing |
-| 2018 | National Inter-School 'C' Division Tchoukball Championships  |  'C' Girls - 4th Placing |
-| 2018 | National Inter-School 'C' Division Tchoukball Championships |  'C' Boys - 4th Placing |
-| 2017 | National Inter-School 'C' Division Tchoukball Championships | 'C' Boys - 5th Placing |
+| 2022 | TBAS Inter-school Tchoukball Championships (Cup Category) | B Division Boys - 4th |
+| 2022 | TBAS Inter-school Tchoukball Championships (Plate Category) | B Division Boys - 1st |
+| 2022 | TBAS Inter-school Tchoukball Championships (Bowl Category) | B Division Boys - 2nd |
+| 2022 | TBAS Inter-school Tchoukball Championships (Bowl Category) | B Division Girls - 2nd |
+| 2023 | ActiveSG-TBAS Inter-school Tchoukball Championships | B Division Boys - 4th |
+| 2023 | ActiveSG-TBAS Inter-school Tchoukball Championships | C Division Boys - 2nd |
