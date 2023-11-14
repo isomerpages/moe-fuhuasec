@@ -3,19 +3,18 @@ title: Environment Club
 permalink: /co-curricular-activities/Clubs-and-Societies/environment-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ### Environment Club
 ##### About Us
 
-**Vision** <br>Every Fuhuanite an Environment Advocate
+**Vision**&nbsp;<br>Every Fuhuanite an Environment Advocate
 
-**Mission**<br> To promote environmental awareness in our students and to care for the environment through conservation and recycling efforts
+**Mission**<br>&nbsp;To promote environmental awareness in our students and to care for the environment through conservation and recycling efforts
 
 ##### OUR Key Programmes
 
-  
-
-*   Reduce, Reuse, Recycle & Upcycle Projects
+*   Reduce, Reuse, Recycle &amp; Upcycle Projects
 *   Earth Week
 *   World Water Day
 *   Food Waste Reduction Campaign
