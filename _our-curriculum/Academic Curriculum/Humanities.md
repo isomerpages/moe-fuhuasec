@@ -3,6 +3,7 @@ title: Humanities
 permalink: /our-curriculum/Academic-Curriculum/humanities/
 description: ""
 third_nav_title: Academic Curriculum
+variant: markdown
 ---
 ### Humanities
 
@@ -22,31 +23,28 @@ The approach to the teaching and learning of Humanities involves:
 
 **Key programmes**
 
-**1\.Authentic and experiential learning experiences**
-<br>The suite of authentic and experiential learning experiences allows students to make connections between the learning they are doing in the classroom and the world. Students immerse in experiences which encourage reflection to hone existing and develop new skills, attitudes and dispositions.
+**1\.Inquiry-based Learning through Learning Packages** <br> The department promotes inquiry-based learning in our students&nbsp; through the Geographical/ Historical/ Social Studies Investigations. Through these face-to-face and interactive learning packages/ trails, students work collaboratively and can develop their analytical and critical thinking skills. They are also introduced to data and information skills, which include the collection, analysis and representation of data. 
 
-(i) Beyond Borders: Humanities Overseas Cultural Immersion  
+Some of the learning packages/ trails this year include:
 
-Secondary 3 students embark on an overseas Humanities immersion programme to gain a more comprehensive understanding of different ideas and perspectives about the world, and recognise and appreciate diversity by empathising and respecting other cultures.
+*   Sec 1 GI on the Bukit Batok Nature Reserve
+*   Sec 2 HI on the Maria Hertogh riots
+*   Sec 3 GI on Sustainability and urban neighbourhoods
+*   Sec 3 HI on Nazi Germany
+*   Sec 3 SS II on Citizenship and governance
 
-(ii) Humanities Alive!
+**2\.Illuminate**<br>
+Illuminate is the Humanities talent development programme which aims to strengthen disciplinary thinking among talented Fuhuanites. It provides opportunities for students to develop a greater interest and passion for the Humanities beyond what is taught in the classroom. This is done through internal school programmes and external competitions, as well as the Humanities Week.
 
-Secondary 3 Express and Normal (Academic) students participate in various learning journeys which provide them with opportunities to apply and draw connections between concepts they have learnt and the real world.
+(i) Humanities Week
+<br>
+2023’s inaugural Humanities Week was “Staying Rooted, Thinking Global”. Experiential and hands-on programmes were planned for all levels of the school, such as the Sec 1 “Through space and time: A quest for knowledge” learning activities, Sec 2 "Through our Eyes" Photo competition, Sec 3 LJs to Maritime Port Authority and HEMA workshop, and the Humanities assembly programme. This week-long programme helped to highlight the relevance of the Humanities in our Fuhuanites’ daily lives as well as inculcate in them the joy of learning Humanities.
 
-**2\.Interactive Humanities Learning Trails**
-<br> Interactive Humanities Learning Trails is a platform for students to develop their analytical and critical thinking skills through Inquiry-based Learning. Using mobile devices, students go through the process of reasoning and constructing meaning. They are also introduced to data and information skills, which include the collection, analysis and representation of data.
-
-**3\.Illuminate**
-<br> Illuminate aims to strengthen disciplinary thinking among the talented Fuhuanites. It provides opportunities for students to develop a greater interest and passion for the Humanities beyond what is taught in the classroom.
-
-(i) Humanities Challenge  
-
-The Humanities Challenge is a platform that enriches the lower secondary Humanities curriculum. It is also part of the department’s efforts to identify and groom students who are talented in the Humanities.
-
-(ii) External Competitions  
-
+(ii) External Competitions
+<br>
 Students also have the opportunity to take part in external competitions such as:
 
 * NUS Geography Challenge
 * MOE History Challenge
 * NLB Historical Scene Investigation
+* NP Social Innovation Hackathon
