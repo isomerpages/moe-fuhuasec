@@ -25,7 +25,8 @@ variant: markdown
 
 | Year | Event | Achievement |
 |:---:|:---:|:---:|
-| 2020 | School Green Awards (SGA) | Results Pending |
-| 2019 | School Green Awards (SGA) | Yellow Flame Award |
-| 2018 | School Green Awards (SGA) | Yellow Flame Award |
-|  2017 |  National Youth Business Challenge  |  Silver  |
+| 2021 | ALBA e-Waste Art Competition | Finalist |
+| 2022 | Green Guardians Quest by NLB | Seeker Level |
+| 2022 | Inter-school Recycling Heroes Recycling Drive (Plastics) | 6th Position | 
+| 2022 | School Green Awards | Vanda Miss Joaquim |
+| 2023 | School Green Awards | Yellow Flame |
