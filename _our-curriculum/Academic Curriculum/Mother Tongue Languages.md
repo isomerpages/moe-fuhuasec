@@ -3,6 +3,7 @@ title: Mother Tongue Languages
 permalink: /our-curriculum/Academic-Curriculum/mother-tongue-languages/
 description: ""
 third_nav_title: Academic Curriculum
+variant: markdown
 ---
 ### Mother Tongue Languages
 
@@ -19,13 +20,10 @@ To instil in Fuhuanites the love for the Mother Tongue language and culture, and
     
 2\.  Promoting the awareness and appreciation of our cultural roots  
 
-**Key Programmes**<Br>
+**Key Programmes**<br>
 
 **1\. Mother Tongue (MT) Fortnight Programme**
-<br> MT Fortnight aims to enable students to appreciate their Mother Tongue and culture.  All students taking Chinese Language (CL) and Malay Language will be involved in a series of activities such as cultural workshops, competitions and learning journeys.
+<br> Mother Tongue Language Fortnight aims to create a conducive environment to promote the use and learning of MTL beyond the classroom and school. Every year, a variety of activities related to MTL language and culture are organised for our Fuhuanites. Activities include cultural camp, learning journey, workshop, competitions. These activities provide platforms for Fuhuanites to learn MTL and their culture to experience MTL as ‘a living language’.
 
-**2\. Chinese Cultural Immersion Programme**
-<br> All Secondary 1 and 2 Express students taking Higher CL/CL will be offered this programme. It is a school-based enrichment programme where students learn about the history and development of traditional Chinese culture such as costumes, cuisines, architecture, Chinese medicine, wedding ceremonies etc.
-
-**3\. 3-minute speech**
-<br> Based on a topic given, students prepare a 3-minute speech to be presented in class. This activity provides a platform for all students to express themselves clearly and confidently. Teachers’ feedback and peers' critique which are given aim to help the students improve and become better communicators.
+**2\. Signature Programme - Reading**
+<br> The reading programme aims to cultivate the habit of reading Mother Tongue Languages books in Fuhuanites to strengthen their language proficiency. CL Happy Readers 悦读@辅华 includes teaching of translation skills with reading while ML READRAMA includes script writing and drama acting with reading.

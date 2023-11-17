@@ -3,13 +3,14 @@ title: Red Cross Youth
 permalink: /co-curricular-activities/Uniformed-Groups/red-cross-youth/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### Red Cross Youth
 ##### About Us
 
-**Vision** <br>Confident and competent youths who are leaders within their communities, serving humanity and furthering the work of the Red Cross Movement.
+**Vision**&nbsp;<br>Confident and competent youths who are leaders within their communities, serving humanity and furthering the work of the Red Cross Movement.
 
-**Mission**<br> Committed to engaging our youths in various service learning and humanitarian programmes, and giving them opportunities at National and International platforms
+**Mission**<br>&nbsp;Committed to engaging our youths in various service learning and humanitarian programmes, and giving them opportunities at National and International platforms
 
 ##### OUR Key Programmes
 
@@ -47,9 +48,13 @@ third_nav_title: Uniformed Groups
 
 | Year | Event | Achievement |
 |:---:|:---:|:---:|
-| 2019  |  Excellent Unit Award (EUA)  | Gold  |
-| 2019  | Trailblazer Competition   | Gold |
-| 2019  | Ambassador of the Blood Competition (ABC) - Individual  | Top 4  |
-| 2018 | Trailblazer Competition   |  Silver + Community Award  |
-| 2018 | Disaster Risk Reduction Competition (DRRC)  | Gold |
-| 2018 | Excellent Unit Award (EUA)  | Gold |
+| 2021 | Excellent Unit Award (EUA) | Gold |
+| 2022 | Excellent Unit Award (EUA) | Gold |
+| 2022 | Trailblazer Competition | Gold |
+| 2022 | Disaster Risk Reduction Competition | Gold |
+| 2022 | First Aid Championships (Senior) | Silver |
+| 2022 | First Aid Championships (Junior) | Silver |
+| 2023 | Disaster Risk Reduction Competition | Silver |
+| 2023 | First Aid Championships (Senior) | Gold |
+| 2023 | First Aid Championships (Junior) | Gold |
+| 2023 | Excellent Unit Award (EUA) | Gold |
