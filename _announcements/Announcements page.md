@@ -2,6 +2,7 @@
 title: Announcements page
 permalink: /announcements/overview/
 description: ""
+variant: markdown
 ---
 ***
 **2023 Parent Engagement Session Resources** <br>

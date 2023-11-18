@@ -2,6 +2,7 @@
 title: Frequently Asked Questions
 permalink: /our-school/faq/
 description: ""
+variant: markdown
 ---
 ### Frequently-Asked Questions
 
@@ -99,9 +100,9 @@ The supplier of the formal school uniform and sports attire is My Uniform Shop, 
 **17\. What is the Primary School Leaving Examination (PSLE) aggregate range of students admitted?**
 
 The ranges of the 2023 Secondary 1 cohort, by courses, are as follows: 
-<br> Express: 7 - 13<br>
+<br> Express: 5 - 14 <br>
 Normal Academic: 21 - 23<br>
-Normal Technical: 25 - 27
+Normal Technical: 25 - 28
 
 
 **E. Scholarships and Financial Matters**
