@@ -19,11 +19,12 @@ sections:
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-links/
   - infobar:
-      title: 2023 Fuhua Open House
-      subtitle: WALK OUR WAY, RISE WITH US!
+      title: Release of 2023 GCE N Level Results
+      subtitle: Monday, 18 December
       id: infobar
       button: LEARN MORE
-      url: https://drive.google.com/file/d/1NjYk-IEjmkIdRXL9jh2CYXOhJulnLuGn/view?usp=sharing
+      url: https://docs.google.com/document/d/1oshxH6duDEWfAeZKSVoBmxUXNxc6BcnYRUFGkBR2gzw/edit?usp=sharing
+      description: For Information and Action
   - infobar:
       title: President's Award for Teachers
       subtitle: NOMINATE YOUR TEACHERS NOW!
@@ -37,7 +38,7 @@ sections:
       url: https://www.facebook.com/story.php?story_fbid=pfbid0ojWjofo5WVH5o4zrZ67XveaR7fHpgpmHSZFjuXTnEf8sM9u2Kx5CfYDDAXcF1eMVl&id=100064687840146&mibextid=Nif5oz&paipv=0&eav=AfZr91_ZltoAL_vDdvtz1BkRCma2OwJSlV96R_myfh5VXBuj3jdSp-52AETWLENj2kY&_rdr
   - infobar:
       title: Outstanding Youth in Education Award
-      subtitle: "NOMINATE YOUR TEACHERS NOW! "
+      subtitle: NOMINATE YOUR TEACHERS NOW!
       id: infobar
       description: For teachers aged 35 years and below
       button: LEARN MORE
