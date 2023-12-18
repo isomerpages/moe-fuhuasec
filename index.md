@@ -24,6 +24,12 @@ sections:
       button: LEARN MORE
       url: https://drive.google.com/file/d/1tl5t_doBjwv5A9cMv73hRGejJKmWtsGW/view?usp=drive_link
   - infobar:
+      title: Online Application to Transfer into FHSS
+      subtitle: FOR 2024 sec 1 students
+      id: infobar
+      button: Button Text
+      url: https://go.gov.sg/2024sec1transferapplication
+  - infobar:
       title: Release of 2023 GCE N Level Results
       subtitle: Monday, 18 December
       id: infobar
@@ -35,9 +41,9 @@ sections:
       button: LEARN MORE
       url: /fhssannual/
   - infobar:
-      title: Online Application to Transfer into FHSS
-      subtitle: FOR 2024 sec 1 students
+      title: Application for 2024 Fuhua SAC Scholarship
+      subtitle: FOR 2024 Sec 1 Students
       id: infobar
-      button: Button Text
-      url: https://go.gov.sg/2024sec1transferapplication
+      button: APPLY NOW
+      url: https://go.gov.sg/24fhsac
 ---
