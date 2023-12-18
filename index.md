@@ -19,6 +19,11 @@ sections:
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-links/
   - infobar:
+      title: 2024 Sec 1 e-Registration Information
+      id: infobar
+      button: LEARN MORE
+      url: https://drive.google.com/file/d/1tl5t_doBjwv5A9cMv73hRGejJKmWtsGW/view?usp=drive_link
+  - infobar:
       title: Release of 2023 GCE N Level Results
       subtitle: Monday, 18 December
       id: infobar
@@ -29,9 +34,4 @@ sections:
       title: Fuhua Annual
       button: LEARN MORE
       url: /fhssannual/
-  - infobar:
-      title: 2024 Sec 1 e-Registration Information
-      id: infobar
-      button: LEARN MORE
-      url: https://drive.google.com/file/d/1tl5t_doBjwv5A9cMv73hRGejJKmWtsGW/view?usp=drive_link
 ---
