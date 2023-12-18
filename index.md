@@ -30,6 +30,12 @@ sections:
       button: LEARN MORE
       url: https://go.gov.sg/2024sec1transferapplication
   - infobar:
+      title: Application for 2024 Fuhua SAC Scholarship
+      subtitle: FOR 2024 Sec 1 Students
+      id: infobar
+      button: APPLY NOW
+      url: https://go.gov.sg/24fhsac
+  - infobar:
       title: Release of 2023 GCE N Level Results
       subtitle: Monday, 18 December
       id: infobar
@@ -40,10 +46,4 @@ sections:
       title: Fuhua Annual
       button: LEARN MORE
       url: /fhssannual/
-  - infobar:
-      title: Application for 2024 Fuhua SAC Scholarship
-      subtitle: FOR 2024 Sec 1 Students
-      id: infobar
-      button: APPLY NOW
-      url: https://go.gov.sg/24fhsac
 ---
