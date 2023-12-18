@@ -19,6 +19,13 @@ sections:
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-links/
   - infobar:
+      title: 2023 GCE N Level Results
+      subtitle: BRIEFING SLIDES
+      id: infobar
+      button: LEARN MORE
+      url: https://drive.google.com/file/d/1-HwJ-3x7IBU9u1QtBTZ1tOex2yRW_kDa/view?usp=sharing
+      description: For Information and Action
+  - infobar:
       title: 2024 Sec 1 e-Registration Information
       id: infobar
       button: LEARN MORE
@@ -35,13 +42,6 @@ sections:
       id: infobar
       button: APPLY NOW
       url: https://go.gov.sg/24fhsac
-  - infobar:
-      title: 2023 GCE N Level Results
-      subtitle: BRIEFING SLIDES
-      id: infobar
-      button: LEARN MORE
-      url: https://drive.google.com/file/d/1-HwJ-3x7IBU9u1QtBTZ1tOex2yRW_kDa/view?usp=sharing
-      description: For Information and Action
   - infobar:
       title: Fuhua Annual
       button: LEARN MORE
