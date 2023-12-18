@@ -34,4 +34,10 @@ sections:
       title: Fuhua Annual
       button: LEARN MORE
       url: /fhssannual/
+  - infobar:
+      title: Online Application to Transfer into FHSS
+      subtitle: FOR 2024 sec 1 students
+      id: infobar
+      button: Button Text
+      url: https://go.gov.sg/2024sec1transferapplication
 ---
