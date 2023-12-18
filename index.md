@@ -36,11 +36,11 @@ sections:
       button: APPLY NOW
       url: https://go.gov.sg/24fhsac
   - infobar:
-      title: Release of 2023 GCE N Level Results
-      subtitle: Monday, 18 December
+      title: 2023 GCE N Level Results
+      subtitle: BRIEFING SLIDES
       id: infobar
       button: LEARN MORE
-      url: https://docs.google.com/document/d/1oshxH6duDEWfAeZKSVoBmxUXNxc6BcnYRUFGkBR2gzw/edit?usp=sharing
+      url: https://drive.google.com/file/d/1-HwJ-3x7IBU9u1QtBTZ1tOex2yRW_kDa/view?usp=sharing
       description: For Information and Action
   - infobar:
       title: Fuhua Annual
