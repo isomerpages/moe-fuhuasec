@@ -30,7 +30,7 @@ sections:
       id: infobar
       button: LEARN MORE
       url: https://drive.google.com/file/d/1g1aG3MpjtQg5uGlFjqgjl6ZunOaUdykn/view?usp=sharing
-      subtitle: "[UPDATED 20 DECEMBER, 4PM]"
+      subtitle: "[UPDATED 20 DECEMBER]"
   - infobar:
       title: Online Application to Transfer into FHSS
       subtitle: FOR 2024 sec 1 students
