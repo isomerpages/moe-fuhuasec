@@ -29,7 +29,7 @@ sections:
       title: 2024 Sec 1 e-Registration Information
       id: infobar
       button: LEARN MORE
-      url: https://drive.google.com/file/d/1lyt2-VsF-zNi2i59NFo1vFBFLxUfnlDi/view?usp=sharing
+      url: https://drive.google.com/file/d/1g1aG3MpjtQg5uGlFjqgjl6ZunOaUdykn/view?usp=sharing
       subtitle: "[UPDATED 20 DECEMBER, 4PM]"
   - infobar:
       title: Online Application to Transfer into FHSS
