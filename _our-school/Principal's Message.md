@@ -6,6 +6,8 @@ variant: markdown
 ---
 ### Principal's Message
 
+![](/images/2024_P_and_VPs.jpeg)
+
 Welcome to the Fuhua Secondary School website!
 <br> 
 <br> The school was established in 1999 and received her first students in 2000. Under the leadership of the founding principal, Mr Ong Kian Choon, and the collective wisdom of the successive school leaders, Fuhua Secondary School has developed into a school of choice. Today, this pioneering spirit continues to drive the school to innovate with distinctive programmes and create a quality curriculum to support the aspirations of Fuhuanites. &nbsp;
