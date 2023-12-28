@@ -2,11 +2,12 @@
 title: Teaching Staff
 permalink: /our-family/teaching-staff/
 description: ""
+variant: markdown
 ---
 ### Teaching Staff
 
 ##### Secondary 1 <br>
-Mrs Portia Sim / Assistant Year Head (Lower Sec) (tan_poh_hong@schools.gov.sg)
+Miss Germain Kang / Year Head (Lower Sec) (germain_kang@schools.gov.sg)
 
 | Class | Name | Email address |
 |:---:|---|---|
@@ -20,7 +21,7 @@ Mrs Portia Sim / Assistant Year Head (Lower Sec) (tan_poh_hong@schools.gov.sg)
 |  |  |  |
 
 ##### Secondary 2 <br>
-Miss Germain Kang / Year Head (Lower Sec) (germain_kang@schools.gov.sg)
+Mrs Portia Sim / Assistant Year Head (Lower Sec) (tan_poh_hong@schools.gov.sg)
 
 | Class | Name | Email address |
 |:---:|---|---|
