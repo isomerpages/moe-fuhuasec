@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### School Management Committee
 
-![](/images/SL.png)
+![](/images/SLs_Org_Chart.png)
 
 
 | Name | Designation | Email address |
@@ -30,7 +30,7 @@ variant: markdown
 | Mdm Aw Soo Bing | SH Mathematics  | aw_soo_bing@schools.gov.sg |
 | Mr Lee Yuen Lim | SH ICT | lee_yuen_lim@schools.gov.sg |
 | Mr Bradley Soh | SH Humanities | soh_chun_ying_bradley@schools.gov.sg |
-| Ms Chan Bijun | SH Character &amp; Citizenship Education | chan_bijun@schools.gov.sg |
+| Ms Chan Bijun | SH CCE | chan_bijun@schools.gov.sg |
 | Mr Richard Tan | SH Physical Education | tan_kee_chong@schools.gov.sg |
 | Mr Liu Yaozhong | SH Discipline (Covering HOD Discipline) | liu_yaozhong@schools.gov.sg 
 | Ms Wong Chiaw Tze  | SH Chinese Language  | wong_chiaw_tze@schools.gov.sg  |
