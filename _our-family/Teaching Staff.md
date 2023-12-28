@@ -11,7 +11,7 @@ Miss Germain Kang / Year Head (Lower Sec) (germain_kang@schools.gov.sg)
 
 | Class | Name | Email address |
 |:---:|---|---|
-| 1R1 | Mr Ng Khong Keong | ng_khong_keong@schools.gov.sg |
+| 1R1 | Miss Lai Min Lee <br> lai_min_lee@schools.gov.sg |  |
 | 1R2 | Mr Ismail Bin Ja'afar<br>Miss Tse Hal Ye Cherie | ismail_b_jaafar@schools.gov.sg<br>tse_hal_ye_cherie@schools.gov.sg |
 | 1R3 | Mdm Lai Hung Lan<br>Mr Low Ying Hong, Theodore | lai_hung_lan@schools.gov.sg<br>low_ying_hongtheodore@schools.gov.sg |
 | 1R4 | Mr Yeo Kai Xiang<br>Ms Kok Han Ni | yeo_kai_xiang@schools.gov.sg<br>kok_han_ni@schools.gov.sg |
@@ -25,8 +25,8 @@ Mrs Portia Sim / Assistant Year Head (Lower Sec) (tan_poh_hong@schools.gov.sg)
 
 | Class | Name | Email address |
 |:---:|---|---|
-| 2I1 | Miss Woo Wen Qi | wen_qi_woo@schools.gov.sg |
-| 2I2 | Miss Lai Min Lee<br>Miss Nuha Amani | lai_min_lee@schools.gov.sg<br>nuha_amani_misbahuddin@schools.gov.sg |
+| 2I1 | Mr Ng Khong Keong | ng_khong_keong@schools.gov.sg |
+| 2I2 | <br>Miss Nuha Amani | <br>nuha_amani_misbahuddin@schools.gov.sg |
 | 2I3 | Miss Nur Hanis<br>Miss Kelly Sng  | nur_hanis_mohamad_gh@schools.gov.sg<br>kelly_sng@schools.gov.sg |
 | 2I4 | Mr Khoo Yong Kang | khoo_yong_kang@schools.gov.sg |
 | 2I5 | Ms Lim Ying Hui<br>Mr Koh Tze Hou | lim_ying_hui@schools.gov.sg<br>koh_tze_hou@schools.gov.sg |
