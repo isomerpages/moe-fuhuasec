@@ -31,11 +31,11 @@ sections:
       button: LEARN MORE
       url: https://drive.google.com/file/d/1tl5t_doBjwv5A9cMv73hRGejJKmWtsGW/view?usp=drive_link
   - infobar:
-      title: Online Application to Transfer into FHSS
-      subtitle: FOR 2024 sec 1 students
+      title: Name List of Secondary 5 Students
+      subtitle: For 2024 Secondary 5 Students
       id: infobar
       button: LEARN MORE
-      url: https://go.gov.sg/2024sec1transferapplication
+      url: https://drive.google.com/file/d/1dr9QAkIGthTrsdnnzPqkYVOGcPQHgRWJ/view?usp=sharing
   - infobar:
       title: Application for 2024 Fuhua SAC Scholarship
       subtitle: FOR 2024 Sec 1 Students
