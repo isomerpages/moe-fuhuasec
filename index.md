@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Isomer Header Gif.gif
+      background: /images/Isomer_Header_Gif__1_.gif
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
@@ -15,9 +15,12 @@ sections:
         - title: FUHUA NEWS
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-school/fuhua-news/cny23/
-        - title: QUICK LINKS
+        - title: Fuhua Annual
           description: ""
-          url: https://www.fuhuasec.moe.edu.sg/our-links/
+          url: https://www.fuhuasec.moe.edu.sg/fhssannual/
+        - title: Class Timetable
+          description: ""
+          url: https://drive.google.com/file/d/11_soYo3lK7UePDqMeyYq2YQ5nJP8W00_/view?usp=drive_link
   - infobar:
       title: Name List of Secondary 5 Students
       subtitle: For 2024 Secondary 5 Students
