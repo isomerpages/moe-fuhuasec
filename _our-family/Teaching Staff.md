@@ -11,28 +11,28 @@ Miss Germain Kang / Year Head (Lower Sec) (germain_kang@schools.gov.sg)
 
 | Class | Name | Email address |
 |:---:|---|---|
-| 1R1 | Miss Lai Min Lee <br> lai_min_lee@schools.gov.sg |  |
-| 1R2 | Mr Ismail Bin Ja'afar<br>Miss Tse Hal Ye Cherie | ismail_b_jaafar@schools.gov.sg<br>tse_hal_ye_cherie@schools.gov.sg |
-| 1R3 | Mdm Lai Hung Lan<br>Mr Low Ying Hong, Theodore | lai_hung_lan@schools.gov.sg<br>low_ying_hongtheodore@schools.gov.sg |
-| 1R4 | Mr Yeo Kai Xiang<br>Ms Kok Han Ni | yeo_kai_xiang@schools.gov.sg<br>kok_han_ni@schools.gov.sg |
-| 1R5 | Mdm Teo Chek Gin<br> Miss Tay Hannah | teo_chek_gin@schools.gov.sg<br> tay_hannah@schools.gov.sg |
-| 1R6 | Miss Nurhuda bte Pardi<br>Mr Tan Gek Guang | nurhuda_pardi@schools.gov.sg<br>tan_gek_guang@schools.gov.sg |
-| 1R7 | Mr Tan Yong Qiao Elton<br>Ms Yu Ying | tan_yong_qiao_elton@schools.gov.sg<br>yu_ying@schools.gov.sg |
+| 1R1 | Miss Lai Min Lee <br> Miss Nur Sarah Binte Osman | lai_min_lee@schools.gov.sg |
+| 1R2 | Miss Kelly Sng <br> Mdm Zhang Sijia | kelly_sng@schools.gov.sg<br>zhang_sijia@schools.gov.sg |
+| 1R3 | Mr Khoo Yong Kang <br> Ms Grace Lee Ern | khoo_yong_kang@schools.gov.sg <br> grace_lee_ern@schools.gov.sg |
+| 1R4 | Ms Nur Hafizah Bte Ismail<br> Miss Zhao Fangming | nur_hafizah_ismail_a@schools.gov.sg<br>zhao_fangming@schools.gov.sg |
+| 1R5 | Ms Lim Ying Hui <br> Ms Rhyss Teo | lim_ying_hui@schools.gov.sg <br>  |
+| 1R6 | Miss Rachel Liau <br> Mdm Rafidah Bte A Rahman | liau_jia_yu_rachel@schools.gov.sg <br>rafidah_a_rahman@schools.gov.sg |
+| 1R7 | Miss Yew Ning<br>Miss Nuha Amani| yew_ning@schools.gov.sg<br>nuha_amani_misbahuddin@schools.gov.sg |
 |  |  |  |
 
-##### Secondary 2 <br>
-Mrs Portia Sim / Assistant Year Head (Lower Sec) (tan_poh_hong@schools.gov.sg)
+##### Secondary 2
+**Mrs Portia Sim / Assistant Year Head (Lower Sec) **(tan_poh_hong@schools.gov.sg)
 
 | Class | Name | Email address |
 |:---:|---|---|
 | 2I1 | Mr Ng Khong Keong | ng_khong_keong@schools.gov.sg |
-| 2I2 | <br>Miss Nuha Amani | <br>nuha_amani_misbahuddin@schools.gov.sg |
-| 2I3 | Miss Nur Hanis<br>Miss Kelly Sng  | nur_hanis_mohamad_gh@schools.gov.sg<br>kelly_sng@schools.gov.sg |
-| 2I4 | Mr Khoo Yong Kang | khoo_yong_kang@schools.gov.sg |
-| 2I5 | Ms Lim Ying Hui<br>Mr Koh Tze Hou | lim_ying_hui@schools.gov.sg<br>koh_tze_hou@schools.gov.sg |
-| 2I6 | Ms Nur Hafizah Bte Ismail<br>Mr Chia Chun Teck | nur_hafizah_ismail_a@schools.gov.sg<br>chia_chun_teck@schools.gov.sg |
-| 2I7 | Mdm Rafidah Bte A Rahman | rafidah_a_rahman@schools.gov.sg |
-| 2I8  | Mr Chew Mingzhi<br>Mdm Rohana Bte Ismail | chew_mingzhi@schools.gov.sg<br>rohana_ismail@schools.gov.sg |
+| 2I2 | <br> | <br> |
+| 2I3 | Mdm Lai Hung Lan <br> Mr Low Ying Hong Theodore | lai_hung_lan@schools.gov.sg<br>low_ying_hongtheodore@schools.gov.sg |
+| 2I4 | Ms Kok Han Ni <br> Mr Lou Siew Meng | kok_han_ni@schools.gov.sg <br> |
+| 2I5 | Mdm Teo Chek Gin <br>  | teo_chek_gin@schools.gov.sg <br> |
+| 2I6 | Mr Tan Gek Guang<br>Miss Nurhuda bte Pardi Mr Chia Chun Teck | nurhuda_pardi@schools.gov.sg<br>tan_gek_guang@schools.gov.sg |
+| 2I7 |Mr Tan Yong Qiao Elton<br>Ms Ik Lee Lee | tan_yong_qiao_elton@schools.gov.sg<br>ik_lee_lee@schools.gov.sg |
+
 |  |  |  |
 
 ##### Secondary 3 <br>
@@ -46,8 +46,8 @@ Miss Siti Rohani / Assistant Year Head (internal) (siti_rohani_hanim_selamat@sch
 | 3S4 | Mr Muhammad Khairi<br>Miss Tay Zhi Hwei | muhammad_khairi_ruslihan@schools.gov.sg<br>tay_zhi_hwei@schools.gov.sg |
 | 3S5 | Miss Lee Mui Keow<br>Ms Lim Lee Lian | lee_mui_keow@schools.gov.sg<br>lim_lee_lian_a@schools.gov.sg |
 | 3S6 | Mr Raymond Loh<br>Mr Lim Jeremiah | loh_kok_wee_raymond@schools.gov.sg <br>lim_jeremiah_elijah_mario@schools.gov.sg |
-| 3S7 | Mr Kwa Chia Rhun<br>Mr John Ng Cheng Earn| kwa_chia_rhun@schools.gov.sg<br>john_ng_cheng_earn@schools.gov.sg |
-| 3S8 | Mr Ong Fui Liang<br>Ms Veronica Tei  | ong_fui_liang@schools.gov.sg<br>veronica_tei_ying_ying@schools.gov.sg  |
+| 3S7 | Mr Kwa Chia Rhun<br>Mr John Ng Cheng Earn| kwa_chia_rhun@schools.gov.sg<br>john_ng_cheng_earn@schools.gov.sg |  chia_chun_teck@schools.gov.sg
+| 3S8  | Mr Chew Mingzhi<br>Mdm Rohana Bte Ismail | chew_mingzhi@schools.gov.sg<br>rohana_ismail@schools.gov.sg | 
 |  |  |  |
 
 ##### Secondary 4 and 5 <br>
@@ -59,9 +59,10 @@ Mr Chiong Yin Fung / Assistant Year Head (chiong_yin_fung@schools.gov.sg)
 | 4E2 | Mr Owen Tan June Keong  | tan_june_keong@schools.gov.sg |
 | 4E3 | Ms Tan Tuan Ling | tan_tuan_ling@schools.gov.sg |
 | 4E4 | Mdm Hia Soo Ching  | hia_soo_ching@schools.gov.sg |
-| 4E5 | Miss Esther Diana Lim<br>Ms Grace Lee Ern | esther_lim_you_qi@schools.gov.sg<br>grace_lee_ern@schools.gov.sg |
-| 4E6 | Miss Rachel Liau<br>Miss Yew Ning | liau_jia_yu_rachel@schools.gov.sg<br>yew_ning@schools.gov.sg |
+| 4E5 | Miss Esther Diana Lim<br> | esther_lim_you_qi@schools.gov.sg<br> |
+| 4E6 | <br> | <br> |
 | 4E7 | Mr Tan Ying Quan<br>Mdm Jamaliah | tan_ying_quan@schools.gov.sg<br>jamaliah_mohd_ramzan@schools.gov.sg  |
+| 4E8 | Mr Ong Fui Liang<br>Ms Veronica Tei  | ong_fui_liang@schools.gov.sg<br>veronica_tei_ying_ying@schools.gov.sg  |
 | 4E8 |  Miss Loh Su Min |loh_su_min@schools.gov.sg |
 |  5E1 | Mr Ian Tai Zhi Jian  | ian_tai_zhi_jian@schools.gov.sg  |
 |  |  |  |
