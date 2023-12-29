@@ -21,7 +21,7 @@ variant: markdown
 <br> We operate from 7.30 am to 6.30 pm on school days and from 8.30 am to 5.30 pm during the school holidays. We do not operate on public holidays.&nbsp;
 
 **5\. What are the school terms?**
-<br> There are four terms in an academic year. In 2023, Term 1 runs from 3 January to 10 March; Term 2 from 20 March to 26 May; Term 3 from 26 June to 1 September; and Term 4 from 11 September to 17 November. The last full school day of Term 4 is 27 October as the school is one of the venues for the GCE O-Level written examinations.&nbsp;
+<br> There are four terms in an academic year. In 2024, Term 1 runs from 2 January to 8 March; Term 2 from 18 March to 24 May; Term 3 from 24 June to 30 August; and Term 4 from 9 September to 15 November. The last full school day of Term 4 is 25 October as the school is one of the venues for the GCE O-Level written examinations.&nbsp;
 
 **B. School Programmes**
 
