@@ -46,8 +46,4 @@ sections:
       button: APPLY NOW
       url: https://go.gov.sg/24fhsac
       description: "Deadline: 10 January 2024"
-  - infobar:
-      title: Fuhua Annual
-      button: LEARN MORE
-      url: /fhssannual/
 ---
