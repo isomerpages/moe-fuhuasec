@@ -18,7 +18,7 @@ sections:
         - title: Fuhua Annual
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/fhssannual/
-        - title: Class Timetable
+        - title: Timetable
           description: ""
           url: https://drive.google.com/file/d/11_soYo3lK7UePDqMeyYq2YQ5nJP8W00_/view?usp=drive_link
   - infobar:
