@@ -5,10 +5,7 @@ description: ""
 variant: markdown
 ---
 ***
-**2023 Parent Engagement Session Resources** <br>
-[Secondary 1](https://drive.google.com/file/d/10oPm0oXFx8yrKZgHSQGLTsU5v45BhSZT/view?usp=drive_link)
-<br> [Secondary 2](https://drive.google.com/file/d/1lC5tO0wGM7-NeBZlCmV7wN5z3tkt52FB/view?usp=drive_link)
-<br> [Upper Secondary](https://drive.google.com/file/d/1YOuFeZo-U1EinOFUsXC6oVnwS3ODwgfb/view?usp=drive_link)
+
 
 ***
 

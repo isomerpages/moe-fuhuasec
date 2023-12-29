@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Isomer Header Gif.gif
+      background: /images/Isomer_Header_Gif__1_.gif
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
@@ -15,9 +15,18 @@ sections:
         - title: FUHUA NEWS
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/our-school/fuhua-news/cny23/
-        - title: QUICK LINKS
+        - title: Fuhua Annual
           description: ""
-          url: https://www.fuhuasec.moe.edu.sg/our-links/
+          url: https://www.fuhuasec.moe.edu.sg/fhssannual/
+        - title: Timetable
+          description: ""
+          url: https://drive.google.com/file/d/11_soYo3lK7UePDqMeyYq2YQ5nJP8W00_/view?usp=drive_link
+  - infobar:
+      title: Name List of Secondary 5 Students
+      subtitle: For 2024 Secondary 5 Students
+      id: infobar
+      button: LEARN MORE
+      url: https://drive.google.com/file/d/1dr9QAkIGthTrsdnnzPqkYVOGcPQHgRWJ/view?usp=sharing
   - infobar:
       title: 2023 GCE N Level Results
       subtitle: BRIEFING SLIDES
@@ -31,19 +40,10 @@ sections:
       button: LEARN MORE
       url: https://drive.google.com/file/d/1tl5t_doBjwv5A9cMv73hRGejJKmWtsGW/view?usp=drive_link
   - infobar:
-      title: Online Application to Transfer into FHSS
-      subtitle: FOR 2024 sec 1 students
-      id: infobar
-      button: LEARN MORE
-      url: https://go.gov.sg/2024sec1transferapplication
-  - infobar:
       title: Application for 2024 Fuhua SAC Scholarship
       subtitle: FOR 2024 Sec 1 Students
       id: infobar
       button: APPLY NOW
       url: https://go.gov.sg/24fhsac
-  - infobar:
-      title: Fuhua Annual
-      button: LEARN MORE
-      url: /fhssannual/
+      description: "Deadline: 10 January 2024"
 ---
