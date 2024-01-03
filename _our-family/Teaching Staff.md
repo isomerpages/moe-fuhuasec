@@ -49,7 +49,7 @@ variant: markdown
 | 3S8 | Mdm Rohana Bte Ismail<br>Mr Chew Mingzhi | rohana_ismail@schools.gov.sg<br>chew_mingzhi@schools.gov.sg | 
 |  |  |  |
 
-##### Secondary 4 and 5 <br>
+##### **Secondary 4 and 5** <br>
 **Miss Siti Rohani / Assistant Year Head (Upper Sec)**(siti_rohani_hanim_selamat@schools.gov.sg) 
 
 | Class | Name | Email address |
