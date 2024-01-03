@@ -13,7 +13,7 @@ variant: markdown
 | Environment | Miss Lee Mui Keow (OIC)<br>Mdm Rafidah<br> Miss Rachel Liau | lee_mui_keow@schools.gov.sg<br>rafidah_a_rahman@schools.gov.sg<br>liau_jia_yu_rachel@schools.gov.sg |
 | English Language, Drama and Debating | Mr Kwa Chia Rhun (OIC)<br>Miss Loh Su Min | kwa_chia_rhun@schools.gov.sg<br>loh_su_min@schools.gov.sg |
 | Infocomm | Mr Tan Gek Guang (OIC)<br>Mdm Cao Jiawei<br>Miss Siti Rohani | tan_gek_guang@schools.gov.sg<br>cao_jiawei@schools.gov.sg<br>siti_rohani_hanim_selamat@schools.gov.sg|
-| Robotics | Mr Ong Fui Liang (OIC)<br>Mr Joshua Tan Lin (2IC) Jie<br>Mr Tan Boon Teck<br>Miss Zhao Fangming | ong_fui_liang@schools.gov.sg<br>joshua_tan_lin_jie@schools.gov.sg<br>tan_boon_teck_a@schools.gov.sg<br>zhao_fangming@schools.gov.sg |
+| Robotics | Mr Ong Fui Liang (OIC)<br>Mr Joshua Tan Lin Jie (2IC)<br>Mr Tan Boon Teck<br>Miss Zhao Fangming | ong_fui_liang@schools.gov.sg<br>joshua_tan_lin_jie@schools.gov.sg<br>tan_boon_teck_a@schools.gov.sg<br>zhao_fangming@schools.gov.sg |
 
 ##### **Cluster: Physical Sports**
 
