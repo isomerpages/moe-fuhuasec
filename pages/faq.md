@@ -21,7 +21,7 @@ variant: markdown
 <br> We operate from 7.30am to 6.30pm on school days and from 8.30am to 5.30pm during the school holidays. We do not operate on public holidays.&nbsp;
   
 **5\. What are the school terms?**
-<br> There are four terms in an academic year. In 2023, Term 1 runs from 3 January to 10 March; Term 2 from 20 March to 26 May; Term 3 from 26 June to 1 September; and Term 4 from 11 September to 17 November. The last full school day of Term 4 is 27 October as the school is one of the venues for the GCE O-Level written examinations.&nbsp;
+<br> There are four terms in an academic year. In 2024, Term 1 runs from 2 January to 8 March; Term 2 from 18 March to 24 May; Term 3 from 24 June to 30 August; and Term 4 from 9 September to 15 November. The last full school day of Term 4 is 25 October as the school is one of the venues for the GCE O-Level written examinations.
  
 **B. School Programmes**
 
@@ -44,7 +44,7 @@ There are three components in our CCE programme: CCE Lessons, School-based CCE a
 <br> We offer a total of 18 CCAs across the four clusters: Clubs and Societies, Physical Sports, Uniformed Groups and Visual and Performing Arts Groups. Please click&nbsp;**[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-partners/School-Advisory-Committee/school-based-scholarships-and-awards/)**&nbsp;for more information on our CCAs.
 
 **10\. What are the academic courses offered?**
-<br> We offer three academic courses: Express, Normal (Academic) and Normal (Technical).&nbsp;
+<br> From 2024, the school offers Full Subject-Based Banding (FSBB). Concurrently, we offer three academic courses to our Secondary 2-5 students: Express, Normal (Academic) and Normal (Technical)
 
 **11\. What are the academic subjects offered?**
 <br> Please see the table below for the academic subjects offered, by levels and courses.
