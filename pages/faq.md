@@ -49,20 +49,25 @@ There are three components in our CCE programme: CCE Lessons, School-based CCE a
 **11\. What are the academic subjects offered?**
 <br> Please see the table below for the academic subjects offered, by levels and courses.
 
+| Level | Posting Group | Subject |
+|:---:|:---:|:---:|
+|Secondary 1 | G3/G2/G1 (Common Curriculum)| Art, Music, Design &amp; Technology, Food &amp; Consumer Education and Physical Education | Secondary 1 | G3 | English Language, Mother Tongue Language, English Literature, Geography, History, Music, Mathematics and Science |
+|   | G2  | English Language, Mother Tongue Language, English Literature, Geography, History, Mathematics and Science |
+|  | G1 | English Language, Mother Tongue Language, Humanities, Mathematics, Science, Computer Applications |
+
 | Level | Course | Subject |
 |:---:|:---:|:---:|
-| Lower Secondary | Express  | English Language, Mother Tongue Language1, Higher Mother Tongue Language2, Art, English Literature, Geography, History, Music, Mathematics, Science, Design and Technology, and Food and Consumer Education |
-|   | Normal (Academic)  | English Language, Mother Tongue Language1, Art, English Literature, Geography, History, Music, Mathematics, Science, Design and Technology, and Food and Consumer Education |
-|  | Normal (Technical) | English Language, Mother Tongue Language1, Art, Music, Social Studies, Mathematics, Science, Computer Applications, Design and Technology, and Food and Consumer Education |
-| Upper Secondary | Express  | English Language, Mother Tongue Language1, Higher Mother Tongue Language2, Combined Humanities (Social Studies with Electives –  Geography or History), Art, English Literature, Geography, History, Elementary Mathematics, Additional Mathematics, Biology, Chemistry, Physics, Principles of Accounts |
-|   | Normal (Academic)  | English Language, Mother Tongue Language1, Combined Humanities (Social Studies with Electives – Geography or History), Art, Elementary Mathematics, Combined Science (Chemistry and Physics), Additional Mathematics, Design and Technology, and Food and Nutrition, Principles of Accounts |
-|   | Normal (Technical)  | English Language, Mother Tongue Language1, Social Studies, Elements of Business Skills, Mathematics, Science, Computer Applications, Design and Technology, and Food Studies |
+| Secondary 2 | Express  | English Language, Mother Tongue Language, Higher Mother Tongue Language, Art, English Literature, Geography, History, Music, Mathematics, Science, Design and Technology, and Food and Consumer Education |
+|   | Normal (Academic)  | English Language, Mother Tongue Language, Art, English Literature, Geography, History, Music, Mathematics, Science, Design and Technology, and Food and Consumer Education |
+|  | Normal (Technical) | English Language, Mother Tongue Language, Art, Music, Social Studies, Mathematics, Science, Computer Applications, Design and Technology, and Food and Consumer Education |
 
-1 Some Mother Tongue Languages may be offered at external centres&nbsp;
+| Level | Course | Subject |
+|:---:|:---:|:---:|
+| Upper Secondary | Express  | English Language, Mother Tongue Language, Higher Mother Tongue Language, Combined Humanities (Social Studies with Electives –  Geography or History), Art, English Literature, Geography, History, Elementary Mathematics, Additional Mathematics, Biology, Chemistry, Physics, Principles of Accounts |
+|   | Normal (Academic)  | English Language, Mother Tongue Language, Combined Humanities (Social Studies with Electives – Geography or History), Art, Elementary Mathematics, Combined Science (Chemistry and Physics), Additional Mathematics, Design and Technology, and Food and Nutrition, Principles of Accounts |
+|   | Normal (Technical)  | English Language, Mother Tongue Language, Social Studies, Elements of Business Skills, Mathematics, Science, Computer Applications, Design and Technology, and Food Studies |
 
-2 Some Higher Mother Tongue Languages may be offered at external centres
-
-Starting 2018, we offer Subject-Based Banding (SBB) for the Normal (Academic) and Normal (Technical) courses. SBB aims to help each student find fulfilment in learning and be motivated to excel in what he is good at. Students can take subjects in which they have done well in at a higher academic level. Based on the student’s Primary School Leaving Examination (PSLE) subject grades or Mid-Year Examination or End-of-Year Examination results, he may be offered English Language, Mother Tongue Language, Mathematics and/or Science at a higher academic level.&nbsp;  
+Note: Some Mother Tongue Languages and Higher Mother Tongue Languages may be offered at external centres.
 
 **12\. What are the school hours of a typical school day?**
 <br> All Fuhuanites are expected to report to school by&nbsp;**7.25am**&nbsp;on all days of the week except for Thursday. On Thursdays, Fuhuanites can report to school by&nbsp;**8.15am**.&nbsp;
@@ -94,30 +99,21 @@ The supplier of the formal school uniform and sports attire is My Uniform Shop, 
 2\. DSA through [Sports](/announcements/dsa-through-sports/) (Badminton, Shooting and Tchoukball) <br> <br>
 3\. DSA through [Performing Arts](/announcements/dsa-through-performing-arts/) (Choir, Concert Band and Chinese Orchestra)  
 
-**Please refer to our [DSA Announcement](/announcements/direct-school-admission/dsa2024/) for more details.**
-
-**17\. What is the Primary School Leaving Examination (PSLE) aggregate range of students admitted?**
-<br> The ranges of the 2023 Secondary 1 cohort, by courses, are as follows:  
-
-Express: 5 - 14 <br>
-Normal Academic: 21 - 23<br>
-Normal Technical: 25 - 28
-
 **E. Scholarships and Financial Matters**
 
-**18\. What are the school fees?**
+**17\. What are the school fees?**
 <br> We are a government school and charge Singapore citizen students a monthly school fee, a monthly standard miscellaneous fee and a monthly second-tier miscellaneous fee. The monthly second-tier miscellaneous fee is S$10. Students can use their Edusave Account to pay for the second-tier miscellaneous fee.&nbsp;  
 
 For Permanent Residents and International Students, a monthly school fee and a monthly miscellaneous fee is charged.&nbsp;
 
 Please click&nbsp;**[here](https://www.moe.gov.sg/financial-matters/fees)**&nbsp;for more information.
 
-**19\. What are the financial assistance schemes available?**
+**18\. What are the financial assistance schemes available?**
 <br> The Ministry of Education (MOE) provides financial assistance to needy Singapore citizen students in Government, Government-aided schools and Institutes of Higher Learning through the MOE Financial Assistance Scheme (FAS). This is to allow all Singaporeans, regardless of their financial background, to benefit from the best opportunities in education. Please click&nbsp;**[here](https://www.moe.gov.sg/financial-matters/financial-assistance)**&nbsp;for more information.
 
 For students who are not eligible for the MOE FAS but require financial assistance, the school provides financial assistance to needy Singapore citizen students, so that all Singaporean students can receive additional support to benefit from the opportunities in school. Please click&nbsp;**[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-partners/School-Advisory-Committee/school-based-scholarships-and-awards/)**&nbsp;for more information.&nbsp;
 
-**20\. What the scholarships and awards available?**
+**19\. What the scholarships and awards available?**
 <br> Edusave Awards are given by the government annually to Singaporean students to enhance educational opportunities and motivate them to excel in schools, in both academic and non-academic domains. The three broad categories of Edusave Awards are:  
 
 **1\. Excellence in Character and Values**
