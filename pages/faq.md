@@ -21,7 +21,7 @@ variant: markdown
 <br> We operate from 7.30am to 6.30pm on school days and from 8.30am to 5.30pm during the school holidays. We do not operate on public holidays.&nbsp;
   
 **5\. What are the school terms?**
-<br> There are four terms in an academic year. In 2023, Term 1 runs from 3 January to 10 March; Term 2 from 20 March to 26 May; Term 3 from 26 June to 1 September; and Term 4 from 11 September to 17 November. The last full school day of Term 4 is 27 October as the school is one of the venues for the GCE O-Level written examinations.&nbsp;
+<br> There are four terms in an academic year. In 2024, Term 1 runs from 2 January to 8 March; Term 2 from 18 March to 24 May; Term 3 from 24 June to 30 August; and Term 4 from 9 September to 15 November. The last full school day of Term 4 is 25 October as the school is one of the venues for the GCE O-Level written examinations.
  
 **B. School Programmes**
 
@@ -44,25 +44,30 @@ There are three components in our CCE programme: CCE Lessons, School-based CCE a
 <br> We offer a total of 18 CCAs across the four clusters: Clubs and Societies, Physical Sports, Uniformed Groups and Visual and Performing Arts Groups. Please click&nbsp;**[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-partners/School-Advisory-Committee/school-based-scholarships-and-awards/)**&nbsp;for more information on our CCAs.
 
 **10\. What are the academic courses offered?**
-<br> We offer three academic courses: Express, Normal (Academic) and Normal (Technical).&nbsp;
+<br> From 2024, the school offers Full Subject-Based Banding (FSBB). Concurrently, we offer three academic courses to our Secondary 2-5 students: Express, Normal (Academic) and Normal (Technical)
 
 **11\. What are the academic subjects offered?**
 <br> Please see the table below for the academic subjects offered, by levels and courses.
 
+| Level | Posting Group | Subject |
+|:---:|:---:|:---:|
+|Secondary 1 | G3/G2/G1 (Common Curriculum)| Art, Music, Design &amp; Technology, Food &amp; Consumer Education and Physical Education | Secondary 1 | G3 | English Language, Mother Tongue Language, English Literature, Geography, History, Music, Mathematics and Science |
+|   | G2  | English Language, Mother Tongue Language, English Literature, Geography, History, Mathematics and Science |
+|  | G1 | English Language, Mother Tongue Language, Humanities, Mathematics, Science, Computer Applications |
+
 | Level | Course | Subject |
 |:---:|:---:|:---:|
-| Lower Secondary | Express  | English Language, Mother Tongue Language1, Higher Mother Tongue Language2, Art, English Literature, Geography, History, Music, Mathematics, Science, Design and Technology, and Food and Consumer Education |
-|   | Normal (Academic)  | English Language, Mother Tongue Language1, Art, English Literature, Geography, History, Music, Mathematics, Science, Design and Technology, and Food and Consumer Education |
-|  | Normal (Technical) | English Language, Mother Tongue Language1, Art, Music, Social Studies, Mathematics, Science, Computer Applications, Design and Technology, and Food and Consumer Education |
-| Upper Secondary | Express  | English Language, Mother Tongue Language1, Higher Mother Tongue Language2, Combined Humanities (Social Studies with Electives –  Geography or History), Art, English Literature, Geography, History, Elementary Mathematics, Additional Mathematics, Biology, Chemistry, Physics, Principles of Accounts |
-|   | Normal (Academic)  | English Language, Mother Tongue Language1, Combined Humanities (Social Studies with Electives – Geography or History), Art, Elementary Mathematics, Combined Science (Chemistry and Physics), Additional Mathematics, Design and Technology, and Food and Nutrition, Principles of Accounts |
-|   | Normal (Technical)  | English Language, Mother Tongue Language1, Social Studies, Elements of Business Skills, Mathematics, Science, Computer Applications, Design and Technology, and Food Studies |
+| Secondary 2 | Express  | English Language, Mother Tongue Language, Higher Mother Tongue Language, Art, English Literature, Geography, History, Music, Mathematics, Science, Design and Technology, and Food and Consumer Education |
+|   | Normal (Academic)  | English Language, Mother Tongue Language, Art, English Literature, Geography, History, Music, Mathematics, Science, Design and Technology, and Food and Consumer Education |
+|  | Normal (Technical) | English Language, Mother Tongue Language, Art, Music, Social Studies, Mathematics, Science, Computer Applications, Design and Technology, and Food and Consumer Education |
 
-1 Some Mother Tongue Languages may be offered at external centres&nbsp;
+| Level | Course | Subject |
+|:---:|:---:|:---:|
+| Upper Secondary | Express  | English Language, Mother Tongue Language, Higher Mother Tongue Language, Combined Humanities (Social Studies with Electives –  Geography or History), Art, English Literature, Geography, History, Elementary Mathematics, Additional Mathematics, Biology, Chemistry, Physics, Principles of Accounts |
+|   | Normal (Academic)  | English Language, Mother Tongue Language, Combined Humanities (Social Studies with Electives – Geography or History), Art, Elementary Mathematics, Combined Science (Chemistry and Physics), Additional Mathematics, Design and Technology, and Food and Nutrition, Principles of Accounts |
+|   | Normal (Technical)  | English Language, Mother Tongue Language, Social Studies, Elements of Business Skills, Mathematics, Science, Computer Applications, Design and Technology, and Food Studies |
 
-2 Some Higher Mother Tongue Languages may be offered at external centres
-
-Starting 2018, we offer Subject-Based Banding (SBB) for the Normal (Academic) and Normal (Technical) courses. SBB aims to help each student find fulfilment in learning and be motivated to excel in what he is good at. Students can take subjects in which they have done well in at a higher academic level. Based on the student’s Primary School Leaving Examination (PSLE) subject grades or Mid-Year Examination or End-of-Year Examination results, he may be offered English Language, Mother Tongue Language, Mathematics and/or Science at a higher academic level.&nbsp;  
+Note: Some Mother Tongue Languages and Higher Mother Tongue Languages may be offered at external centres.
 
 **12\. What are the school hours of a typical school day?**
 <br> All Fuhuanites are expected to report to school by&nbsp;**7.25am**&nbsp;on all days of the week except for Thursday. On Thursdays, Fuhuanites can report to school by&nbsp;**8.15am**.&nbsp;
@@ -94,14 +99,13 @@ The supplier of the formal school uniform and sports attire is My Uniform Shop, 
 2\. DSA through [Sports](/announcements/dsa-through-sports/) (Badminton, Shooting and Tchoukball) <br> <br>
 3\. DSA through [Performing Arts](/announcements/dsa-through-performing-arts/) (Choir, Concert Band and Chinese Orchestra)  
 
-**Please refer to our [DSA Announcement](/announcements/direct-school-admission/dsa2024/) for more details.**
-
 **17\. What is the Primary School Leaving Examination (PSLE) aggregate range of students admitted?**
-<br> The ranges of the 2023 Secondary 1 cohort, by courses, are as follows:  
 
-Express: 5 - 14 <br>
-Normal Academic: 21 - 23<br>
-Normal Technical: 25 - 28
+The ranges of the 2024 Secondary 1 cohort are as follows:
+
+Posting Group 3: 6-13
+Posting Group 2: 21-23
+Posting Group 1: 25-27
 
 **E. Scholarships and Financial Matters**
 
