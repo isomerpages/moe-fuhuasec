@@ -99,21 +99,29 @@ The supplier of the formal school uniform and sports attire is My Uniform Shop, 
 2\. DSA through [Sports](/announcements/dsa-through-sports/) (Badminton, Shooting and Tchoukball) <br> <br>
 3\. DSA through [Performing Arts](/announcements/dsa-through-performing-arts/) (Choir, Concert Band and Chinese Orchestra)  
 
+**17\. What is the Primary School Leaving Examination (PSLE) aggregate range of students admitted?**
+
+The ranges of the 2024 Secondary 1 cohort are as follows:
+
+Posting Group 3: 6-13
+Posting Group 2: 21-23
+Posting Group 1: 25-27
+
 **E. Scholarships and Financial Matters**
 
-**17\. What are the school fees?**
+**18\. What are the school fees?**
 <br> We are a government school and charge Singapore citizen students a monthly school fee, a monthly standard miscellaneous fee and a monthly second-tier miscellaneous fee. The monthly second-tier miscellaneous fee is S$10. Students can use their Edusave Account to pay for the second-tier miscellaneous fee.&nbsp;  
 
 For Permanent Residents and International Students, a monthly school fee and a monthly miscellaneous fee is charged.&nbsp;
 
 Please click&nbsp;**[here](https://www.moe.gov.sg/financial-matters/fees)**&nbsp;for more information.
 
-**18\. What are the financial assistance schemes available?**
+**19\. What are the financial assistance schemes available?**
 <br> The Ministry of Education (MOE) provides financial assistance to needy Singapore citizen students in Government, Government-aided schools and Institutes of Higher Learning through the MOE Financial Assistance Scheme (FAS). This is to allow all Singaporeans, regardless of their financial background, to benefit from the best opportunities in education. Please click&nbsp;**[here](https://www.moe.gov.sg/financial-matters/financial-assistance)**&nbsp;for more information.
 
 For students who are not eligible for the MOE FAS but require financial assistance, the school provides financial assistance to needy Singapore citizen students, so that all Singaporean students can receive additional support to benefit from the opportunities in school. Please click&nbsp;**[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-partners/School-Advisory-Committee/school-based-scholarships-and-awards/)**&nbsp;for more information.&nbsp;
 
-**19\. What the scholarships and awards available?**
+**20\. What the scholarships and awards available?**
 <br> Edusave Awards are given by the government annually to Singaporean students to enhance educational opportunities and motivate them to excel in schools, in both academic and non-academic domains. The three broad categories of Edusave Awards are:  
 
 **1\. Excellence in Character and Values**
