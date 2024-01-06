@@ -22,19 +22,6 @@ sections:
           description: ""
           url: https://drive.google.com/file/d/11_soYo3lK7UePDqMeyYq2YQ5nJP8W00_/view?usp=drive_link
   - infobar:
-      title: Name List of Secondary 5 Students
-      subtitle: For 2024 Secondary 5 Students
-      id: infobar
-      button: LEARN MORE
-      url: https://drive.google.com/file/d/1dr9QAkIGthTrsdnnzPqkYVOGcPQHgRWJ/view?usp=sharing
-  - infobar:
-      title: 2023 GCE N Level Results
-      subtitle: BRIEFING SLIDES
-      id: infobar
-      button: LEARN MORE
-      url: https://drive.google.com/file/d/1-HwJ-3x7IBU9u1QtBTZ1tOex2yRW_kDa/view?usp=sharing
-      description: For Information and Action
-  - infobar:
       title: 2024 Sec 1 e-Registration Information
       id: infobar
       button: LEARN MORE
