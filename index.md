@@ -33,4 +33,11 @@ sections:
       button: APPLY NOW
       url: https://go.gov.sg/24fhsac
       description: "Deadline: 10 January 2024"
+  - infobar:
+      title: Release of 2023 O Level Results
+      subtitle: Thursday, 11 January 2024
+      id: infobar
+      description: For Information and Action
+      button: LEARN MORE
+      url: https://docs.google.com/document/d/1d_KKl5lKnxgiKN7JPf-7q8W8COXrfc6JQViJ3epllZs/edit?usp=sharing
 ---
