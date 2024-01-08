@@ -22,18 +22,12 @@ sections:
           description: ""
           url: https://drive.google.com/file/d/11_soYo3lK7UePDqMeyYq2YQ5nJP8W00_/view?usp=drive_link
   - infobar:
-      title: Name List of Secondary 5 Students
-      subtitle: For 2024 Secondary 5 Students
+      title: Release of 2023 O Level Results
+      subtitle: Thursday, 11 January 2024
       id: infobar
-      button: LEARN MORE
-      url: https://drive.google.com/file/d/1dr9QAkIGthTrsdnnzPqkYVOGcPQHgRWJ/view?usp=sharing
-  - infobar:
-      title: 2023 GCE N Level Results
-      subtitle: BRIEFING SLIDES
-      id: infobar
-      button: LEARN MORE
-      url: https://drive.google.com/file/d/1-HwJ-3x7IBU9u1QtBTZ1tOex2yRW_kDa/view?usp=sharing
       description: For Information and Action
+      button: LEARN MORE
+      url: https://docs.google.com/document/d/1d_KKl5lKnxgiKN7JPf-7q8W8COXrfc6JQViJ3epllZs/edit?usp=sharing
   - infobar:
       title: 2024 Sec 1 e-Registration Information
       id: infobar
