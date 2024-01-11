@@ -20,7 +20,7 @@ sections:
           url: https://www.fuhuasec.moe.edu.sg/fhssannual/
         - title: Timetable
           description: ""
-          url: https://drive.google.com/file/d/11_soYo3lK7UePDqMeyYq2YQ5nJP8W00_/view?usp=drive_link
+          url: https://drive.google.com/file/d/19xHYJPpYIiZnKkd7oDsMW4JH5LBGfKoW/view?usp=sharing
   - infobar:
       title: 2023 O Level Results
       subtitle: Briefing Slides
