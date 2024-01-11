@@ -22,12 +22,12 @@ sections:
           description: ""
           url: https://drive.google.com/file/d/11_soYo3lK7UePDqMeyYq2YQ5nJP8W00_/view?usp=drive_link
   - infobar:
-      title: Release of 2023 O Level Results
-      subtitle: Thursday, 11 January 2024
+      title: 2023 O Level Results
+      subtitle: Briefing Slides
       id: infobar
       description: For Information and Action
       button: LEARN MORE
-      url: https://docs.google.com/document/d/1d_KKl5lKnxgiKN7JPf-7q8W8COXrfc6JQViJ3epllZs/edit?usp=sharing
+      url: https://drive.google.com/file/d/1EyldCpSb4dlgmdOPd-1Nf7fZRSFuei50/view?usp=drive_link
   - infobar:
       title: 2024 Sec 1 e-Registration Information
       id: infobar
