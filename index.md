@@ -33,11 +33,4 @@ sections:
       id: infobar
       button: LEARN MORE
       url: https://drive.google.com/file/d/1tl5t_doBjwv5A9cMv73hRGejJKmWtsGW/view?usp=drive_link
-  - infobar:
-      title: Application for 2024 Fuhua SAC Scholarship
-      subtitle: FOR 2024 Sec 1 Students
-      id: infobar
-      button: APPLY NOW
-      url: https://go.gov.sg/24fhsac
-      description: "Deadline: 10 January 2024"
 ---
