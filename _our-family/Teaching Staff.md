@@ -11,11 +11,11 @@ variant: markdown
 
 | Class | Name | Email address |
 |:---:|---|---|
-| 1R1 | Miss Lai Min Lee <br> Miss Nur Sarah Binte Osman | lai_min_lee@schools.gov.sg |
+| 1R1 | Miss Lai Min Lee <br> Miss Nur Sarah Binte Osman | lai_min_lee@schools.gov.sg <br> nur_sarah_osman@moe.edu.sg |
 | 1R2 | Miss Kelly Sng <br> Mdm Zhang Sijia | kelly_sng@schools.gov.sg<br>zhang_sijia@schools.gov.sg |
 | 1R3 | Mr Khoo Yong Kang <br> Ms Grace Lee Ern | khoo_yong_kang@schools.gov.sg <br> grace_lee_ern@schools.gov.sg |
 | 1R4 | Ms Nur Hafizah Bte Ismail<br> Miss Zhao Fangming | nur_hafizah_ismail_a@schools.gov.sg<br>zhao_fangming@schools.gov.sg |
-| 1R5 | Ms Lim Ying Hui <br> Ms Rhyss Teo | lim_ying_hui@schools.gov.sg <br>  |
+| 1R5 | Ms Lim Ying Hui <br> Ms Rhyss Teo | lim_ying_hui@schools.gov.sg <br> rhyss_teresa_houssineau_a@schools.gov.sg |
 | 1R6 | Miss Rachel Liau <br> Mdm Rafidah Bte A Rahman | liau_jia_yu_rachel@schools.gov.sg <br>rafidah_a_rahman@schools.gov.sg |
 | 1R7 | Miss Yew Ning<br>Miss Nuha Amani| yew_ning@schools.gov.sg<br>nuha_amani_misbahuddin@schools.gov.sg |
 |  |  |  |
@@ -28,7 +28,7 @@ variant: markdown
 | 2I1 | Mr Ng Khong Keong | ng_khong_keong@schools.gov.sg |
 | 2I2 | Miss Tse Hal Ye Cherie<br>Ms Lim Lee Lian | tse_hal_ye_cherie@schools.gov.sg<br>lim_lee_lian_a@schools.gov.sg |
 | 2I3 | Ms Lai Hung Lan<br> Mr Low Ying Hong Theodore | lai_hung_lan@schools.gov.sg<br>low_ying_hongtheodore@schools.gov.sg |
-| 2I4 | Ms Kok Han Ni <br> Mr Lou Siew Meng | kok_han_ni@schools.gov.sg <br> |
+| 2I4 | Ms Kok Han Ni <br> Mr Lou Siew Meng | kok_han_ni@schools.gov.sg <br> lou_siew_meng@schools.gov.sg |
 | 2I5 | Mdm Teo Chek Gin | teo_chek_gin@schools.gov.sg|
 | 2I6 | Mr Tan Gek Guang<br>Miss Nurhuda bte Pardi | tan_gek_guang@schools.gov.sg<br>nurhuda_pardi@schools.gov.sg|
 | 2I7 |Mr Tan Yong Qiao Elton<br>Ms Ik Lee Lee | tan_yong_qiao_elton@schools.gov.sg<br>ik_lee_lee@schools.gov.sg |
