@@ -39,7 +39,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 7\. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.  
   
-To find out more about the Sexuality Education lessons that will be taught in 2024 at Fuhua Secondary School, view this document [here]([here](/files/SEd%20Curriculum.pdf)).
+To find out more about the Sexuality Education lessons that will be taught in 2024 at Fuhua Secondary School, view this document [here.](https://drive.google.com/file/d/1JUHqnfcYfPjGVsy23TS_3qaP_xo5AGVT/view?usp=sharing)
 
 ***eTeens* Programme**:
 
@@ -47,19 +47,19 @@ To find out more about the Sexuality Education lessons that will be taught in 20
 
 9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
 
-**At Fuhua Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2024:**
+**At Fuhua Secondary School, the *eTeens* programme will be implemented as follows in 2024:**
 
 | Topics/Lessons | Learning Objectives | Time Period |
 | -------- | -------- | -------- |
-| Mass Talk by HPB appointed vendor    | Raise awareness and provide knowledge on: <br><br> (a) Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use)<br><br> (b) Managing relationships and risky situations in a healthy way.  | Term 3 Week 6 |
+| Mass Talk by HPB appointed vendor | Raise awareness and provide knowledge on: <br><br> (a) Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use)<br><br> (b) Managing relationships and risky situations in a healthy way.  | Term 3 Week 6 |
 | Classroom-based Lesson | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 7 |
 
 #### Information for Parents
 
 10\. Parents may opt their children out of the Sexuality Education lessons, *eTeens* and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 02/02/2024.
+11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here.](https://drive.google.com/file/d/1andh8RQaHDdS88BoMpGZQFq67q9Rnzn6/view?usp=drive_link) The completed form is to be submitted by 02/02/2024.
 
-12\. Parents who wish to opt their children out of the ***eTeens* programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 02/02/2024.
+12\. Parents who wish to opt their children out of the ***eTeens* programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1nC-sC6NkbSkTrZr5MXCd0bNIxP5m_SuT/view?usp=drive_link). The completed form is to be submitted by 02/02/2024.
 
 13\. Parents can contact Miss Ruth Tang (HOD/CCE) at ruth_tang_joo_hong@schools.gov.sg or call 65007113 for discussion to seek clarification about the school's Sexuality Education programme. programme.
