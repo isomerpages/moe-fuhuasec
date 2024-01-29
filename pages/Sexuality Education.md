@@ -46,14 +46,14 @@ To find out more about the Sexuality Education lessons that will be taught in 20
 
 8\. *eTeens* is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. *eTeens* is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the *eTeens* programme is that students are empowered to make wise, informed and sensible decisions. 
 
-9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.
+9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
 
-**At Fuhua Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:**
+**At Fuhua Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2024:**
 
 | Topics/Lessons | Learning Objectives | Time Period |
 | -------- | -------- | -------- |
-| Mass Talk by HPB appointed vendor    | (i) Awareness of the different STIs and HIV/AIDS<br> (ii) Modes of Transmission<br> (iii) Modes of protection, specifically on how the condom is used<br> (iv) Consequences and impact of STIs/HIV    | Term 3 Week 6    |
-| Classroom-based Lesson    | (i) Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making     | Term 3 Week 7  |
+| Mass Talk by HPB appointed vendor    | Raise awareness and provide knowledge on (a) Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use)<br> (b) Managing relationships and risky situations in a healthy way.  | Term 3 Week 6 |
+| Classroom-based Lesson | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 7 |
 
 #### Information for Parents
 
