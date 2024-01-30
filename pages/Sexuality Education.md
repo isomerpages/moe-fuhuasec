@@ -58,8 +58,8 @@ To find out more about the Sexuality Education lessons that will be taught in 20
 
 10\. Parents may opt their children out of the Sexuality Education lessons, *eTeens* and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here.](https://drive.google.com/file/d/1andh8RQaHDdS88BoMpGZQFq67q9Rnzn6/view?usp=drive_link) The completed form is to be submitted by 02/02/2024.
+11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here.](https://drive.google.com/file/d/1andh8RQaHDdS88BoMpGZQFq67q9Rnzn6/view?usp=drive_link) The completed form is to be submitted by 16/02/2024.
 
-12\. Parents who wish to opt their children out of the ***eTeens* programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1nC-sC6NkbSkTrZr5MXCd0bNIxP5m_SuT/view?usp=drive_link). The completed form is to be submitted by 02/02/2024.
+12\. Parents who wish to opt their children out of the ***eTeens* programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1nC-sC6NkbSkTrZr5MXCd0bNIxP5m_SuT/view?usp=drive_link). The completed form is to be submitted by 16/02/2024.
 
 13\. Parents can contact Miss Ruth Tang (HOD/CCE) at ruth_tang_joo_hong@schools.gov.sg or call 65007113 for discussion to seek clarification about the school's Sexuality Education programme. programme.
