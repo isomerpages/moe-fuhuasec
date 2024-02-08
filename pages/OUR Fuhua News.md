@@ -8,4 +8,4 @@ variant: markdown
 
 #### 2024
 
-Click here[here](/our-school/fuhua-news/2024s1orientation/) to find out more!
+Click [here](/our-school/fuhua-news/2024s1orientation/) to find out more!
