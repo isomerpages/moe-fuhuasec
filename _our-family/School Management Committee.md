@@ -29,7 +29,7 @@ variant: markdown
 | Ms Melissa Wee | SH English  | wee_wen_jie_melissa@schools.gov.sg |
 | Mdm Aw Soo Bing | SH Mathematics  | aw_soo_bing@schools.gov.sg |
 | Mr Lee Yuen Lim | SH ICT | lee_yuen_lim@schools.gov.sg |
-| Mr Bradley Soh | SH Humanities | soh_chun_ying_bradley@schools.gov.sg |
+| Mr Bradley Soh | SH Humanities | bradley_soh@schools.gov.sg |
 | Ms Chan Bijun | SH CCE | chan_bijun@schools.gov.sg |
 | Mr Richard Tan | SH Physical Education | tan_kee_chong@schools.gov.sg |
 | Mr Liu Yaozhong | SH Discipline (Covering HOD Discipline) | liu_yaozhong@schools.gov.sg 
