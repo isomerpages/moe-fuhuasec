@@ -14,7 +14,7 @@ sections:
           url: /announcements/overview/
         - title: FUHUA NEWS
           description: ""
-          url: https://www.fuhuasec.moe.edu.sg/our-school/fuhua-news/cny23/
+          url: https://www.fuhuasec.moe.edu.sg/our-school/fuhua-news/2024s1orientation/
         - title: Fuhua Annual
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/fhssannual/
