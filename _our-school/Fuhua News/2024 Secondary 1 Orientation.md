@@ -21,3 +21,5 @@ school, a school amazing race and CCA Orientation to give them a glimpse
 of the wide range of CCAs we offer.</p>
 <p>&nbsp;The week-long programme culminated in the Orientation Camp Fire,
 with each class presenting their class cheers and school cheer.</p>
+<p>Click here to view pictures of the event!</p>
+<p></p>
