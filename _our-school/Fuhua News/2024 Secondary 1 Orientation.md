@@ -21,6 +21,7 @@ school, a school amazing race and CCA Orientation to give them a glimpse
 of the wide range of CCAs we offer.</p>
 <p>The week-long programme culminated in the Orientation Camp Fire, with
 each class presenting their class cheers and school cheer.</p>
+<p>A BIG AND WARM WELCOME TO ALL SECONDARY 1 STUDENTS!</p>
 <p><strong>Click <a href="https://drive.google.com/drive/folders/15tU52dhcZeLULOoI2c12BPXK2buBexZF?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to view snapshots of the event!</strong>
 </p>
 <p></p>
