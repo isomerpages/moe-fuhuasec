@@ -34,10 +34,10 @@ sections:
       button: LEARN MORE
       url: https://docs.google.com/document/d/e/2PACX-1vRY9grprmv6zyYqW0hD89717TvOn5FemE6IOehli7p5PXoL6l_DSiRBj1OsOOFNQIrJdsUq-UMTTFLJ/pub
   - infobar:
-      title: ARIF BUDIMAN MALAY LANGUAGE TEACHERS' AWARD
+      title: Arif Budiman Malay Language Teachers' Award
       subtitle: FOR NOMINATION
       id: infobar
       description: "Closing Date: 1 April 2024"
       button: LEARN MORE
-      url: https://docs.google.com/presentation/d/1thF9e0JpoKvq4axtVYon1inHtyV6np0S-TwAtWATe8Q/edit?usp=sharing
+      url: https://docs.google.com/presentation/d/e/2PACX-1vSR1BkxAEV9Zvk5UrYmXjvQbVqRpvK21lhsKWp7ZXXOrjLzplvyvtXMcEU1vilLoQs9eNuLCd8lfaTM/pub?start=false&loop=false&delayms=3000
 ---
