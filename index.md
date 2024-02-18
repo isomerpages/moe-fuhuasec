@@ -22,22 +22,15 @@ sections:
           description: ""
           url: https://drive.google.com/file/d/19xHYJPpYIiZnKkd7oDsMW4JH5LBGfKoW/view?usp=sharing
   - infobar:
-      title: 2024 Sexuality Education
-      subtitle: For Information and Action
-      id: infobar
-      description: By 16 February 2024
-      button: LEARN MORE
-      url: https://staging.d2jrpotv8emy04.amplifyapp.com/cce/Sexuality-Education/
-  - infobar:
-      title: 2024 Schemes of Assessment
-      id: infobar
-      button: LEARN MORE
-      url: https://docs.google.com/document/d/e/2PACX-1vRY9grprmv6zyYqW0hD89717TvOn5FemE6IOehli7p5PXoL6l_DSiRBj1OsOOFNQIrJdsUq-UMTTFLJ/pub
-  - infobar:
       title: Arif Budiman Malay Language Teachers' Award
       subtitle: FOR NOMINATION
       id: infobar
       description: "Closing Date: 1 April 2024"
       button: LEARN MORE
       url: https://docs.google.com/presentation/d/e/2PACX-1vSR1BkxAEV9Zvk5UrYmXjvQbVqRpvK21lhsKWp7ZXXOrjLzplvyvtXMcEU1vilLoQs9eNuLCd8lfaTM/pub?start=false&loop=false&delayms=3000
+  - infobar:
+      title: 2024 Schemes of Assessment
+      id: infobar
+      button: LEARN MORE
+      url: https://docs.google.com/document/d/e/2PACX-1vRY9grprmv6zyYqW0hD89717TvOn5FemE6IOehli7p5PXoL6l_DSiRBj1OsOOFNQIrJdsUq-UMTTFLJ/pub
 ---
