@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/173.jpg
+      background: /images/217.jpg
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
@@ -18,9 +18,23 @@ sections:
         - title: Fuhua Annual
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/fhssannual/
-        - title: Timetable
+  - textcards:
+      title: Term 2 Timetables
+      id: textcards
+      cards:
+        - title: Class Timetables
           description: ""
-          url: https://drive.google.com/file/d/19xHYJPpYIiZnKkd7oDsMW4JH5LBGfKoW/view?usp=sharing
+          linktext: View here
+          url: https://drive.google.com/file/d/1Bn740HYL2phWaMuOH6AuQBuLRlRhNuM9/view?usp=sharing
+        - title: Supplementary Lesson Timetable
+          description: For graduating classes
+          linktext: View here
+          url: https://drive.google.com/file/d/1cxND_AbsIKKsXvX3Picut-iM13Pjf1Bk/view?usp=sharing
+  - infobar:
+      title: 2024 Schemes of Assessment
+      id: infobar
+      button: LEARN MORE
+      url: https://docs.google.com/document/d/e/2PACX-1vRY9grprmv6zyYqW0hD89717TvOn5FemE6IOehli7p5PXoL6l_DSiRBj1OsOOFNQIrJdsUq-UMTTFLJ/pub
   - infobar:
       title: Arif Budiman Malay Language Teachers' Award
       subtitle: FOR NOMINATION
@@ -28,9 +42,4 @@ sections:
       description: "Closing Date: 1 April 2024"
       button: LEARN MORE
       url: https://docs.google.com/presentation/d/e/2PACX-1vSR1BkxAEV9Zvk5UrYmXjvQbVqRpvK21lhsKWp7ZXXOrjLzplvyvtXMcEU1vilLoQs9eNuLCd8lfaTM/pub?start=false&loop=false&delayms=3000
-  - infobar:
-      title: 2024 Schemes of Assessment
-      id: infobar
-      button: LEARN MORE
-      url: https://docs.google.com/document/d/e/2PACX-1vRY9grprmv6zyYqW0hD89717TvOn5FemE6IOehli7p5PXoL6l_DSiRBj1OsOOFNQIrJdsUq-UMTTFLJ/pub
 ---
