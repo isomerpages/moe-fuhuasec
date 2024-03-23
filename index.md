@@ -35,8 +35,20 @@ sections:
       id: infobar
       button: LEARN MORE
       url: https://docs.google.com/document/d/e/2PACX-1vRY9grprmv6zyYqW0hD89717TvOn5FemE6IOehli7p5PXoL6l_DSiRBj1OsOOFNQIrJdsUq-UMTTFLJ/pub
+  - textcards:
+      title: Recognising OUR Teachers
+      id: textcards
+      description: Nominate now!
+      cards:
+        - title: "Distinguished Chinese Language Teachers Awards "
+          description: Card description
+          linktext: Learn more
+          url: https://drive.google.com/file/d/1DYbxQZY4iE2yiMMXbveNgOLo-dc-PW1n/view?usp=sharing
+        - title: Arif Budiman Malay Language Teachers' Award
+          description: ""
+          linktext: Learn more
+          url: ""
   - infobar:
-      title: Arif Budiman Malay Language Teachers' Award
       subtitle: FOR NOMINATION
       id: infobar
       description: "Closing Date: 1 April 2024"
