@@ -11,7 +11,7 @@ variant: markdown
 
 | Class | Name | Email address |
 |:---:|---|---|
-| 1R1 | Miss Lai Min Lee <br> Miss Nur Sarah Binte Osman | lai_min_lee@schools.gov.sg <br> nur_sarah_osman@moe.edu.sg |
+| 1R1 | Miss Lai Min Lee <br> Miss Nur Sarah Binte Osman | lai_min_lee@schools.gov.sg <br> nur_sarah_osman@schools.gov.sg |
 | 1R2 | Miss Kelly Sng <br> Mdm Zhang Sijia | kelly_sng@schools.gov.sg<br>zhang_sijia@schools.gov.sg |
 | 1R3 | Mr Khoo Yong Kang <br> Ms Grace Lee Ern | khoo_yong_kang@schools.gov.sg <br> grace_lee_ern@schools.gov.sg |
 | 1R4 | Ms Nur Hafizah Bte Ismail<br> Miss Zhao Fangming | nur_hafizah_ismail_a@schools.gov.sg<br>zhao_fangming@schools.gov.sg |
@@ -28,7 +28,7 @@ variant: markdown
 | 2I1 | Mr Ng Khong Keong | ng_khong_keong@schools.gov.sg |
 | 2I2 | Miss Tse Hal Ye Cherie<br>Ms Lim Lee Lian | tse_hal_ye_cherie@schools.gov.sg<br>lim_lee_lian_a@schools.gov.sg |
 | 2I3 | Ms Lai Hung Lan<br> Mr Low Ying Hong Theodore | lai_hung_lan@schools.gov.sg<br>low_ying_hongtheodore@schools.gov.sg |
-| 2I4 | Ms Kok Han Ni <br> Mr Lou Siew Meng | kok_han_ni@schools.gov.sg <br> lou_siew_meng@schools.gov.sg |
+| 2I4 | Ms Kok Han Ni | kok_han_ni@schools.gov.sg |
 | 2I5 | Mdm Teo Chek Gin | teo_chek_gin@schools.gov.sg|
 | 2I6 | Mr Tan Gek Guang<br>Miss Nurhuda bte Pardi | tan_gek_guang@schools.gov.sg<br>nurhuda_pardi@schools.gov.sg|
 | 2I7 |Mr Tan Yong Qiao Elton<br>Ms Ik Lee Lee | tan_yong_qiao_elton@schools.gov.sg<br>ik_lee_lee@schools.gov.sg |
@@ -43,9 +43,9 @@ variant: markdown
 | 3S2 | Mdm Hia Soo Ching | hia_soo_ching@schools.gov.sg
 | 3S3 | Miss Siti Nurasyikin | siti_nurasyikin_abdullah@schools.gov.sg |
 | 3S4 | Ms Tan Tuan Ling<br>Mdm Yeo Sian Hui Adeline | tan_tuan_ling@schools.gov.sg<br>yeo_sian_hui_adeline@schools.gov.sg |
-| 3S5 | Miss Esther Diana Lim | esther_lim_you_qi@schools.gov.sg |
+| 3S5 | Miss Esther Diana Lim <br> Mr Wan Guanxiang | esther_lim_you_qi@schools.gov.sg <br> wan_guanxiang@schools.gov.sg |
 | 3S6 | Miss Angeline Chua | chua_wan_ching_angeline@schools.gov.sg|
-| 3S7 | Mr James Chia | chia_chun_teck@schools.gov.sg
+| 3S7 | Mr James Chia <br> Ms Lin Xiuxia | chia_chun_teck@schools.gov.sg <br> lin_xiuxia@schools.gov.sg
 | 3S8 | Mdm Rohana Bte Ismail<br>Mr Chew Mingzhi | rohana_ismail@schools.gov.sg<br>chew_mingzhi@schools.gov.sg | 
 |  |  |  |
 
@@ -81,7 +81,7 @@ variant: markdown
 |---|---|---|
 | Aesthetics, Craft &amp; Technology | Mr Abdol Rahim Bin Yassin<br>Mr Quan Wing Wah | abdol_rahim_yassin@schools.gov.sg<br>quan_wing_wah@schools.gov.sg | 
 | English | Ms Mary Christina Stanislaw<br>Ms Chen Siying Jasmine<br>Mr Low Choon How Michael |  mary_christina_stanislaw@schools.gov.sg<br>chen_siying_jasmine@schools.gov.sg<br>low_choon_how@schools.gov.sg |
-| Mother Tongue | Ms Lok Wai See<br>Ms Zhang Li | lok_wai_see_a@schools.gov.sg<br>zhang_li_d@schools.gov.sg |
+| Mother Tongue | Ms Lok Wai See<br>Ms Zhang Li <br> Mr Ismail Bin Ja'afar | lok_wai_see_a@schools.gov.sg<br>zhang_li_d@schools.gov.sg <br> ismail_b_jaafar@schools.gov.sg |
 | Humanities | Miss Elaine Lim <br>Ms Lee Lay Hwa<br> Mr Ian Tai Zhi Jian | elaine_lim_mei_mei@schools.gov.sg <br>lee_lay_hwa@schools.gov.sg<br>ian_tai_zhi_jian@schools.gov.sg|
 | Mathematics | Mrs Tay Ai Chin<br>Ms Tan Xin Yi<br>Miss Gao Conger | tay_ai_chin@schools.gov.sg <br>tan_xin_yi@schools.gov.sg<br>gao_conger@schools.gov.sg |
 | Science | Mr Loh Kuin Phei<br>Ms Jasmine Lim<br>Mr Lee Siow Tong<br>Mr Toh Wei Shun | loh_kuin_phei_a@schools.gov.sg<br>lim_jia_lin@schools.gov.sg<br>lee_siow_tong@schools.gov.sg<br>toh_wei_shun@schools.gov.sg |
