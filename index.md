@@ -30,16 +30,22 @@ sections:
           description: For graduating classes
           linktext: View here
           url: https://drive.google.com/file/d/1cxND_AbsIKKsXvX3Picut-iM13Pjf1Bk/view?usp=sharing
+  - textcards:
+      title: Recognising OUR Teachers
+      id: textcards
+      description: Nominate now!
+      cards:
+        - title: Arif Budiman Malay Language Teachers' Award
+          description: "Closing Date: 1 April 2024"
+          linktext: Learn more
+          url: https://docs.google.com/presentation/d/e/2PACX-1vSR1BkxAEV9Zvk5UrYmXjvQbVqRpvK21lhsKWp7ZXXOrjLzplvyvtXMcEU1vilLoQs9eNuLCd8lfaTM/pub?start=false&loop=false&delayms=3000
+        - title: Distinguished Chinese Language Teachers' Awards
+          description: "Closing Date: 12 May 2024"
+          linktext: Learn more
+          url: https://drive.google.com/file/d/1DYbxQZY4iE2yiMMXbveNgOLo-dc-PW1n/view?usp=sharing
   - infobar:
       title: 2024 Schemes of Assessment
       id: infobar
       button: LEARN MORE
       url: https://docs.google.com/document/d/e/2PACX-1vRY9grprmv6zyYqW0hD89717TvOn5FemE6IOehli7p5PXoL6l_DSiRBj1OsOOFNQIrJdsUq-UMTTFLJ/pub
-  - infobar:
-      title: Arif Budiman Malay Language Teachers' Award
-      subtitle: FOR NOMINATION
-      id: infobar
-      description: "Closing Date: 1 April 2024"
-      button: LEARN MORE
-      url: https://docs.google.com/presentation/d/e/2PACX-1vSR1BkxAEV9Zvk5UrYmXjvQbVqRpvK21lhsKWp7ZXXOrjLzplvyvtXMcEU1vilLoQs9eNuLCd8lfaTM/pub?start=false&loop=false&delayms=3000
 ---
