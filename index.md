@@ -35,10 +35,6 @@ sections:
       id: textcards
       description: Nominate now!
       cards:
-        - title: Arif Budiman Malay Language Teachers' Award
-          description: "Closing Date: 1 April 2024"
-          linktext: Learn more
-          url: https://docs.google.com/presentation/d/e/2PACX-1vSR1BkxAEV9Zvk5UrYmXjvQbVqRpvK21lhsKWp7ZXXOrjLzplvyvtXMcEU1vilLoQs9eNuLCd8lfaTM/pub?start=false&loop=false&delayms=3000
         - title: Distinguished Chinese Language Teachers' Awards
           description: "Closing Date: 12 May 2024"
           linktext: Learn more
