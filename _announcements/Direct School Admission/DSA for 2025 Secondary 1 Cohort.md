@@ -23,7 +23,7 @@ related to the talent they are selected for from Secondary 1 to 4.</p>
 <p><strong>DSA at Fuhua Secondary School</strong>
 </p>
 <p>The school is inviting applications for DSA in the following areas:</p>
-<p>(1) DSA through the school’s <strong>Applied Sciences - Forensic Science </strong>
+<p>(1) DSA through the school’s <strong>Applied Sciences - Forensic Science</strong>
 </p>
 <p>(2) DSA through <strong>Sports: Badminton, Shooting, Table Tennis </strong>and <strong>Tchoukball</strong>
 </p>
