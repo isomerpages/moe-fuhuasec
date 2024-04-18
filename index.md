@@ -44,4 +44,10 @@ sections:
       id: infobar
       button: LEARN MORE
       url: https://docs.google.com/document/d/e/2PACX-1vRY9grprmv6zyYqW0hD89717TvOn5FemE6IOehli7p5PXoL6l_DSiRBj1OsOOFNQIrJdsUq-UMTTFLJ/pub
+  - infobar:
+      title: DSA for 2025 Secondary 1 Cohort
+      subtitle: FOR PROSPECTIVE STUDENTS
+      id: infobar
+      button: LEARN MORE
+      url: /dsa-for-2025-secondary-1-cohort/
 ---
