@@ -18,6 +18,12 @@ sections:
         - title: Fuhua Annual
           description: ""
           url: https://www.fuhuasec.moe.edu.sg/fhssannual/
+  - infobar:
+      title: DSA for 2025 Secondary 1 Cohort
+      subtitle: FOR PROSPECTIVE STUDENTS
+      id: infobar
+      button: LEARN MORE
+      url: /dsa-for-2025-secondary-1-cohort/
   - textcards:
       title: Term 2 Timetables
       id: textcards

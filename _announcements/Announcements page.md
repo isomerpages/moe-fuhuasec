@@ -9,13 +9,13 @@ variant: markdown
 
 ***
 
-[**Uninstalling DMA from Sec 4 Students' PLDs**](https://sites.google.com/moe.edu.sg/ndlp-pld-portal/dma-and-cyber-wellness/dma-uninstallation-for-sec-4-students-plds-in-2022)
+[**Uninstalling DMA from Sec 4 Students' PLDs**](https://sites.google.com/moe.edu.sg/ndlp-pld-portal/dma-and-cyber-wellness/dma-uninstallation-for-sec-4-students-plds?authuser=0)
 
 Dear Sec 4 students, please get prepared for the uninstallation of the DMA from your PLD. Click here and follow the steps.
 
 * * *
 
-[**PLD Initiative Student Device Info Kit**](https://drive.google.com/file/d/1QNMr8JGEshB0P79qM9vtbmu2a11WhkJh/view?usp=sharing)
+[**PLD Initiative Student Device Info Kit**](https://sites.google.com/moe.edu.sg/ndlp-pld-portal/home?authuser=0)
 
 Click here to find out how to seek supports for PLD technical issues.
 
