@@ -29,8 +29,8 @@ related to the talent they are selected for from Secondary 1 to 4.</p>
 </p>
 <p>(3) DSA through <strong>Performing Arts: Choir, Concert Band</strong> and<strong> Chinese Orchestra</strong>
 </p>
-<p>Please refer to this document for the selection criteria and process for
-the above talent areas.</p>
+<p>Please refer to <a href="https://drive.google.com/file/d/1ulSidO_cxVp8it-HGQXfpJN1xCNypyKj/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">this document</a> for
+the selection criteria and process for the above talent areas.</p>
 <p>For clarifications on the DSA Exercise, the school can be contacted via
 the following channels:</p>
 <table style="minWidth: 50px">
