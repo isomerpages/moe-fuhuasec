@@ -23,11 +23,11 @@ related to the talent they are selected for from Secondary 1 to 4.</p>
 <p><strong>DSA at Fuhua Secondary School</strong>
 </p>
 <p>The school is inviting applications for DSA in the following areas:</p>
-<p>(1) DSA through the school’s <strong>Applied Sciences - Forensic Science</strong>
+<p>(1) DSA through the school’s <a href="https://www.fuhuasec.moe.edu.sg/announcements/dsa-through-alp/" rel="noopener noreferrer nofollow" target="_blank">Applied Sciences - Forensic Science</a>
 </p>
-<p>(2) DSA through <strong>Sports: Badminton, Shooting, Table Tennis </strong>and <strong>Tchoukball</strong>
+<p>(2) DSA through <a href="https://www.fuhuasec.moe.edu.sg/announcements/dsa-through-sports/" rel="noopener noreferrer nofollow" target="_blank">Sports: Badminton, Shooting, Table Tennis and Tchoukball</a>
 </p>
-<p>(3) DSA through <strong>Performing Arts: Choir, Concert Band</strong> and<strong> Chinese Orchestra</strong>
+<p>(3) DSA through <a href="https://www.fuhuasec.moe.edu.sg/announcements/dsa-through-performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Performing Arts: Choir, Concert Band and Chinese Orchestra</a>
 </p>
 <p>Please refer to <a href="https://drive.google.com/file/d/1ulSidO_cxVp8it-HGQXfpJN1xCNypyKj/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">this document</a> for
 the selection criteria and process for the above talent areas.</p>
