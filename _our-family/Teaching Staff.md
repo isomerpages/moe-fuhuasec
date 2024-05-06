@@ -26,7 +26,7 @@ variant: markdown
 | Class | Name | Email address |
 |:---:|---|---|
 | 2I1 | Mr Ng Khong Keong | ng_khong_keong@schools.gov.sg |
-| 2I2 | Miss Tse Hal Ye Cherie<br>Ms Lim Lee Lian | tse_hal_ye_cherie@schools.gov.sg<br>lim_lee_lian_a@schools.gov.sg |
+| 2I2 | Ms Lim Lee Lian | lim_lee_lian_a@schools.gov.sg |
 | 2I3 | Ms Lai Hung Lan<br> Mr Low Ying Hong Theodore <br> Ms Tay Wen Hui | lai_hung_lan@schools.gov.sg<br>low_ying_hongtheodore@schools.gov.sg <br> tay_wen_hui@schools.gov.sg |
 | 2I4 | Ms Kok Han Ni | kok_han_ni@schools.gov.sg |
 | 2I5 | Mdm Teo Chek Gin | teo_chek_gin@schools.gov.sg|
