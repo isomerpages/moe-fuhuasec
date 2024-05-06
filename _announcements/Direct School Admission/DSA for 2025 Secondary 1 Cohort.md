@@ -23,15 +23,45 @@ related to the talent they are selected for from Secondary 1 to 4.</p>
 <p><strong>DSA at Fuhua Secondary School</strong>
 </p>
 <p>The school is inviting applications for DSA in the following areas:</p>
-<p>(1) DSA through the school’s <strong>Applied Sciences - Forensic Science</strong>
+<p>(1) DSA through the school’s <a href="https://www.fuhuasec.moe.edu.sg/announcements/dsa-through-alp/" rel="noopener noreferrer nofollow" target="_blank">Applied Sciences - Forensic Science</a>
 </p>
-<p>(2) DSA through <strong>Sports: Badminton, Shooting, Table Tennis </strong>and <strong>Tchoukball</strong>
+<p>(2) DSA through <a href="https://www.fuhuasec.moe.edu.sg/announcements/dsa-through-sports/" rel="noopener noreferrer nofollow" target="_blank">Sports: Badminton, Shooting, Table Tennis and Tchoukball</a>
 </p>
-<p>(3) DSA through <strong>Performing Arts: Choir, Concert Band</strong> and<strong> Chinese Orchestra</strong>
+<p>(3) DSA through <a href="https://www.fuhuasec.moe.edu.sg/announcements/dsa-through-performing-arts/" rel="noopener noreferrer nofollow" target="_blank">Performing Arts: Choir, Concert Band and Chinese Orchestra</a>
 </p>
+<p>Please refer to <a href="https://drive.google.com/file/d/1ulSidO_cxVp8it-HGQXfpJN1xCNypyKj/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">this document</a> for
+the selection criteria and process for the above talent areas.</p>
+<p>For clarifications on the DSA Exercise, the school can be contacted via
+the following channels:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em><a href="mailto:fhss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fhss@moe.edu.sg</a></em>
+</p>
+<p><em>(Indicate in the subject field - DSA Enquiries &lt;Name of Applicant&gt;)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact Numbers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Telephone: +65 6563 3067</p>
+<p>Fax: +65 6563 4379</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p>The selection criteria and process for the talent areas will be updated
-from early-May.</p>
 <p>For more information on DSA-Sec, please refer to the MOE website at
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>

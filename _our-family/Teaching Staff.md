@@ -26,8 +26,8 @@ variant: markdown
 | Class | Name | Email address |
 |:---:|---|---|
 | 2I1 | Mr Ng Khong Keong | ng_khong_keong@schools.gov.sg |
-| 2I2 | Miss Tse Hal Ye Cherie<br>Ms Lim Lee Lian | tse_hal_ye_cherie@schools.gov.sg<br>lim_lee_lian_a@schools.gov.sg |
-| 2I3 | Ms Lai Hung Lan<br> Mr Low Ying Hong Theodore | lai_hung_lan@schools.gov.sg<br>low_ying_hongtheodore@schools.gov.sg |
+| 2I2 | Ms Lim Lee Lian | lim_lee_lian_a@schools.gov.sg |
+| 2I3 | Ms Lai Hung Lan<br> Mr Low Ying Hong Theodore <br> Ms Tay Wen Hui | lai_hung_lan@schools.gov.sg<br>low_ying_hongtheodore@schools.gov.sg <br> tay_wen_hui@schools.gov.sg |
 | 2I4 | Ms Kok Han Ni | kok_han_ni@schools.gov.sg |
 | 2I5 | Mdm Teo Chek Gin | teo_chek_gin@schools.gov.sg|
 | 2I6 | Mr Tan Gek Guang<br>Miss Nurhuda bte Pardi | tan_gek_guang@schools.gov.sg<br>nurhuda_pardi@schools.gov.sg|
@@ -80,7 +80,7 @@ variant: markdown
 | Department | Name | Email address |
 |---|---|---|
 | Aesthetics, Craft &amp; Technology | Mr Abdol Rahim Bin Yassin<br>Mr Quan Wing Wah | abdol_rahim_yassin@schools.gov.sg<br>quan_wing_wah@schools.gov.sg | 
-| English | Ms Mary Christina Stanislaw<br>Ms Chen Siying Jasmine<br>Mr Low Choon How Michael |  mary_christina_stanislaw@schools.gov.sg<br>chen_siying_jasmine@schools.gov.sg<br>low_choon_how@schools.gov.sg |
+| English | Ms Chen Siying Jasmine<br>Mr Low Choon How Michael | chen_siying_jasmine@schools.gov.sg<br>low_choon_how@schools.gov.sg |
 | Mother Tongue | Ms Lok Wai See<br>Ms Zhang Li <br> Mr Ismail Bin Ja'afar | lok_wai_see_a@schools.gov.sg<br>zhang_li_d@schools.gov.sg <br> ismail_b_jaafar@schools.gov.sg |
 | Humanities | Miss Elaine Lim <br>Ms Lee Lay Hwa<br> Mr Ian Tai Zhi Jian | elaine_lim_mei_mei@schools.gov.sg <br>lee_lay_hwa@schools.gov.sg<br>ian_tai_zhi_jian@schools.gov.sg|
 | Mathematics | Mrs Tay Ai Chin<br>Ms Tan Xin Yi<br>Miss Gao Conger | tay_ai_chin@schools.gov.sg <br>tan_xin_yi@schools.gov.sg<br>gao_conger@schools.gov.sg |
