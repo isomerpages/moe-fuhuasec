@@ -3,10 +3,11 @@ title: "DSA through Performing Arts: Choir, Concert Band and Chinese Orchestra"
 permalink: /announcements/dsa-through-performing-arts/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 [Home](https://fuhuasec.moe.edu.sg/) \> Life@Fuhua > Announcements > DSA through Performing Arts: Chinese Orchestra and Concert Band
 
-### DSA through Performing Arts: Chinese Orchestra and Concert Band
+### DSA through Performing Arts: Choir, Chinese Orchestra and Concert Band
 
   
 
@@ -32,21 +33,24 @@ The school is looking for Primary 6 students with the following qualities: 
 *   Conduct Grade of 'Good' or better in Primary 5 and 6, and, 
 *   Possess a positive attitude and a sense of commitment.
 
-  
 
 3\. **Participation in Music**
 
 *   Have participated in the CCA applied for in their primary school and/or have a strong aesthetics background and interest in music.
 
 Shortlisted applicants will be assessed on both their demonstrated and potential abilities and qualities, through interviews and auditions. During the auditions, applicants can use their own instrument or instruments from their primary schools.   
-  
 
-*   Concert Band
+**Choir**
+
+*   Shortlisted applicants will be required to sing from one choral piece of music (in any voice part) of his/her choice. 
+*   He/she will be required to send the music score to the interviewers before the commencement of the interview.
+
+**Concert Band**
 
 *   Shortlisted applicants will be required to play a piece of his/her choice.
 *   He/she will be required to send the music score to the interviewers before the commencement of the interview.
 
-*   Chinese Orchestra
+**Chinese Orchestra**
 
 *   Shortlisted applicants will be required to play a piece of his/her choice.
 *   He/she will also be given a piece of music to sight-read during the interview.
