@@ -25,17 +25,8 @@ sections:
       button: LEARN MORE
       url: /dsa-for-2025-secondary-1-cohort/
   - infobar:
-      title: Collection of SGC
+      title: School Graduation Certificate
       subtitle: For 2023 4E/5N & 4NT STUDENTS
       id: infobar
-      description: Please collect your SGC at the General Office from 8 May 2024.
-  - textcards:
-      title: Recognising OUR Teachers
-      id: textcards
-      description: Nominate now!
-      cards:
-        - title: Distinguished Chinese Language Teachers' Awards
-          description: "Closing Date: 12 May 2024"
-          linktext: Learn more
-          url: https://drive.google.com/file/d/1DYbxQZY4iE2yiMMXbveNgOLo-dc-PW1n/view?usp=sharing
+      description: Please collect your SGC at the General Office from 8 May onwards.
 ---
