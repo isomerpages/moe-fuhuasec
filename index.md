@@ -25,6 +25,12 @@ sections:
       button: LEARN MORE
       url: /dsa-for-2025-secondary-1-cohort/
   - infobar:
+      title: Experiential Learning Week
+      subtitle: TERM 2 WEEK 10
+      id: infobar
+      button: view schedule here
+      url: https://drive.google.com/file/d/1o-wRQkUOVX9NJzbPI4lfix8OAOY2Di3E/view?usp=sharing
+  - infobar:
       title: School Graduation Certificate
       subtitle: For 2023 4E/5N & 4NT STUDENTS
       id: infobar
