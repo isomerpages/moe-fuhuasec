@@ -33,8 +33,8 @@ description: ""
 <p>Download and complete the <a href="https://drive.google.com/file/d/1gp4H0_tx77rqW5PzHc_EJjAols52l_6z/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">application form</a>.
 You may also request for a hardcopy from the School’s General Office.</p>
 </li>
-</ol>
-<p>2. Attach the following documents together with the application form:</p>
+<li>
+<p>Attach the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Photocopy of the NRIC (front and back)</p>
@@ -47,8 +47,10 @@ You may also request for a hardcopy from the School’s General Office.</p>
 etc</p>
 </li>
 </ul>
-<p>3. Submit the completed application form and documents by closing date
-via email OR to the School's General Office.</p>
+</li>
+<li>
+<p>Submit the completed application form and documents by closing date via
+email OR to the School's General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: No 5 Jurong West Street 41 Singapore 649410</p>
@@ -64,6 +66,8 @@ via email OR to the School's General Office.</p>
 <p>Contact Person: Mdm Lee Hui Ling / Mr Ong Kung Yew</p>
 </li>
 </ul>
+</li>
+</ol>
 <p></p>
 <p><strong>How to get there?</strong>
 </p>
