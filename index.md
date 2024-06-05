@@ -25,11 +25,12 @@ sections:
       button: LEARN MORE
       url: /dsa-for-2025-secondary-1-cohort/
   - infobar:
-      title: Experiential Learning Week
-      subtitle: TERM 2 WEEK 10
+      title: Canteen Advertisement
+      subtitle: Muslim Cooked Food
       id: infobar
-      button: view schedule here
-      url: https://go.gov.sg/fhsst2w10
+      button: LEARN MORE
+      url: https://fuhuasec.moe.edu.sg/canteen-advertisement/
+      description: "Application Closing: 21 June 2024"
   - infobar:
       title: School Graduation Certificate
       subtitle: For 2023 4E/5N & 4NT STUDENTS
