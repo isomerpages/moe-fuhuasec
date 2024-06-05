@@ -2,10 +2,10 @@ collections:
   announcements:
     output: true
     order:
-      - Canteen Advertisement.md
       - Announcements page.md
-      - Direct School Admission/DSA for 2025 Secondary 1 Cohort.md
+      - Canteen Advertisement.md
       - Direct School Admission/.keep
+      - Direct School Admission/DSA for 2025 Secondary 1 Cohort.md
       - Direct School Admission/DSA through ALP in Forensic Science.md
       - "Direct School Admission/DSA through Sports: Badminton, Shooting and
         Tchoukball.md"
