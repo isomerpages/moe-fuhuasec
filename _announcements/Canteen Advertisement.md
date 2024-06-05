@@ -81,7 +81,7 @@ email OR to the School's General Office.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Interest applicants must meet the following criteria:</strong>
+<p><strong>Interested applicants must meet the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
