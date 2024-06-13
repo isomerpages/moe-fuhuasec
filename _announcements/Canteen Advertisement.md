@@ -116,7 +116,7 @@ Programme (HMSP)" guidelines (see [link](<a rel="noopener noreferrer nofollow" t
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>apply for a food stall license from Singapore Food Agency (SFA).</p>
+<p>Apply for a food stall license from Singapore Food Agency (SFA).</p>
 </li>
 <li>
 <p>Possess the WSQ Basic Food Hygiene Certificate. <em>(Stall assistant, if any, will need to possess the WSQ Basic Food Hygiene Certificate too.)</em>
