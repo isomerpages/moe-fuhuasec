@@ -18,7 +18,7 @@ description: ""
 <p>Muslim Cooked Food</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>21 June 2024</p>
+<p>19 July 2024</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Rice Stall</p>
@@ -31,7 +31,7 @@ description: ""
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the <a href="https://drive.google.com/file/d/1gp4H0_tx77rqW5PzHc_EJjAols52l_6z/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">application form</a>.
-You may also request for a hardcopy from the School’s General Office.</p>
+You may also request for a hardcopy form from the School’s General Office.</p>
 </li>
 <li>
 <p>Attach the following documents together with the application form:</p>
@@ -85,7 +85,7 @@ email OR to the School's General Office.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
+<p>Singapore Citizen or Singapore Permanent Resident (SPR) for stallholder
 and stall assistant.</p>
 </li>
 <li>
@@ -105,19 +105,22 @@ Programme (HMSP)" guidelines (see [link](<a rel="noopener noreferrer nofollow" t
 </li>
 </ul>
 <p></p>
-<p><strong>Applicants should preferably fulfil the following criteria:</strong>
+<p><strong>Applicants should preferably fulfil the following criterion:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
-Food Hygiene Certificate.</p>
-</li>
-<li>
 <p>Possess catering experience or experience operating in a school environment.</p>
 </li>
+</ul>
+<p><strong>Successful applicant must:</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Successful applicant is required to apply for a food stall license from
-Singapore Food Agency (SFA).</p>
+<p>apply for a food stall license from Singapore Food Agency (SFA).</p>
+</li>
+<li>
+<p>Possess the WSQ Basic Food Hygiene Certificate. <em>(Stall assistant, if any, will need to possess the WSQ Basic Food Hygiene Certificate too.)</em>
+</p>
 </li>
 </ul>
 <p></p>
