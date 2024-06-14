@@ -54,4 +54,4 @@ variant: markdown
 |:---:|:---:|:---:|
 | 2021 | NPCC Unit Overall Proficiency Award | Gold |
 | 2022 | NPCC Unit Overall Proficiency Award | Gold |
-| 2023 | NPCC .22 Inter-Unit Shooting Competition | Boys - 7th; <br> Girls - 9th |
+| 2023 | NPCC .22 Inter-Unit Shooting Competition | Girls - 7th; <br> Boys - 9th |
