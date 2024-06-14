@@ -13,7 +13,7 @@ variant: markdown
 |:---:|---|---|
 | 1R1 | Miss Lai Min Lee <br> Miss Nur Sarah Binte Osman | lai_min_lee@schools.gov.sg <br> nur_sarah_osman@schools.gov.sg |
 | 1R2 | Miss Kelly Sng <br> Mdm Zhang Sijia | kelly_sng@schools.gov.sg<br>zhang_sijia@schools.gov.sg |
-| 1R3 | Mr Khoo Yong Kang <br> Ms Grace Lee Ern | khoo_yong_kang@schools.gov.sg <br> grace_lee_ern@schools.gov.sg |
+| 1R3 | Mr Khoo Yong Kang | khoo_yong_kang@schools.gov.sg |
 | 1R4 | Ms Nur Hafizah Bte Ismail<br> Miss Zhao Fangming | nur_hafizah_ismail_a@schools.gov.sg<br>zhao_fangming@schools.gov.sg |
 | 1R5 | Ms Lim Ying Hui <br> Ms Rhyss Teo | lim_ying_hui@schools.gov.sg <br> rhyss_teresa_houssineau_a@schools.gov.sg |
 | 1R6 | Miss Rachel Liau <br> Mdm Rafidah Bte A Rahman | liau_jia_yu_rachel@schools.gov.sg <br>rafidah_a_rahman@schools.gov.sg |
@@ -27,10 +27,10 @@ variant: markdown
 |:---:|---|---|
 | 2I1 | Mr Ng Khong Keong | ng_khong_keong@schools.gov.sg |
 | 2I2 | Ms Lim Lee Lian | lim_lee_lian_a@schools.gov.sg |
-| 2I3 | Ms Lai Hung Lan<br> Mr Low Ying Hong Theodore <br> Ms Tay Wen Hui | lai_hung_lan@schools.gov.sg<br>low_ying_hongtheodore@schools.gov.sg <br> tay_wen_hui@schools.gov.sg |
+| 2I3 | Ms Lai Hung Lan <br> Ms Tay Wen Hui | lai_hung_lan@schools.gov.sg <br> tay_wen_hui@schools.gov.sg |
 | 2I4 | Ms Kok Han Ni | kok_han_ni@schools.gov.sg |
 | 2I5 | Mdm Teo Chek Gin | teo_chek_gin@schools.gov.sg|
-| 2I6 | Mr Tan Gek Guang<br>Miss Nurhuda bte Pardi | tan_gek_guang@schools.gov.sg<br>nurhuda_pardi@schools.gov.sg|
+| 2I6 | Mr Tan Gek Guang| tan_gek_guang@schools.gov.sg|
 | 2I7 |Mr Tan Yong Qiao Elton<br>Ms Ik Lee Lee | tan_yong_qiao_elton@schools.gov.sg<br>ik_lee_lee@schools.gov.sg |
 |  |  |  |
 
@@ -75,7 +75,7 @@ variant: markdown
 | Senior Teacher (Mathematics) | Mr James Chia | chia_chun_teck@schools.gov.sg |
 | Senior Teacher (Physics) | Mr Raymond Loh | loh_kok_wee_raymond@schools.gov.sg |
 
-**Non Form Teachers**
+**Non-Form Teachers**
 
 | Department | Name | Email address |
 |---|---|---|
