@@ -80,7 +80,7 @@ variant: markdown
 | Department | Name | Email address |
 |---|---|---|
 | Aesthetics, Craft &amp; Technology | Mr Abdol Rahim Bin Yassin<br>Mr Quan Wing Wah | abdol_rahim_yassin@schools.gov.sg<br>quan_wing_wah@schools.gov.sg | 
-| English | Ms Chen Siying Jasmine<br>Mr Low Choon How Michael<br> Azhari Bin Jasman | chen_siying_jasmine@schools.gov.sg<br>low_choon_how@schools.gov.sg <br> |
+| English | Ms Chen Siying Jasmine<br> Mr Low Choon How Michael<br> Mr Azhari Bin Jasman | chen_siying_jasmine@schools.gov.sg<br>low_choon_how@schools.gov.sg <br> |
 | Mother Tongue | Ms Lok Wai See<br>Ms Zhang Li <br> Mr Ismail Bin Ja'afar | lok_wai_see_a@schools.gov.sg<br>zhang_li_d@schools.gov.sg <br> ismail_b_jaafar@schools.gov.sg |
 | Humanities | Miss Elaine Lim <br>Ms Lee Lay Hwa<br> Mr Ian Tai Zhi Jian | elaine_lim_mei_mei@schools.gov.sg <br>lee_lay_hwa@schools.gov.sg<br>ian_tai_zhi_jian@schools.gov.sg|
 | Mathematics | Mrs Tay Ai Chin<br>Ms Tan Xin Yi<br>Miss Gao Conger | tay_ai_chin@schools.gov.sg <br>tan_xin_yi@schools.gov.sg<br>gao_conger@schools.gov.sg |
