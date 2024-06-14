@@ -30,8 +30,8 @@ variant: markdown
 |---|---|---|
 | National Cadet Corps (Land) | Mr Ian Tai Zhi Jian (OIC)<br>Mdm Teo Chek Gin (2IC)<br>Mr Raymond Loh | ian_tai_zhi_jian@schools.gov.sg<br>teo_chek_gin@schools.gov.sg<br>loh_kok_wee@schools.gov.sg |
 | National Police Cadet Corps | Mr Tan Ying Quan (OIC)<br>Ms Veronica Tei (2IC)<br>Mr Goh Kee Lee | tan_ying_quan@schools.gov.sg<br>veronica_tei_ying_ying@schools.gov.sg<br>goh_kee_lee@schools.gov.sg |
-| Red Cross Youth | Mr Tan Yong Qiao Elton (OIC)<br>Miss Nurhuda bte Pardi (2IC)<br>Mr Khoo Yong Kang <br> Miss Nur Hanis | tan_yong_qiao_elton@schools.gov.sg<br>nurhuda_pardi@schools.gov.sg<br>khoo_yong_kang@schools.gov.sg<br>nur_hanis_mohamad_gh@schools.gov.sg |
-| Sea Scouts | Mr Muhammad Khairi (OIC)<br>Mr Theodore Low (2IC)<br>Ms Lim Ying Hui<br>Miss Nur Sarah| muhammad_khairi_ruslihan@schools.gov.sg<br>low_ying_hongtheodore@schools.gov.sg<br>lim_ying_hui@schools.gov.sg<br>nur_sarah_osman@moe.edu.sg|
+| Red Cross Youth | Mr Tan Yong Qiao Elton (OIC)<br>Mr Khoo Yong Kang (2IC) <br> Miss Nur Hanis | tan_yong_qiao_elton@schools.gov.sg<br>khoo_yong_kang@schools.gov.sg<br>nur_hanis_mohamad_gh@schools.gov.sg |
+| Sea Scouts | Mr Muhammad Khairi (OIC)<br>Ms Lim Ying Hui<br>Miss Nur Sarah| muhammad_khairi_ruslihan@schools.gov.sg<br>low_ying_hongtheodore@schools.gov.sg<br>lim_ying_hui@schools.gov.sg<br>nur_sarah_osman@schools.gov.sg|
 
 ##### **Cluster: Visual and Performing Arts**
 

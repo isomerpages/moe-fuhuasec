@@ -18,7 +18,6 @@ variant: markdown
 | Mr Sun Daojun | HOD Mathematics | sun_daojun@schools.gov.sg   |
 | Mr Paul Chandra | HOD Physical Education and CCA | paul_chandra_tjahjono@schools.gov.sg |
 | Miss Ruth Tang  | HOD CCE |  ruth_tang_joo_hong@schools.gov.sg |
-| Mr Soo Wee Chun | HOD ICT | soo_wee_chun@schools.gov.sg |
 | Mr Ng Wei Ping | School Staff Developer  | ng_wei_ping@schools.gov.sg  |
 | Mr Chiong Yin Fung | Assistant Year Head (US)<br>(Covering Year Head (US)) | chiong_yin_fung@schools.gov.sg  |
 | Miss Germain Kang     | Year Head (LS) | germain_kang@schools.gov.sg |
