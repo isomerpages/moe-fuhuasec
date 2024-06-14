@@ -18,6 +18,9 @@ sections:
         - title: Class Timetable
           description: ""
           url: https://drive.google.com/file/d/1Bn740HYL2phWaMuOH6AuQBuLRlRhNuM9/view?usp=sharing
+        - title: Fuhua News
+          description: ""
+          url: https://www.instagram.com/fuhuasecondaryschool
   - infobar:
       title: DSA for 2025 Secondary 1 Cohort
       subtitle: FOR PROSPECTIVE STUDENTS
