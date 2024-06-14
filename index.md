@@ -30,7 +30,7 @@ sections:
       id: infobar
       button: LEARN MORE
       url: https://fuhuasec.moe.edu.sg/canteen-advertisement/
-      description: "Application Closing: 21 June 2024"
+      description: "Application Closing: 19 July 2024"
   - infobar:
       title: School Graduation Certificate
       subtitle: For 2023 4E/5N & 4NT STUDENTS
