@@ -22,18 +22,18 @@ sections:
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
   - infobar:
-      title: DSA for 2025 Secondary 1 Cohort
-      subtitle: FOR PROSPECTIVE STUDENTS
-      id: infobar
-      button: LEARN MORE
-      url: /dsa-for-2025-secondary-1-cohort/
-  - infobar:
       title: Canteen Advertisement
       subtitle: Muslim Cooked Food
       id: infobar
       button: LEARN MORE
       url: https://fuhuasec.moe.edu.sg/canteen-advertisement/
       description: "Application Closing: 19 July 2024"
+  - infobar:
+      title: DSA for 2025 Secondary 1 Cohort
+      subtitle: FOR PROSPECTIVE STUDENTS
+      id: infobar
+      button: LEARN MORE
+      url: /dsa-for-2025-secondary-1-cohort/
   - infobar:
       title: School Graduation Certificate
       subtitle: For 2023 4E/5N & 4NT STUDENTS
