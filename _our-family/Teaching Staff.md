@@ -28,7 +28,7 @@ variant: markdown
 | 2I1 | Mr Ng Khong Keong | ng_khong_keong@schools.gov.sg |
 | 2I2 | Ms Lim Lee Lian | lim_lee_lian_a@schools.gov.sg |
 | 2I3 | Ms Lai Hung Lan <br> Ms Tay Wen Hui | lai_hung_lan@schools.gov.sg <br> tay_wen_hui@schools.gov.sg |
-| 2I4 | Ms Kok Han Ni | kok_han_ni@schools.gov.sg |
+| 2I4 | Ms Kok Han Ni <br> Miss Teo Rong Jia | kok_han_ni@schools.gov.sg <br> teo_rong_jia@schools.gov.sg |
 | 2I5 | Mdm Teo Chek Gin | teo_chek_gin@schools.gov.sg|
 | 2I6 | Mr Tan Gek Guang| tan_gek_guang@schools.gov.sg|
 | 2I7 |Mr Tan Yong Qiao Elton<br>Ms Ik Lee Lee | tan_yong_qiao_elton@schools.gov.sg<br>ik_lee_lee@schools.gov.sg |
