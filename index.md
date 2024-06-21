@@ -21,6 +21,18 @@ sections:
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
+  - textcards:
+      title: Semester 2 Timetables
+      id: textcards
+      cards:
+        - title: Class Timetable
+          description: ""
+          linktext: View Here
+          url: https://drive.google.com/file/d/1KNa6MK1iFCMWUGR4GljlLnx7XKZSbkUW/view?usp=sharing
+        - title: Sec 4 & 5 Supplementary Lessons
+          description: ""
+          linktext: View Here
+          url: https://drive.google.com/file/d/1KEfeCZhB-0alcF-RRAAHQotBxYE-YBBq/view?usp=drive_link
   - infobar:
       title: Canteen Advertisement
       subtitle: Muslim Cooked Food
