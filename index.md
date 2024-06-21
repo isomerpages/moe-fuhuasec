@@ -39,4 +39,17 @@ sections:
       subtitle: For 2023 4E/5N & 4NT STUDENTS
       id: infobar
       description: Please collect your SGC at the General Office from 8 May onwards.
+  - textcards:
+      title: Timetables
+      subtitle: Semester 2
+      id: textcards
+      cards:
+        - title: Class Timetable
+          description: ""
+          linktext: View Here
+          url: https://drive.google.com/file/d/1KNa6MK1iFCMWUGR4GljlLnx7XKZSbkUW/view?usp=sharing
+        - title: Sec 4 & 5 Supplementary Lessons
+          description: ""
+          linktext: View Here
+          url: https://drive.google.com/file/d/1KEfeCZhB-0alcF-RRAAHQotBxYE-YBBq/view?usp=drive_link
 ---
