@@ -41,7 +41,6 @@ sections:
       description: Please collect your SGC at the General Office from 8 May onwards.
   - textcards:
       title: Timetables
-      subtitle: Semester 2
       id: textcards
       cards:
         - title: Class Timetable
