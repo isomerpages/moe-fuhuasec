@@ -27,7 +27,8 @@ the Contents are owned by, licensed to or controlled by Fuhua Secondary
 School.</p>
 <p><strong>Privacy Policy</strong>
 </p>
-<p>5. Click here to review this website's Privacy Statement.</p>
+<p>5. Click <a href="/our-school/personal-data-protection-policy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+review this website's Privacy Statement.</p>
 <p><strong>Restrictions on Use of Materials</strong>
 </p>
 <p>6. Except as otherwise provided, the Contents of this website shall not
