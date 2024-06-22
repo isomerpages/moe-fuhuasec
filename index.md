@@ -17,7 +17,7 @@ sections:
           url: https://docs.google.com/document/d/e/2PACX-1vRY9grprmv6zyYqW0hD89717TvOn5FemE6IOehli7p5PXoL6l_DSiRBj1OsOOFNQIrJdsUq-UMTTFLJ/pub
         - title: Class Timetable
           description: ""
-          url: https://drive.google.com/file/d/1Bn740HYL2phWaMuOH6AuQBuLRlRhNuM9/view?usp=sharing
+          url: https://drive.google.com/file/d/1KNa6MK1iFCMWUGR4GljlLnx7XKZSbkUW/view?usp=sharing
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
