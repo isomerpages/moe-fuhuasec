@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Terms of Use.md
       - Principal's Message.md
       - School Philosophy.md
       - School Crest.md
