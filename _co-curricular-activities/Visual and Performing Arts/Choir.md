@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: markdown
 ---
-### Chinese Orchestra
+### Choir
 ##### About Us
 
 **Vision**&nbsp;<br>To nurture a love for music and to inspire and challenge students to reach their greatest potential musically
