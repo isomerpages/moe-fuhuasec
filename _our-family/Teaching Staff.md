@@ -84,4 +84,4 @@ variant: markdown
 | Mother Tongue | Ms Lok Wai See<br>Ms Zhang Li <br> Mr Ismail Bin Ja'afar | lok_wai_see_a@moe.edu.sg<br>zhang_li_d@moe.edu.sg <br> ismail_b_jaafar@moe.edu.sg |
 | Humanities | Miss Elaine Lim <br>Ms Lee Lay Hwa<br> Mr Ian Tai Zhi Jian | elaine_lim_mei_mei@moe.edu.sg <br>lee_lay_hwa@moe.edu.sg<br>ian_tai_zhi_jian@moe.edu.sg|
 | Mathematics | Mrs Tay Ai Chin<br>Ms Tan Xin Yi<br>Miss Gao Conger | tay_ai_chin@moe.edu.sg <br>tan_xin_yi@moe.edu.sg<br>gao_conger@moe.edu.sg |
-| Science | Mr Loh Kuin Phei<br>Ms Jasmine Lim<br>Mr Lee Siow Tong<br>Mr Toh Wei Shun | loh_kuin_phei_a@moe.edu.sg<br>lim_jia_lin@moe.edu.sg<br>lee_siow_tong@moe.edu.sg<br>toh_wei_shun@schools.gov.sg |
+| Science | Mr Loh Kuin Phei<br>Ms Jasmine Lim<br>Mr Lee Siow Tong<br>Mr Toh Wei Shun | loh_kuin_phei_a@moe.edu.sg<br>lim_jia_lin@moe.edu.sg<br>lee_siow_tong@moe.edu.sg<br>toh_wei_shun@moe.edu.sg|
