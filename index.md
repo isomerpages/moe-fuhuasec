@@ -30,6 +30,10 @@ sections:
           description: ""
           linktext: View Here
           url: https://drive.google.com/file/d/1KEfeCZhB-0alcF-RRAAHQotBxYE-YBBq/view?usp=drive_link
+        - title: Preliminary Examination Timetable
+          description: ""
+          linktext: View Here
+          url: https://drive.google.com/file/d/1bp61qhLQYkdTCpVG9VmefQextm9Bifo9/view?usp=sharing
   - infobar:
       title: Canteen Advertisement
       subtitle: Muslim Cooked Food
