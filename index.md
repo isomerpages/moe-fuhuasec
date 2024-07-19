@@ -25,7 +25,7 @@ sections:
         - title: Sec 4 & 5 Preliminary Examination Timetable
           description: ""
           linktext: View Here
-          url: https://drive.google.com/file/d/1ry0nPi16CRCfznOCikkVH4-XsxF_Xrxp/view?usp=sharing
+          url: https://drive.google.com/file/d/163pP0-L7JAw8udpVXGMe4abumnuL0Dvo/view?usp=drive_link
         - title: Class Timetable
           description: ""
           linktext: View Here
