@@ -35,13 +35,6 @@ sections:
           linktext: View Here
           url: https://drive.google.com/file/d/1KEfeCZhB-0alcF-RRAAHQotBxYE-YBBq/view?usp=drive_link
   - infobar:
-      title: Canteen Advertisement
-      subtitle: Muslim Cooked Food
-      id: infobar
-      button: LEARN MORE
-      url: https://fuhuasec.moe.edu.sg/canteen-advertisement/
-      description: "Application Closing: 19 July 2024"
-  - infobar:
       title: School Graduation Certificate
       subtitle: 2023 4E/NA/NT & 5N STUDENTS
       id: infobar
