@@ -20,7 +20,7 @@ variant: markdown
 | Miss Ruth Tang  | HOD CCE |  ruth_tang_joo_hong@moe.edu.sg |
 | Mr Ng Wei Ping | School Staff Developer  | ng_wei_ping@moe.edu.sg |
 | Mr Chiong Yin Fung | Assistant Year Head (US)<br>(Covering Year Head (US)) | chiong_yin_fung@moe.edu.sg  |
-| Miss Germain Kang     | Year Head (LS) | germain_kang@moe.edu.sg |
+| Miss Germain Kang     | Year Head (LS) | germain_kang_yin_ga@moe.edu.sg |
 | Ms Low Lai Mei   | HOD Aesthetics, Craft &amp; Technology | low_lai_mei@moe.edu.sg | 
 | Miss Siti Rohani  | Assistant Year Head (US) | siti_rohani_hanim_selamat@moe.edu.sg |
 | Mrs Portia Sim | Assistant Year Head (LS)  | tan_poh_hong@moe.edu.sg  |
