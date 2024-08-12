@@ -18,22 +18,29 @@ sections:
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
+        - title: Class Timetable
+          description: ""
+          url: https://drive.google.com/file/d/1KNa6MK1iFCMWUGR4GljlLnx7XKZSbkUW/view?usp=sharing
   - textcards:
-      title: Semester 2 Timetables
+      title: Examination Timetables
       id: textcards
       cards:
+        - title: Sec 1 EOY Examination Timetable
+          description: ""
+          linktext: View Here
+          url: https://drive.google.com/file/d/1FiQbnM7S54VG0NwubiVct8Aat-8GgBcv/view?usp=sharing
+        - title: Sec 2 EOY Examination Timetable
+          description: ""
+          linktext: View Here
+          url: https://drive.google.com/file/d/1Doybp8vLZfZ70EGjgKig_JfwqmlQGa-r/view?usp=drive_link
+        - title: Sec 3 EOY Examination Timetable
+          description: ""
+          linktext: View Here
+          url: https://drive.google.com/file/d/1StLWIOsrh5etlALsGiSVkfL5keE6EOVt/view?usp=drive_link
         - title: Sec 4 & 5 Preliminary Examination Timetable
           description: ""
           linktext: View Here
           url: https://drive.google.com/file/d/163pP0-L7JAw8udpVXGMe4abumnuL0Dvo/view?usp=drive_link
-        - title: Class Timetable
-          description: ""
-          linktext: View Here
-          url: https://drive.google.com/file/d/1KNa6MK1iFCMWUGR4GljlLnx7XKZSbkUW/view?usp=sharing
-        - title: Sec 4 & 5 Supplementary Lessons
-          description: ""
-          linktext: View Here
-          url: https://drive.google.com/file/d/1KEfeCZhB-0alcF-RRAAHQotBxYE-YBBq/view?usp=drive_link
   - infobar:
       title: School Graduation Certificate
       subtitle: 2023 4E/NA/NT & 5N STUDENTS
