@@ -20,7 +20,7 @@ sections:
           url: https://www.instagram.com/fuhuasecondaryschool
         - title: Class Timetable
           description: ""
-          url: https://drive.google.com/file/d/1KNa6MK1iFCMWUGR4GljlLnx7XKZSbkUW/view?usp=sharing
+          url: https://drive.google.com/file/d/1FOofxjRqAk2vYYB7YQ7IPa3qMhTg0Dtd/view?usp=sharing
   - textcards:
       title: Examination Timetables
       id: textcards
