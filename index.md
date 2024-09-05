@@ -20,7 +20,7 @@ sections:
           url: https://www.instagram.com/fuhuasecondaryschool
         - title: Class Timetable
           description: ""
-          url: https://drive.google.com/file/d/1KNa6MK1iFCMWUGR4GljlLnx7XKZSbkUW/view?usp=sharing
+          url: https://drive.google.com/file/d/1FOofxjRqAk2vYYB7YQ7IPa3qMhTg0Dtd/view?usp=sharing
   - textcards:
       title: Examination Timetables
       id: textcards
@@ -37,10 +37,6 @@ sections:
           description: ""
           linktext: View Here
           url: https://drive.google.com/file/d/1StLWIOsrh5etlALsGiSVkfL5keE6EOVt/view?usp=drive_link
-        - title: Sec 4 & 5 Preliminary Examination Timetable
-          description: ""
-          linktext: View Here
-          url: https://drive.google.com/file/d/163pP0-L7JAw8udpVXGMe4abumnuL0Dvo/view?usp=drive_link
   - infobar:
       title: School Graduation Certificate
       subtitle: 2023 4E/NA/NT & 5N STUDENTS
