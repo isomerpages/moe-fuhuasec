@@ -86,7 +86,7 @@ Other enrichment programmes (e.g. local and overseas learning journeys, excursio
 **14\. Where can I purchase the formal school uniform and sports attire?**
 <br> The formal school uniform and sports attire are for sale at the school bookshop. Additional counters are also set up during Secondary 1 Registration and the period of Secondary 1 Orientation to facilitate the purchase of uniforms by the new students.&nbsp;
 
-The supplier of the formal school uniform and sports attire is My Uniform Shop, 209 New Upper Changi Road #03-651 Singapore 460209. The supplier can also be reached at +65 6276 6689.
+The supplier of the formal school uniform and sports attire is KH Uniform Pte Ltd, 115A Commonwealth Drive, #02-28, Singapore 149596. The supplier can also be reached at www.khuniform.com, sales@khuniform.com or +6479 6811.
 
 **15\. How can I log on to the Parents Portal on AsknLearn?**
 <br> On&nbsp;https://lms.asknlearn.com/FHSS/login.aspx, click on ‘Login as Parents’. The User ID is the student’s birth certificate number. The default password is parents. If parents encounter any issues, please call the AsknLearn helpdesk at +65 6777 9661 from Mondays to Fridays, 7.30 am to 9.00 pm.
