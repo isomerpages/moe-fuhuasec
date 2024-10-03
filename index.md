@@ -22,21 +22,21 @@ sections:
           description: ""
           url: https://drive.google.com/file/d/1FOofxjRqAk2vYYB7YQ7IPa3qMhTg0Dtd/view?usp=sharing
   - textcards:
-      title: Examination Timetables
+      title: Post-Examination Timetables
       id: textcards
       cards:
-        - title: Sec 1 EOY Examination Timetable
+        - title: Sec 1 Post-Examination Timetable
           description: ""
           linktext: View Here
-          url: https://drive.google.com/file/d/1FiQbnM7S54VG0NwubiVct8Aat-8GgBcv/view?usp=sharing
-        - title: Sec 2 EOY Examination Timetable
+          url: https://drive.google.com/file/d/1w8ay6fuBTX8Tim5cRswE-0ih7lkAixgp/view?usp=sharing
+        - title: Sec 2 Post-Examination Timetable
           description: ""
           linktext: View Here
-          url: https://drive.google.com/file/d/1Doybp8vLZfZ70EGjgKig_JfwqmlQGa-r/view?usp=drive_link
-        - title: Sec 3 EOY Examination Timetable
+          url: https://drive.google.com/file/d/1eqtnBa7v_OWID6az8D4m_1VC2yVl-izv/view?usp=sharing
+        - title: Sec 3 Post-Examination Timetable
           description: ""
           linktext: View Here
-          url: https://drive.google.com/file/d/1StLWIOsrh5etlALsGiSVkfL5keE6EOVt/view?usp=drive_link
+          url: https://drive.google.com/file/d/1RrH5BPeh6CvyEVBXZRWq9FMmdeep7ocf/view?usp=sharing
   - infobar:
       title: School Graduation Certificate
       subtitle: 2023 4E/NA/NT & 5N STUDENTS
