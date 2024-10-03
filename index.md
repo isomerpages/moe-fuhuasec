@@ -28,7 +28,7 @@ sections:
         - title: Sec 1 Post-Examination Timetable
           description: ""
           linktext: View Here
-          url: https://drive.google.com/file/d/1w8ay6fuBTX8Tim5cRswE-0ih7lkAixgp/view?usp=sharing
+          url: https://drive.google.com/file/d/1_Y0IpZIoitqJMfRhWPWpczw46vJ0MuZh/view?usp=sharing
         - title: Sec 2 Post-Examination Timetable
           description: ""
           linktext: View Here
@@ -36,7 +36,7 @@ sections:
         - title: Sec 3 Post-Examination Timetable
           description: ""
           linktext: View Here
-          url: https://drive.google.com/file/d/1RrH5BPeh6CvyEVBXZRWq9FMmdeep7ocf/view?usp=sharing
+          url: https://drive.google.com/file/d/1RuV65O_3o2uA2mrpGAkRcVwgAKZHbl2K/view?usp=sharing
   - infobar:
       title: School Graduation Certificate
       subtitle: 2023 4E/NA/NT & 5N STUDENTS
