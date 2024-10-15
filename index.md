@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/217.jpg
+      background: /images/WhatsApp_Image_2024_10_11_at_3_17_30_PM.jpg
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
