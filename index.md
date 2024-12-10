@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Open_House_Banner_v4.png
+      background: /images/217.jpg
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
@@ -21,4 +21,10 @@ sections:
         - title: Class Timetable
           description: ""
           url: https://drive.google.com/file/d/1FOofxjRqAk2vYYB7YQ7IPa3qMhTg0Dtd/view?usp=sharing
+  - infobar:
+      title: Release of 2024 N' Level Results
+      subtitle: For 4E5-4E8 students
+      id: infobar
+      button: Read more
+      url: https://docs.google.com/document/d/e/2PACX-1vTdDMK079yrscSxjq4HMPBVShc1vP41J12uGzju_FwyQlfS1_350VgUxXiL2GgT-SV3q-mIFsGLJ-yu/pub
 ---
