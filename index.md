@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Open_House_Banner_v4.png
+      background: /images/217.jpg
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
