@@ -22,7 +22,7 @@ sections:
           description: ""
           url: https://drive.google.com/file/d/1FOofxjRqAk2vYYB7YQ7IPa3qMhTg0Dtd/view?usp=sharing
   - infobar:
-      title: 2024 N' Level Results Release
+      title: Release of 2024 N' Level Results
       subtitle: For 4E5-4E8 students
       id: infobar
       button: Read more
