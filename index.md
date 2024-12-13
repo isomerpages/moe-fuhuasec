@@ -32,6 +32,6 @@ sections:
       subtitle: For 2025 Sec 1 Students
       id: infobar
       description: You may access the linked folder from 2pm on Wednesday, 18 Dec 2024.
-      button: LEARN MORE
+      button: VIEW FOLDER
       url: https://drive.google.com/drive/folders/1FFqdf2UM7iMB0MW1_qlXebvNVHjTaA3C?usp=sharing
 ---
