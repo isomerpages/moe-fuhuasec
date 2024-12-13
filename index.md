@@ -27,4 +27,11 @@ sections:
       id: infobar
       button: Read more
       url: https://docs.google.com/document/d/e/2PACX-1vTdDMK079yrscSxjq4HMPBVShc1vP41J12uGzju_FwyQlfS1_350VgUxXiL2GgT-SV3q-mIFsGLJ-yu/pub
+  - infobar:
+      title: Secondary 1 Registration Exercise
+      subtitle: For 2025 Sec 1 Students
+      id: infobar
+      description: You may access the linked folder from 2pm on Wednesday, 18 Dec 2024.
+      button: LEARN MORE
+      url: https://drive.google.com/drive/folders/1FFqdf2UM7iMB0MW1_qlXebvNVHjTaA3C?usp=sharing
 ---
