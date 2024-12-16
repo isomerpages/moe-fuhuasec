@@ -22,11 +22,12 @@ sections:
           description: ""
           url: https://drive.google.com/file/d/1FOofxjRqAk2vYYB7YQ7IPa3qMhTg0Dtd/view?usp=sharing
   - infobar:
-      title: Release of 2024 N' Level Results
+      title: 2024 N' Level Release of Results
       subtitle: For 4E5-4E8 students
       id: infobar
       button: Read more
-      url: https://docs.google.com/document/d/e/2PACX-1vTdDMK079yrscSxjq4HMPBVShc1vP41J12uGzju_FwyQlfS1_350VgUxXiL2GgT-SV3q-mIFsGLJ-yu/pub
+      url: https://drive.google.com/file/d/1rJRvSy59w0akksgX3srOWgwp10Zm3j7L/view?usp=sharing
+      description: Administrative Briefing Slides
   - infobar:
       title: Secondary 1 e-Registration Exercise
       subtitle: For 2025 Sec 1 Students
