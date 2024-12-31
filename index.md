@@ -21,6 +21,19 @@ sections:
         - title: Class Timetable
           description: ""
           url: https://drive.google.com/file/d/1FOofxjRqAk2vYYB7YQ7IPa3qMhTg0Dtd/view?usp=sharing
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: 2025 Class Timetables
+          date: 31 December 2024
+          announcement: The class timetables will be made available by 3 January. On 2
+            January, students should bring along their charged iPad, holiday
+            assignments, report book, English Language reading materials and
+            writing materials. Students must be properly attired and groomed and
+            report to the school hall by 7.20am.
+          link_text: ""
+          link_url: ""
   - infobar:
       title: 2024 N' Level Release of Results
       subtitle: For 4E5-4E8 students
