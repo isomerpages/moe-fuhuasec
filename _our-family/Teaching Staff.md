@@ -85,3 +85,4 @@ variant: markdown
 | Humanities | Miss Elaine Lim <br>Ms Lee Lay Hwa<br> Mr Ian Tai Zhi Jian<br>Mr Matthew Quek<br> Mr Fong Meng Tuck| elaine_lim_mei_mei@moe.edu.sg <br>lee_lay_hwa@moe.edu.sg<br>ian_tai_zhi_jian@moe.edu.sg<br>quek_kwan_chern_matthew_b@moe.edu.sg<br> fong_meng_tuck_a@moe.edu.sg|
 | Mathematics | Mrs Tay Ai Chin<br>Miss Gao Conger | tay_ai_chin@moe.edu.sg<br>gao_conger@moe.edu.sg |
 | Science | Mr Loh Kuin Phei<br>Ms Jasmine Lim | loh_kuin_phei_a@moe.edu.sg<br>lim_jia_lin@moe.edu.sg
+|
