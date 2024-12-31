@@ -7,14 +7,14 @@ variant: markdown
 ---
 ### Office Holders
 
-**Exco (2024)**
+**Exco**
 
 *   Chairman: Mdm Jessie Chen
 *   Vice-Chairman: Mr Cheah Yeak Sang
 *   Secretary: Mdm Lynn Chia
 *   Treasurer: Mdm Alice Bun
 
-**PSG Representatives of "Let Us Chat" Programme (2024)**
+**PSG Representatives of "Let Us Chat" Programme**
 
 *   Ms Florence Lim
 *   Mr Tham Yoke Meng
