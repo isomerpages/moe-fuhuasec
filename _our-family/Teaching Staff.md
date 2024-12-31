@@ -66,13 +66,14 @@ variant: markdown
 
 ##### Teacher Leaders
 
-| Designation   | Name | Email address |
-|:---:|:---:|:---:|
-| Senior Teacher (Biology) | Mr Tan June Keong Owen | tan_june_keong@moe.edu.sg |
-| Senior Teacher <br>(CCE) | Miss Rachel Liau | liau_jia_yu_rachel@moe.edu.sg |
+| Designation | Name | Email address |
+|---|---|---|
+|Senior Teacher (Biology) | Mr Tan June Keong Owen | tan_june_keong@moe.edu.sg |
+| Senior Teacher (CCE) | Miss Rachel Liau | liau_jia_yu_rachel@moe.edu.sg |
 | Senior Teacher (Chemistry) | Mdm Hia Soo Ching | hia_soo_ching@moe.edu.sg |
 | Senior Teacher (Mathematics) | Mr James Chia | chia_chun_teck@moe.edu.sg |
 | Senior Teacher (Physics) | Mr Raymond Loh | loh_kok_wee_raymond@moe.edu.sg |
+|
 
 **Non-Form Teachers**
 
