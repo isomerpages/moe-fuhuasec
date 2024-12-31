@@ -22,7 +22,7 @@ variant: markdown
 <br> We operate from 7.30am to 6.30pm on school days and from 8.30am to 5.30pm during the school holidays. We do not operate on public holidays.&nbsp;
   
 **5\. What are the school terms?**
-<br> There are four terms in an academic year. In 2024, Term 1 runs from 2 January to 8 March; Term 2 from 18 March to 24 May; Term 3 from 24 June to 30 August; and Term 4 from 9 September to 15 November. The last full school day of Term 4 is 25 October as the school is one of the venues for the GCE O-Level written examinations.
+<br> There are four terms in an academic year. In 2025, Term 1 runs from 2 January to 14 March; Term 2 from 24 March to 30 May; Term 3 from 30 June to 5 September; and Term 4 from 15 September to 21 November. The last full school day of Term 4 is 24 October as the school is one of the venues for the GCE O-Level written examinations.
  
 **B. School Programmes**
 
@@ -42,25 +42,19 @@ Parents can contact the Form Teachers on school days, from 7.30 am to 6.00 pm, s
 There are three components in our CCE programme: CCE Lessons, School-based CCE and CCE Guidance Modules. CCE Lessons focus on the acquiring of values, knowledge and skills relating to character and citizenship. School-based CCE includes assembly programmes and lessons linked to our school values: Respect, Integrity, Service and Excellence. CCE Guidance Modules focus on specific issues of Sexuality Education, Cyber-wellness and, Education and Career Guidance associated with adolescent development.
 
 **9\. What are the Co-curricular Activities (CCA) available?**
-<br> We offer a total of 18 CCAs across the four clusters: Clubs and Societies, Physical Sports, Uniformed Groups and Visual and Performing Arts Groups. Please click&nbsp;**[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-partners/School-Advisory-Committee/school-based-scholarships-and-awards/)**&nbsp;for more information on our CCAs.
+<br> We offer a total of 18 CCAs across the four clusters: Clubs and Societies, Physical Sports, Uniformed Groups and Visual and Performing Arts Groups. Please click&nbsp;**[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-curriculum/Student-Development-Curriculum/CCA/)** for more information on our CCAs.
 
 **10\. What are the academic courses offered?**
-<br> From 2024, the school offers Full Subject-Based Banding (FSBB). Concurrently, we offer three academic courses to our Secondary 2-5 students: Express, Normal (Academic) and Normal (Technical)
+<br> From 2024, the school offers Full Subject-Based Banding (FSBB). Concurrently, we offer three academic courses to our Secondary 3-5 students: Express, Normal (Academic) and Normal (Technical).
 
 **11\. What are the academic subjects offered?**
 <br> Please see the table below for the academic subjects offered, by levels and courses.
 
-| Level | Posting Group | Subject |
+| Level | Subject Level | Subject | 
 |:---:|:---:|:---:|
-|Secondary 1 | G3/G2/G1 (Common Curriculum)| Art, Music, Design &amp; Technology, Food &amp; Consumer Education and Physical Education | Secondary 1 | G3 | English Language, Mother Tongue Language, English Literature, Geography, History, Music, Mathematics and Science |
-|   | G2  | English Language, Mother Tongue Language, English Literature, Geography, History, Mathematics and Science |
-|  | G1 | English Language, Mother Tongue Language, Humanities, Mathematics, Science, Computer Applications |
-
-| Level | Course | Subject |
-|:---:|:---:|:---:|
-| Secondary 2 | Express  | English Language, Mother Tongue Language, Higher Mother Tongue Language, Art, English Literature, Geography, History, Music, Mathematics, Science, Design and Technology, and Food and Consumer Education |
-|   | Normal (Academic)  | English Language, Mother Tongue Language, Art, English Literature, Geography, History, Music, Mathematics, Science, Design and Technology, and Food and Consumer Education |
-|  | Normal (Technical) | English Language, Mother Tongue Language, Art, Music, Social Studies, Mathematics, Science, Computer Applications, Design and Technology, and Food and Consumer Education |
+|Lower Secondary| G3/G2/G1 | Common Curriculum: Art, Music, Design &amp; Technology, Food &amp; Consumer Education and Physical Education |
+| | G3 &amp; G2 | English Language, Mother Tongue Language, English Literature, Geography, History, Mathematics and Science |
+| | G1 | English Language, Mother Tongue Language, Humanities, Mathematics and Science |
 
 | Level | Course | Subject |
 |:---:|:---:|:---:|
@@ -71,11 +65,11 @@ There are three components in our CCE programme: CCE Lessons, School-based CCE a
 Note: Some Mother Tongue Languages and Higher Mother Tongue Languages may be offered at external centres.
 
 **12\. What are the school hours of a typical school day?**
-<br> All Fuhuanites are expected to report to school by&nbsp;**7.25am**&nbsp;on all days of the week except for Thursday. On Thursdays, Fuhuanites can report to school by&nbsp;**8.15am**.&nbsp;
+<br> All Fuhuanites are expected to report to school by&nbsp;**7.20am**&nbsp;on all days of the week except for Thursday. On Thursdays, Fuhuanites can report to school by&nbsp;**8.15am**.&nbsp;
 
-Depending on the timetable, formal curriculum ends between 12.30 pm and 2.00 pm for Secondary 1 and 12.30 pm and 2.30 pm for Secondary 2. For the upper secondary levels, formal curriculum time ends between 12.30 pm and 3.30 pm.
+Depending on the timetable, formal curriculum ends between 12.30pm and 2.00pm for Secondary 1 and 12.30pm and 2.30pm for Secondary 2. For the upper secondary levels, formal curriculum time ends between 12.30 pm and 3.30 pm.
 
-Mondays, Wednesdays and Fridays are CCA days. Please click&nbsp;**[here](https://staging.d2jrpotv8emy04.amplifyapp.com/our-partners/School-Advisory-Committee/school-based-scholarships-and-awards/)**&nbsp;for more information on the specific CCAs. Talent development, supplementary and remediation lessons can be conducted after formal curriculum time on Tuesdays and Thursdays.&nbsp;
+Mondays, Wednesdays and Fridays are CCA days. Talent development, supplementary and remediation lessons can be conducted after formal curriculum time on Tuesdays and Thursdays.
 
 Other enrichment programmes (e.g. local and overseas learning journeys, excursions to Institutes of Higher Learning, etc.) may take place after formal curriculum hours.&nbsp;
 
@@ -104,7 +98,7 @@ The supplier of the formal school uniform and sports attire is KH Uniform Pte Lt
 
 The ranges of the 2024 Secondary 1 cohort are as follows:
 
-Posting Group 3: 6-13
+Posting Group 3: 6-12
 Posting Group 2: 21-23
 Posting Group 1: 25-27
 

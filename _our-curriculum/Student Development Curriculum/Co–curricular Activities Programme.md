@@ -3,6 +3,7 @@ title: Co–curricular Activities Programme
 permalink: /our-curriculum/Student-Development-Curriculum/CCA/
 description: ""
 third_nav_title: Student Development Curriculum
+variant: markdown
 ---
 ### Co-curricular Activities Programme
 
@@ -16,7 +17,7 @@ The Co-curricular Activities (CCA) Programme provides Fuhuanites with a platform
 
 **Approach**
 
-In planning and implementing our CCA programmes, it is ensured that there is: 
+In planning and implementing our CCA programmes, it is ensured that there is:&nbsp;
 
 1\.  Breadth of experiences that support students’ holistic development and expand their learning      
 2\.  Development and progression in the learning experiences that deepen students’ knowledge, skills and values      
@@ -25,4 +26,4 @@ In planning and implementing our CCA programmes, it is ensured that there is: 
 
 The specific knowledge, skills and values developed depends on the choice of CCA. There are four broad clusters of CCAs: [Clubs and Societies](https://staging.d2jrpotv8emy04.amplifyapp.com/co-curricular-activities/Clubs-and-Societies/overview/), [Physical Sports](https://staging.d2jrpotv8emy04.amplifyapp.com/co-curricular-activities/Physical-Sports/overview/), [Uniformed Groups](https://staging.d2jrpotv8emy04.amplifyapp.com/co-curricular-activities/Uniformed-Groups/overview/), and [Visual and Performing Arts](https://staging.d2jrpotv8emy04.amplifyapp.com/co-curricular-activities/Visual-and-Performing-Arts/overview/).
 
-Click on the links hyperlinks above for more information on the CCA offerings.
+Clink on the links above for more information on the CCA offerings.
