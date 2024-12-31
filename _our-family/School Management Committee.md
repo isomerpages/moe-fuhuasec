@@ -16,7 +16,7 @@ variant: markdown
 | Mdm Tok Yen Peng | HOD Mother Tongue Languages | tok_yen_peng@moe.edu.sg |
 | Mr Nicholas Liu | HOD Science | liu_wan_ming_nicholas@moe.edu.sg |
 | Ms Lim Fen Niu | HOD Mathematics | lim_fen_niu@moe.edu.sg  |
-| Mr Liu Yaozhong | HOD Discipline | liu_yaozhong@moe.edu.sg |
+| Mr Liu Yaozhong | HOD Student Management | liu_yaozhong@moe.edu.sg |
 | Mr Paul Chandra | HOD Physical Education and CCA | paul_chandra_tjahjono@moe.edu.sg |
 | Miss Ruth Tang  | HOD CCE |  ruth_tang_joo_hong@moe.edu.sg |
 | Mr Ng Wei Ping | School Staff Developer  | ng_wei_ping@moe.edu.sg |
@@ -32,3 +32,5 @@ variant: markdown
 | Ms Chan Bijun | SH CCE | chan_bijun@moe.edu.sg |
 | Mr Richard Tan | SH Physical Education | tan_kee_chong@moe.edu.sg |
 | Mr Kok Wang Lin  | SH Chinese Language  | kok_lin_wang@moe.edu.sg|
+| Miss Loh Su Min | SH Student Management (Covering) | loh_su_min@moe.edu.sg |
+| Mr Khoo Yong Kang | SH Student Leadership (Covering) | khoo_yong_kang@moe.edu.sg |
