@@ -35,10 +35,4 @@ sections:
       description: You may access the linked folder from Wednesday, 18 Dec 2024.
       button: VIEW FOLDER
       url: https://drive.google.com/drive/folders/1FFqdf2UM7iMB0MW1_qlXebvNVHjTaA3C?usp=sharing
-  - infobar:
-      title: 2025 Secondary 1 Transfer Application
-      id: infobar
-      description: "Application Period: 18 - 23 Dec 2024"
-      button: Apply here
-      url: https://go.gov.sg/2025fhsstransferapplication
 ---
