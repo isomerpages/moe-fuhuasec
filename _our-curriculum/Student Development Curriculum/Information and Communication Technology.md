@@ -3,6 +3,7 @@ title: Information and Communication Technology
 permalink: /our-curriculum/Student-Development-Curriculum/ICT/
 description: ""
 third_nav_title: Student Development Curriculum
+variant: markdown
 ---
 ### Information and Communication Technology
 
@@ -17,11 +18,11 @@ third_nav_title: Student Development Curriculum
 
 **Key Programmes**
 <br><br>
-**1\. ICT Integrated Programme for all Sec 1E/NA students**
-<br> To complement Computer Applications Instructional Programme for Normal (Technical) students, all Secondary 1 Express and Normal (Academic) students will attain a baseline standard of ICT proficiency as well as Communication, Collaboration and Information skills after completing the in-house curriculum.
+**1\. Digital Skills Programme for all Secondary 1 students**
+<br> All Secondary 1 students will attain a baseline standard of ICT proficiency as well as Communication, Collaboration and Information skills after completing the in-house curriculum.
 
 **2\.Coding Programme for Secondary 1 and 2 students**
-<br> All Secondary 1 and 2 students are enrolled in a coding programme of 8 to 10 hours, to achieve the following: 
+<br> All Secondary 1 and 2 students are enrolled in a coding programme of 8 to 10 hours, to achieve the following:&nbsp;
 
 *   Be equipped with computational thinking and problem-solving skills through coding;
 *   To have extended learning from baseline ICT to advance computing skills;
@@ -32,5 +33,5 @@ third_nav_title: Student Development Curriculum
 Cyber Wellness education is provided for all students. It comprises the following:
 
 *   Cyber Wellness lesson packages, assembly programmes and class projects that focus on contemporary issues
-*   Cyber Wellness components in ICT Integrated Programme for Sec 1E and NA students
+*   Cyber Wellness components in ICT Integrated Programme for Secondary 1 students
 *   Cyber Wellness Leadership and Advocacy Programme for Secondary 1 to 3 Ambassadors
