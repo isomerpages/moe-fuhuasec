@@ -503,17 +503,6 @@ variant: tiptap
 <p>lim_jeremiah@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h5>Teacher Leaders</h5>
@@ -588,17 +577,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>loh_kok_wee_raymond@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -695,10 +673,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Tay Ai Chin
 <br>Miss Gao Conger</p>
+<p>Miss Huang Xiaojun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_ai_chin@moe.edu.sg
-<br>gao_conger@moe.edu.sg</p>
+<br><a href="mailto:gao_conger@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_conger@moe.edu.sg</a>
+</p>
+<p>huang_xiaojun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
