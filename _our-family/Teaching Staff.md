@@ -21,7 +21,7 @@ variant: markdown
 |
 
 ##### **Secondary 2**
-**Mrs Portia Sim / Assistant Year Head (Lower Sec)**(tan_poh_hong@moe.edu.sg)
+**Mrs Portia Sim / Assistant Year Head (Lower Sec)**<br>(tan_poh_hong@moe.edu.sg)
 
 | Class | Name | Email address |
 |:---:|---|---|
@@ -35,7 +35,7 @@ variant: markdown
 |  
 
 ##### **Secondary 3** <br>
-**Miss Siti Rohani / Assistant Year Head (Upper Sec)** (siti_rohani_hanim_selamat@moe.edu.sg)
+**Miss Siti Rohani / Assistant Year Head (Upper Sec)**<br>(siti_rohani_hanim_selamat@moe.edu.sg)
 
 | Class | Name | Email address |
 |:---:|---|---|
@@ -50,7 +50,7 @@ variant: markdown
 |  
 
 ##### **Secondary 4 and 5** <br>
-**Miss Germain Kang Yin Ga / Year Head (Upper Sec)**(germain_kang_yin_ga@moe.edu.sg) 
+**Miss Germain Kang Yin Ga / Year Head (Upper Sec)**<br>(germain_kang_yin_ga@moe.edu.sg) 
 
 | Class | Name | Email address |
 |:---:|---|---|
