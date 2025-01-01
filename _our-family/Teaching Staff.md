@@ -19,6 +19,7 @@ variant: markdown
 | 1R6 | Mdm Rafidah <br> Mr Samuel Cho | rafidah_a_rahman@moe.edu.sg<br>cho_jia_sheng_samuel@moe.edu.sg |
 | 1R7 | Mr Ng Khong Keong | ng_khong_keong@moe.edu.sg |
 |
+
 ##### **Secondary 2**
 **Mrs Portia Sim / Assistant Year Head (Lower Sec)**(tan_poh_hong@moe.edu.sg)
 
