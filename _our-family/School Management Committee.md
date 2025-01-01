@@ -11,6 +11,7 @@ variant: markdown
 
 | Name | Designation | Email address |
 |---|---|---|
+|Ms Low Lai Mei |HOD Aesthetics, Craft and Technology| low_lai_mei@moe.edu.sg |
 | Mrs Kavitha Desai | HOD English Language | kavitha_chandran_desai@moe.edu.sg |
 | Ms T. Deepa | HOD Humanities | t_deepa@moe.edu.sg |
 | Mdm Tok Yen Peng | HOD Mother Tongue Languages | tok_yen_peng@moe.edu.sg |
@@ -20,9 +21,8 @@ variant: markdown
 | Mr Paul Chandra | HOD Physical Education and CCA | paul_chandra_tjahjono@moe.edu.sg |
 | Miss Ruth Tang  | HOD CCE |  ruth_tang_joo_hong@moe.edu.sg |
 | Mr Ng Wei Ping | School Staff Developer  | ng_wei_ping@moe.edu.sg |
-| Mr Woody Woo | Year Head (LS) | woo_jin_quan@moe.edu.sg  |
-| Miss Germain Kang     | Year Head (US) | germain_kang_yin_ga@moe.edu.sg |
-| Ms Low Lai Mei   | HOD Aesthetics, Craft &amp; Technology | low_lai_mei@moe.edu.sg | 
+| Mr Woody Woo |Year Head (LS)| woo_jin_quan@moe.edu.sg |
+| Miss Germain Kang | Year Head (US) | germain_kang_yin_ga@moe.edu.sg |
 | Miss Siti Rohani  | Assistant Year Head (US) | siti_rohani_hanim_selamat@moe.edu.sg |
 | Mrs Portia Sim | Assistant Year Head (LS) | tan_poh_hong@moe.edu.sg  |
 | Miss Nur Hanis | LH Science | nur_hanis_mohamad_gh@moe.edu.sg  |
