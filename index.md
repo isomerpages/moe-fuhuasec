@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/217.jpg
       key_highlights:
-        - title: ANNOUNCEMENTS
-          description: ""
-          url: /announcements/overview/
         - title: Schemes of Assessment
           description: ""
           url: https://docs.google.com/document/d/e/2PACX-1vRY9grprmv6zyYqW0hD89717TvOn5FemE6IOehli7p5PXoL6l_DSiRBj1OsOOFNQIrJdsUq-UMTTFLJ/pub
