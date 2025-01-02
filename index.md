@@ -9,18 +9,18 @@ sections:
   - hero:
       background: /images/217.jpg
       key_highlights:
-        - title: Schemes of Assessment
-          description: ""
-          url: https://docs.google.com/document/d/e/2PACX-1vRY9grprmv6zyYqW0hD89717TvOn5FemE6IOehli7p5PXoL6l_DSiRBj1OsOOFNQIrJdsUq-UMTTFLJ/pub
-        - title: Fuhua News
-          description: ""
-          url: https://www.instagram.com/fuhuasecondaryschool
         - title: Class Timetable
           description: ""
           url: https://drive.google.com/file/d/1FOofxjRqAk2vYYB7YQ7IPa3qMhTg0Dtd/view?usp=sharing
-        - title: 2025 Student Handbook
+        - title: Schemes of Assessment
+          description: ""
+          url: https://docs.google.com/document/d/e/2PACX-1vRY9grprmv6zyYqW0hD89717TvOn5FemE6IOehli7p5PXoL6l_DSiRBj1OsOOFNQIrJdsUq-UMTTFLJ/pub
+        - title: Student Handbook
           description: ""
           url: https://www.go.gov.sg/fhss2025studenthandbook
+        - title: Fuhua News
+          description: ""
+          url: https://www.instagram.com/fuhuasecondaryschool
   - announcements:
       title: Announcements
       id: announcements
