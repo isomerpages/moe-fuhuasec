@@ -18,6 +18,9 @@ sections:
         - title: Class Timetable
           description: ""
           url: https://drive.google.com/file/d/1FOofxjRqAk2vYYB7YQ7IPa3qMhTg0Dtd/view?usp=sharing
+        - title: 2025 Student Handbook
+          description: ""
+          url: https://www.go.gov.sg/fhss2025studenthandbook
   - announcements:
       title: Announcements
       id: announcements
