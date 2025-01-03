@@ -33,11 +33,6 @@ sections:
             groomed, and report to the school hall by 7.20am.
           link_text: ""
           link_url: ""
-        - title: 2025 Class Timetables
-          date: 31 December 2024
-          announcement: The class timetables will be made available by 3 January 2025.
-          link_text: ""
-          link_url: ""
   - infobar:
       title: 2024 N' Level Release of Results
       subtitle: For 4E5-4E8 students
