@@ -21,18 +21,6 @@ sections:
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: Welcome back to school!
-          date: 31 December 2024
-          announcement: On 2 January, students should bring along their charged iPad,
-            holiday assignments, report book, English Language reading materials
-            and writing materials. Students must be properly attired and
-            groomed, and report to the school hall by 7.20am.
-          link_text: ""
-          link_url: ""
   - infobar:
       title: 2024 N' Level Release of Results
       subtitle: For 4E5-4E8 students
@@ -47,4 +35,7 @@ sections:
       description: You may access the linked folder from Wednesday, 18 Dec 2024.
       button: VIEW FOLDER
       url: https://drive.google.com/drive/folders/1FFqdf2UM7iMB0MW1_qlXebvNVHjTaA3C?usp=sharing
+  - announcements:
+      title: Announcements
+      id: announcements
 ---
