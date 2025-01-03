@@ -9,13 +9,14 @@ variant: markdown
 
 **Exco**
 
-*   Chairman: Mdm Jessie Chen
-*   Vice-Chairman: Mr Cheah Yeak Sang
-*   Secretary: Mdm Lynn Chia
-*   Treasurer: Mdm Alice Bun
+**Chairman:** Mr Low How Wong<br>
+**Treasurer:** Ms Michelle Li<br>
+**Head of Publicity &amp; Communications:** Ms Shennon Kong<br>
+**Heads of Engagement &amp; Planning:** Ms Kelleen Tai and Mdm Ruan Yang<br>
 
 **PSG Representatives of "Let Us Chat" Programme**
 
 *   Ms Florence Lim
+*   Mdm Ruan Yang
 *   Mr Tham Yoke Meng
 *   Mdm Hazlina Rohani

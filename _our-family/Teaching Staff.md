@@ -676,10 +676,8 @@ variant: tiptap
 <p>Miss Huang Xiaojun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_ai_chin@moe.edu.sg
-<br><a href="mailto:gao_conger@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_conger@moe.edu.sg</a>
-</p>
-<p>huang_xiaojun@moe.edu.sg</p>
+<p>tay_ai_chin@moe.edu.sg</p>
+<p>gao_conger@moe.edu.sg huang_xiaojun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
