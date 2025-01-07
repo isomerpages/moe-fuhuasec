@@ -35,7 +35,11 @@ sections:
       description: You may access the linked folder from Wednesday, 18 Dec 2024.
       button: VIEW FOLDER
       url: https://drive.google.com/drive/folders/1FFqdf2UM7iMB0MW1_qlXebvNVHjTaA3C?usp=sharing
-  - announcements:
-      title: Announcements
-      id: announcements
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
