@@ -42,4 +42,11 @@ sections:
       alt: Image alt text
       image: /images/WhatsApp_Image_2025_01_06_at_12_32_57_PM.jpg
       url: https://go.gov.sg/pat2025
+  - infopic:
+      title: Outstanding Youth in Education Award 2025
+      id: infopic
+      button: NOMINATE NOW
+      url: https://go.gov.sg/oyea2025
+      image: /images/WhatsApp_Image_2025_01_06_at_12_32_57_PM__1_.jpg
+      alt: Image alt text
 ---
