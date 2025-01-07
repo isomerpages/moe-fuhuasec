@@ -21,6 +21,11 @@ sections:
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
+  - infobar:
+      title: 2024 O' Level Release of Results
+      id: infobar
+      button: Learn more
+      url: https://docs.google.com/document/d/e/2PACX-1vQxgUcOpKoV971hGARo_BSDG3cPARjBadfczhpu_8fS_sozcVAYxZHC1wDaFfpO51yb3CPzmB0fsc2K/pub
   - infopic:
       title: President's Award for Teachers 2025
       id: infopic
@@ -49,9 +54,4 @@ sections:
       button: Read more
       url: https://drive.google.com/file/d/1rJRvSy59w0akksgX3srOWgwp10Zm3j7L/view?usp=sharing
       description: Administrative Briefing Slides
-  - infobar:
-      title: 2024 O' Level Release of Results
-      id: infobar
-      button: Learn more
-      url: https://docs.google.com/document/d/e/2PACX-1vQxgUcOpKoV971hGARo_BSDG3cPARjBadfczhpu_8fS_sozcVAYxZHC1wDaFfpO51yb3CPzmB0fsc2K/pub
 ---
