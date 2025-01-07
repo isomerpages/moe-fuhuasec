@@ -36,10 +36,10 @@ sections:
       button: VIEW FOLDER
       url: https://drive.google.com/drive/folders/1FFqdf2UM7iMB0MW1_qlXebvNVHjTaA3C?usp=sharing
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: President's Award for Teachers 2025
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: Nominate now
       alt: Image alt text
+      image: /images/WhatsApp_Image_2025_01_06_at_12_32_57_PM.jpg
+      url: https://go.gov.sg/pat2025
 ---
