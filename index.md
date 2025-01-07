@@ -21,20 +21,6 @@ sections:
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
-  - infobar:
-      title: 2024 N' Level Release of Results
-      subtitle: For 4E5-4E8 students
-      id: infobar
-      button: Read more
-      url: https://drive.google.com/file/d/1rJRvSy59w0akksgX3srOWgwp10Zm3j7L/view?usp=sharing
-      description: Administrative Briefing Slides
-  - infobar:
-      title: Secondary 1 e-Registration Exercise
-      subtitle: For 2025 Sec 1 Students
-      id: infobar
-      description: You may access the linked folder from Wednesday, 18 Dec 2024.
-      button: VIEW FOLDER
-      url: https://drive.google.com/drive/folders/1FFqdf2UM7iMB0MW1_qlXebvNVHjTaA3C?usp=sharing
   - infopic:
       title: President's Award for Teachers 2025
       id: infopic
@@ -49,4 +35,23 @@ sections:
       url: https://go.gov.sg/oyea2025
       image: /images/WhatsApp_Image_2025_01_06_at_12_32_57_PM__1_.jpg
       alt: Image alt text
+  - infobar:
+      title: Secondary 1 e-Registration Exercise
+      subtitle: For 2025 Sec 1 Students
+      id: infobar
+      description: You may access the linked folder from Wednesday, 18 Dec 2024.
+      button: VIEW FOLDER
+      url: https://drive.google.com/drive/folders/1FFqdf2UM7iMB0MW1_qlXebvNVHjTaA3C?usp=sharing
+  - infobar:
+      title: 2024 N' Level Release of Results
+      subtitle: For 4E5-4E8 students
+      id: infobar
+      button: Read more
+      url: https://drive.google.com/file/d/1rJRvSy59w0akksgX3srOWgwp10Zm3j7L/view?usp=sharing
+      description: Administrative Briefing Slides
+  - infobar:
+      title: 2024 O' Level Release of Results
+      id: infobar
+      button: Learn more
+      url: https://docs.google.com/document/d/e/2PACX-1vQxgUcOpKoV971hGARo_BSDG3cPARjBadfczhpu_8fS_sozcVAYxZHC1wDaFfpO51yb3CPzmB0fsc2K/pub
 ---
