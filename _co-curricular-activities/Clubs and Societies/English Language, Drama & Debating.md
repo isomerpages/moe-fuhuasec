@@ -27,9 +27,4 @@ To nurture actors, speakers and writers who possess critical-thinking skills, cr
 
 | Year | Event | Achievement |
 |:---:|:---:|:---:|
-| 2021 | Youth Debate Open | Silver Division (Semi-finalist) |
-| 2022 | Singapore Secondary Schools Debating Championship  | Division III (2nd place)  |
-| 2022 | Mid-Year Debate Invitationals | Silver Division (1st place)  |
-| 2023 | Singapore Secondary Schools Debating Championship |  Division III (Plate Winner) |
-| 2023 | Speak! Ventures Debating Championships  | 2nd Placing (Silver Division)  |
 | 2023 | Singapore Youth Festival Arts Presentation - Drama | Certificate of Accomplishment  |
