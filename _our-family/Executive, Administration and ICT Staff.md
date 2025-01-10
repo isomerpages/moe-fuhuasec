@@ -6,8 +6,8 @@ variant: markdown
 ---
 ### Executive, Administration and ICT Staff
 
-| Name | Designation | Email address |
-|---|---|---|
+| Name | Designation | 
+|---|---|
 | Mdm Lee Hui Ling | Administration Manager  | lee_hui_ling_d@moe.edu.sg |  
 | Mr Ong Kung Yew | Administration Manager | ong_kung_yew@moe.edu.sg |
 | Mr Veevekanandan | ICT Manager | veevekanandan_a@moe.edu.sg |
