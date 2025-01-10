@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-### English Language, Drama &amp; Debating
+### English Language Drama Club
 
 ##### About Us
 
@@ -16,13 +16,6 @@ Confidence and Passion in the English Language
 To nurture actors, speakers and writers who possess critical-thinking skills, creativity and confidence
 
 ##### OUR Key Programmes
-
-**Debate**:&nbsp;
-
-*   Singapore Secondary Schools' Debating Championship
-*   Debate Association Debating Championship
-*   Mid-Year Debate Invitationals
-*   Youth Debate Open
 
 **Drama**:&nbsp;
 
