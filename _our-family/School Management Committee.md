@@ -9,8 +9,8 @@ variant: markdown
 ![](/images/SLs_Org_Chart.png)
 
 
-| Name | Designation | Email address |
-|---|---|---|
+| Name | Designation | 
+|---|---|
 |Ms Low Lai Mei |HOD Aesthetics, Craft and Technology| low_lai_mei@moe.edu.sg |
 | Mrs Kavitha Desai | HOD English Language | kavitha_chandran_desai@moe.edu.sg |
 | Ms T. Deepa | HOD Humanities | t_deepa@moe.edu.sg |
