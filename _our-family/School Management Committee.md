@@ -8,7 +8,6 @@ variant: markdown
 
 ![](/images/SLs_Org_Chart.png)
 
-
 | Name | Designation | 
 |---|---|
 |Ms Low Lai Mei |HOD Aesthetics, Craft and Technology| low_lai_mei@moe.edu.sg |
