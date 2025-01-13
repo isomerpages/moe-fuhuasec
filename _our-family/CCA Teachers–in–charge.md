@@ -42,5 +42,4 @@ variant: markdown
 | Chinese Dance &amp; Wushu | Mdm Cao Jiawei (OIC)<br>Mdm Wu Taojun<br>Miss Lee Lay Hwa | 
 | Chinese Orchestra | Ms Tan Tuan Ling (OIC)<br>Mr Raymond Loh <br>Mr Kok Wang Lin | 
 | Choir | Ms Angeline Chua (OIC)<br>Ms Jasmine Lim (2IC) | 
-| Malay Cultural Society | Mdm Rohana Ismail |rohana_ismail@moe.edu.sg| |
-|
+| Malay Cultural Society | Mdm Rohana Ismail |
