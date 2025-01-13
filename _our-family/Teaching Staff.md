@@ -447,8 +447,7 @@ variant: tiptap
 <p>Aesthetics, Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chee Beng William
-<br>Ms Ang Aai Lynn</p>
+<p>Ms Ang Aai Lynn</p>
 </td>
 </tr>
 <tr>
