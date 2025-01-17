@@ -17,7 +17,7 @@ sections:
           url: https://www.go.gov.sg/fhss2025studenthandbook
         - title: Schemes of Assessment
           description: ""
-          url: https://docs.google.com/document/d/e/2PACX-1vRY9grprmv6zyYqW0hD89717TvOn5FemE6IOehli7p5PXoL6l_DSiRBj1OsOOFNQIrJdsUq-UMTTFLJ/pub
+          url: https://docs.google.com/document/d/e/2PACX-1vSNUwKNoQYuwOgtneDZsst9M2OT-rdLwEHoYukxHls-BKCoSl2LUKmy_D3mDiQSdeK0gv2ikZ80GZLS/pub
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
