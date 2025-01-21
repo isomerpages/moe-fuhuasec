@@ -34,11 +34,4 @@ sections:
       button: Read more
       url: https://drive.google.com/file/d/1rJRvSy59w0akksgX3srOWgwp10Zm3j7L/view?usp=sharing
       description: Administrative Briefing Slides
-  - infobar:
-      title: Secondary 1 e-Registration Exercise
-      subtitle: For 2025 Sec 1 Students
-      id: infobar
-      description: You may access the linked folder from Wednesday, 18 Dec 2024.
-      button: VIEW FOLDER
-      url: https://drive.google.com/drive/folders/1FFqdf2UM7iMB0MW1_qlXebvNVHjTaA3C?usp=sharing
 ---
