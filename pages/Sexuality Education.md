@@ -62,4 +62,4 @@ To find out more about the Sexuality Education lessons that will be taught in 20
 
 12\. Parents who wish to opt their children out of the ***eTeens* programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available [here](https://go.gov.sg/fhss-eteen-opt-out-form-2025). The completed form is to be submitted by 07/02/2025.
 
-13\. Parents can contact Miss Ruth Tang (HOD/CCE) at ruth_tang_joo_hong@schools.gov.sg or call 65007113 for discussion to seek clarification about the school's Sexuality Education programme. 
+13\. Parents can contact Miss Ruth Tang (HOD/CCE) at ruth_tang_joo_hong@schools.gov.sg or call 65007113 for discussion to seek clarification about the school's Sexuality Education programme.
