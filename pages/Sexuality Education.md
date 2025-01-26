@@ -25,7 +25,7 @@ variant: markdown
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education. 
 
 
-#### Overview of Fuhua Secondary School's Sexuality Education Programme for 2024
+#### Overview of Fuhua Secondary School's Sexuality Education Programme for 2025
 
   
 4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
@@ -39,7 +39,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 7\. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.  
   
-To find out more about the Sexuality Education lessons that will be taught in 2024 at Fuhua Secondary School, view this document [here.](https://drive.google.com/file/d/1JUHqnfcYfPjGVsy23TS_3qaP_xo5AGVT/view?usp=sharing)
+To find out more about the Sexuality Education lessons that will be taught in 2025 at Fuhua Secondary School, view this document [here](https://drive.google.com/file/d/19A-bCMVVc3HjlK2SjZDsyf25s8G-EtO1/view?usp=sharing).
 
 ***eTeens* Programme**:
 
@@ -51,15 +51,15 @@ To find out more about the Sexuality Education lessons that will be taught in 20
 
 | Topics/Lessons | Learning Objectives | Time Period |
 | -------- | -------- | -------- |
-| Mass Talk by HPB appointed vendor | Raise awareness and provide knowledge on: <br><br> (a) Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use)<br><br> (b) Managing relationships and risky situations in a healthy way.  | Term 3 Week 6 |
-| Classroom-based Lesson | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 7 |
+| Mass Talk delivered through a pre-recorded video| Raise awareness and provide knowledge on: <br><br> (a) Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use)<br><br> (b) Managing relationships and risky situations in a healthy way.  | Term 3 Week 2 |
+| Classroom-based Lesson | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 3 |
 
 #### Information for Parents
 
 10\. Parents may opt their children out of the Sexuality Education lessons, *eTeens* and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here.](https://drive.google.com/file/d/1andh8RQaHDdS88BoMpGZQFq67q9Rnzn6/view?usp=drive_link) The completed form is to be submitted by 16/02/2024.
+11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available [here](https://go.gov.sg/fhss-sed-parent-opt-out-form). The completed form is to be submitted by 07/02/2025.
 
-12\. Parents who wish to opt their children out of the ***eTeens* programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1nC-sC6NkbSkTrZr5MXCd0bNIxP5m_SuT/view?usp=drive_link). The completed form is to be submitted by 16/02/2024.
+12\. Parents who wish to opt their children out of the ***eTeens* programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available [here](https://go.gov.sg/fhss-eteen-opt-out-form-2025). The completed form is to be submitted by 07/02/2025.
 
-13\. Parents can contact Miss Ruth Tang (HOD/CCE) at ruth_tang_joo_hong@schools.gov.sg or call 65007113 for discussion to seek clarification about the school's Sexuality Education programme. programme.
+13\. Parents can contact Miss Ruth Tang (HOD/CCE) at ruth_tang_joo_hong@schools.gov.sg or call 65007113 for discussion to seek clarification about the school's Sexuality Education programme.
