@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3>Teaching Staff</h3>
 <h5><strong>Secondary 1</strong> <br></h5>
-<p><strong>Mr Woody Woo / Year Head (Lower Sec)</strong> 
+<p><strong>Mr Woody Woo / Year Head (Lower Sec)</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
