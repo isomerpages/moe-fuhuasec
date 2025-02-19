@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Teaching Staff</h3>
 <h5><strong>Secondary 1</strong> <br></h5>
 <p><strong>Mr Woody Woo / Year Head (Lower Sec)</strong> 
-<br>(woo_jin_quan@moe.edu.sg)</p>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -93,7 +93,8 @@ variant: tiptap
 </table>
 <h5><strong>Secondary 2</strong></h5>
 <p><strong>Mrs Portia Sim / Assistant Year Head (Lower Sec)</strong>
-<br>(tan_poh_hong@moe.edu.sg)</p>
+<br>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -182,7 +183,8 @@ variant: tiptap
 </table>
 <h5><strong>Secondary 3</strong> <br></h5>
 <p><strong>Miss Siti Rohani / Assistant Year Head (Upper Sec)</strong>
-<br>(siti_rohani_hanim_selamat@moe.edu.sg)</p>
+<br>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -277,7 +279,8 @@ variant: tiptap
 </table>
 <h5><strong>Secondary 4 and 5</strong> <br></h5>
 <p><strong>Miss Germain Kang Yin Ga / Year Head (Upper Sec)</strong>
-<br>(germain_kang_yin_ga@moe.edu.sg)</p>
+<br>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
