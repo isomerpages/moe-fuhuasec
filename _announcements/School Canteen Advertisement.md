@@ -83,7 +83,7 @@ Programme (HMSP)" guidelines (see [link](<a rel="noopener noreferrer nofollow" t
 <p>Possess catering experience or experience operating in a school environment.</p>
 </li>
 </ul>
-<p><strong> Successful applicant must:</strong>
+<p><strong>Successful applicant must:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
