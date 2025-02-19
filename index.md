@@ -22,16 +22,10 @@ sections:
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
   - infobar:
-      title: 2024 O' Level Release of Results
+      title: School Canteen Advertisement
+      subtitle: "MUSLIM COOKED FOOD: RICE STALL"
       id: infobar
-      button: Read more
-      url: https://drive.google.com/file/d/1Qr8FMPrwgkElLqNqmVSr-o4RDYgysH6U/view?usp=sharing
-      description: Administrative Briefing Slides
-  - infobar:
-      title: 2024 N' Level Release of Results
-      subtitle: For 4E5-4E8 students
-      id: infobar
-      button: Read more
-      url: https://drive.google.com/file/d/1rJRvSy59w0akksgX3srOWgwp10Zm3j7L/view?usp=sharing
-      description: Administrative Briefing Slides
+      description: "Application Closing: 14 March 2025"
+      button: APPLY NOW
+      url: /school-canteen-advertisement/
 ---
