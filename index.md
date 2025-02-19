@@ -22,6 +22,13 @@ sections:
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
   - infobar:
+      title: School Canteen Advertisement
+      subtitle: "MUSLIM COOKED FOOD: RICE STALL"
+      id: infobar
+      description: "Application Closing: 14 March 2025"
+      button: APPLY NOW
+      url: /school-canteen-advertisement/
+  - infobar:
       title: 2024 O' Level Release of Results
       id: infobar
       button: Read more
