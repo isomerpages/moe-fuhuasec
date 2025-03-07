@@ -9,14 +9,14 @@ variant: markdown
 
 **Exco**
 
-**Chairman:** Mr Low How Wong<br>
+**Chairman:** Ms Kelleen Tai<br>
 **Treasurer:** Ms Michelle Li<br>
 **Head of Publicity &amp; Communications:** Ms Shennon Kong<br>
-**Heads of Engagement &amp; Planning:** Ms Kelleen Tai and Mdm Ruan Yang<br>
+**Heads of Engagement &amp; Planning:** Ms Tay Yu Hui<br>
 
 **PSG Representatives of "Let Us Chat" Programme**
 
-*   Ms Florence Lim
+*   Ms Michelle Li
 *   Mdm Ruan Yang
 *   Mr Tham Yoke Meng
 *   Mdm Hazlina Rohani
