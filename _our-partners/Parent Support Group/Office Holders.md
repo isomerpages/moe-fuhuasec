@@ -12,7 +12,7 @@ variant: markdown
 **Chairman:** Ms Kelleen Tai<br>
 **Treasurer:** Ms Michelle Li<br>
 **Head of Publicity &amp; Communications:** Ms Shennon Kong<br>
-**Heads of Engagement &amp; Planning:** Ms Tay Yu Hui<br>
+**Head of Engagement &amp; Planning:** Ms Tay Yu Hui<br>
 
 **PSG Representatives of "Let Us Chat" Programme**
 
