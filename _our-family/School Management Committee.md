@@ -17,7 +17,6 @@ variant: markdown
 | Mr Nicholas Liu | HOD Science | 
 | Ms Lim Fen Niu | HOD Mathematics | 
 | Mr Liu Yaozhong | HOD Student Management |
-| Mr Paul Chandra | HOD Physical Education and CCA | 
 | Miss Ruth Tang  | HOD CCE | 
 | Mr Ng Wei Ping | School Staff Developer | 
 | Mr Woody Woo |Year Head (LS)| 
