@@ -27,7 +27,7 @@ sections:
       id: infobar
       description: FOR TERM 2
       button: View here
-      url: https://drive.google.com/file/d/1qKV30tIljBFF_u5PX261HiSP_I2Ez1yt/view?usp=drive_link
+      url: https://drive.google.com/file/d/1a9C8EAbOJ3NL48GneC-Zm028P8ygMUnz/view?usp=sharing
   - infobar:
       title: School Canteen Advertisement
       subtitle: "MUSLIM COOKED FOOD: RICE STALL"
