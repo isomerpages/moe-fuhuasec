@@ -22,10 +22,9 @@ sections:
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
   - infobar:
-      title: Supplementary Lessons Schedule
+      title: Term 2 Supplementary Lessons Schedule
       subtitle: For Secondary 4 & 5 Students
       id: infobar
-      description: FOR TERM 2
       button: View here
       url: https://drive.google.com/file/d/1a9C8EAbOJ3NL48GneC-Zm028P8ygMUnz/view?usp=sharing
   - infobar:
