@@ -4,7 +4,7 @@ permalink: /school-canteen-advertisement/
 variant: tiptap
 description: ""
 ---
-<p><strong>| Muslim Cooked Food | 14 March 2025| Rice Stall |</strong>
+<p><strong>| Muslim Cooked Food | 17 April 2025 | Rice Stall |</strong>
 </p>
 <p><strong>Application Procedure</strong>
 </p>
