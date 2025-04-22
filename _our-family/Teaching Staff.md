@@ -36,6 +36,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Adrian Sim</p>
+<p>Ms Mabel Loon</p>
 </td>
 </tr>
 <tr>
@@ -160,6 +161,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rachel Liau</p>
+<p>Mr Lim Enjian</p>
 </td>
 </tr>
 <tr>
@@ -205,6 +207,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Raymond Loh</p>
+<p>Mr Wong Chunheng Malcolm</p>
 </td>
 </tr>
 <tr>
@@ -473,6 +476,7 @@ variant: tiptap
 <p>Ms Lok Wai See
 <br>Ms Zhang Li
 <br>Mdm Chu Yusheng</p>
+<p>Ms Chua Meiqi</p>
 </td>
 </tr>
 <tr>
