@@ -26,7 +26,6 @@ variant: markdown
 | Miss Nur Hanis | LH Science | 
 | Mdm Aw Soo Bing | SH Mathematics  | 
 | Mr Teh Yi Yuan| SH ICT | 
-| Mr Bradley Soh | SH Humanities | 
 | Ms Chan Bijun | SH CCE | 
 | Mr Richard Tan | SH Physical Education | 
 | Mr Kok Wang Lin  | SH Chinese Language  | 
