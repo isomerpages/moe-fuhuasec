@@ -1,6 +1,6 @@
 ---
-title: English Language, Drama & Debating
-permalink: /co-curricular-activities/Clubs-and-Societies/EL-drama-debating/
+title: English Language Drama Club
+permalink: /co-curricular-activities/clubs-and-societies/el-drama-debating/
 description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
