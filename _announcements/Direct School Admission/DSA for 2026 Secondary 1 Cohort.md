@@ -42,7 +42,8 @@ respective talent area selection criteria.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science, Technology, Engineering and Mathematics (STEM)</p>
+<p><a href="https://drive.google.com/file/d/1Voya75AeU5lKNDFbo_VYPjF-p1SFZW3M/view?usp=drive_link" rel="noopener nofollow" target="_blank">Science, Technology, Engineering and Mathematics (STEM)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(i) Applied Sciences - Forensics Science</p>
@@ -54,7 +55,8 @@ respective talent area selection criteria.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sports and Games</p>
+<p><a href="https://drive.google.com/file/d/1mUkNhI6X_HVHlPVNfoSlpJo-P2fyGld0/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sports and Games</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(i) Badminton</p>
@@ -68,7 +70,8 @@ respective talent area selection criteria.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Performing Arts</p>
+<p><a href="https://drive.google.com/file/d/1XjFaGJ_2SMBCcIP2HKuYyjPAB_R34TZc/view?usp=drive_link" rel="noopener nofollow" target="_blank">Performing Arts</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(i) Choir</p>
@@ -81,7 +84,8 @@ respective talent area selection criteria.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leadership and Uniformed Groups</p>
+<p><a href="https://drive.google.com/file/d/15G8r1rP55ls65Z_tR_lnNyenhGYbAjDL/view?usp=drive_link" rel="noopener nofollow" target="_blank">Leadership and Uniformed Groups</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Scouts (Sea)</p>
@@ -90,8 +94,8 @@ respective talent area selection criteria.</p>
 </tbody>
 </table>
 <p></p>
-<p>Please refer to <a href="https://drive.google.com/file/d/1ulSidO_cxVp8it-HGQXfpJN1xCNypyKj/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">this document</a> for
-the selection criteria and process for the above talent areas.</p>
+<p>Please refer to <a href="https://drive.google.com/file/d/1x9Y4CD1QLgzgmR52Ni-Z_ANd2Un4JMjg/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">this document</a> for
+information on key dates and processes for the DSA Exercise.</p>
 <p>For clarifications on the DSA Exercise, the school can be contacted via
 the following channels:</p>
 <table style="minWidth: 50px">
