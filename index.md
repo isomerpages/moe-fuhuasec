@@ -33,11 +33,4 @@ sections:
       id: infobar
       button: View here
       url: https://drive.google.com/file/d/1a9C8EAbOJ3NL48GneC-Zm028P8ygMUnz/view?usp=sharing
-  - infobar:
-      title: School Canteen Advertisement
-      subtitle: "MUSLIM COOKED FOOD: RICE STALL"
-      id: infobar
-      description: "Application Closing: 17 April 2025"
-      button: APPLY NOW
-      url: /school-canteen-advertisement/
 ---
