@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Announcements page.md
       - Direct School Admission/.keep
       - Direct School Admission/DSA for 2026 Secondary 1 Cohort.md
