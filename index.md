@@ -28,9 +28,9 @@ sections:
       button: LEARN MORE
       url: https://fuhuasec.moe.edu.sg/dsa-for-2026-secondary-1-cohort/
   - infobar:
-      title: Term 2 Supplementary Lessons Schedule
-      subtitle: For Secondary 4 & 5 Students
+      title: Experiential Learning Week Timetable
+      subtitle: Term 2 Week 10
       id: infobar
       button: View here
-      url: https://drive.google.com/file/d/1a9C8EAbOJ3NL48GneC-Zm028P8ygMUnz/view?usp=sharing
+      url: http://go.gov.sg/fhss2025-t2w10
 ---
