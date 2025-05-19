@@ -22,15 +22,15 @@ sections:
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
   - infobar:
+      title: Experiential Learning Week Timetable
+      subtitle: Term 2 Week 10
+      id: infobar
+      button: View here
+      url: http://go.gov.sg/fhss2025-t2w10
+  - infobar:
       title: Direct School Admission (DSA) Exercise
       id: infobar
       description: For 2026 Secondary 1 Intake
       button: LEARN MORE
       url: https://fuhuasec.moe.edu.sg/dsa-for-2026-secondary-1-cohort/
-  - infobar:
-      title: Term 2 Supplementary Lessons Schedule
-      subtitle: For Secondary 4 & 5 Students
-      id: infobar
-      button: View here
-      url: https://drive.google.com/file/d/1a9C8EAbOJ3NL48GneC-Zm028P8ygMUnz/view?usp=sharing
 ---
