@@ -11,7 +11,7 @@ variant: markdown
 | CCA | Name | 
 |---|---|
 | Environment | Mdm Rafidah (OIC) <br> Ms Lim Shuying Jeanne | 
-| English Language Drama | Mr Kwa Chia Rhun (OIC)<br>Miss Loh Su Min<br>Ms Rachel Liau | 
+| English Language Drama | Miss Loh Su Min (OIC) <br>Ms Rachel Liau | 
 | Infocomm | Mr Tan Gek Guang (OIC)<br>Mr Samuel Cho <br>Ms Suvitha Prakass Pillay | 
 | Robotics | Mr Ong Fui Liang (OIC)<br>Mrs Rhyss Teo<br>Mr Tan Boon Teck<br>Mdm Tan Geok Lan | 
 
