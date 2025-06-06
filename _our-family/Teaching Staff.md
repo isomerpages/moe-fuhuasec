@@ -224,8 +224,7 @@ variant: tiptap
 <p>3S3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Wen Hui
-<br>Mr Kwa Chia Rhun</p>
+<p>Ms Tay Wen Hui</p>
 </td>
 </tr>
 <tr>
@@ -463,7 +462,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chen Siying Jasmine
-<br>Mr Low Choon How Michael
 <br>Mr Azhari Bin Jasman
 <br>Mdm Yeo Geck Hong</p>
 </td>
