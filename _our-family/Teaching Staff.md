@@ -477,7 +477,7 @@ variant: tiptap
 <p>Ms Lok Wai See
 <br>Ms Zhang Li
 <br>Mdm Chu Yusheng</p>
-<p>Ms Chua Meiqi</p>
+<p>Mdm Chua Mei Qi</p>
 </td>
 </tr>
 <tr>
