@@ -516,7 +516,7 @@ variant: tiptap
 <p>Principles of Accounts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jerry Yeo</p>
+<p>Mr Jerry Yeo Kim Yeow</p>
 <p>Ms Ng Yan Ling</p>
 </td>
 </tr>
