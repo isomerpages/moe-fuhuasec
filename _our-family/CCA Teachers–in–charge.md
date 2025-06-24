@@ -11,8 +11,8 @@ variant: markdown
 | CCA | Name | 
 |---|---|
 | Environment | Mdm Rafidah (OIC) <br> Ms Lim Shuying Jeanne | 
-| English Language Drama | Miss Loh Su Min (OIC) <br> Ms Rachel Liau | Mr Kristof Han |
-| Infocomm | Mr Tan Gek Guang (OIC) <br>Ms Suvitha Prakass Pillay | Ms Tam Zhi Ying |
+| English Language Drama | Miss Loh Su Min (OIC) <br> Ms Rachel Liau  <br> Mr Kristof Han |
+| Infocomm | Mr Tan Gek Guang (OIC) <br>Ms Suvitha Prakass Pillay <br> Ms Tam Zhi Ying |
 | Robotics | Mr Ong Fui Liang (OIC)<br>Mrs Rhyss Teo<br>Mr Tan Boon Teck<br>Miss Gao Conger | 
 
 ##### **Cluster: Physical Sports**
@@ -28,7 +28,7 @@ variant: markdown
 
 | CCA | Name | 
 |---|---|
-| National Cadet Corps (Land) | Mr Ian Tai Zhi Jian (OIC)<br>Mdm Teo Chek Gin (2IC) | Mr Samuel Cho |
+| National Cadet Corps (Land) | Mr Ian Tai Zhi Jian (OIC)<br>Mdm Teo Chek Gin (2IC) <br> Mr Samuel Cho |
 | National Police Cadet Corps | Mr Tan Ying Quan (OIC)<br>Ms Veronica Tei (2IC)<br>Mr Goh Kee Lee | 
 | Red Cross Youth | Mr Tan Yong Qiao Elton (OIC)<br>Mr Khoo Yong Kang (2IC) <br> Miss Nur Hanis | 
 | Sea Scouts | Mr Muhammad Khairi (OIC)<br>Ms Lim Ying Hui (2IC) <br>Ms Nur Sarah| 
@@ -41,5 +41,5 @@ variant: markdown
 | Concert Band | Mdm Lai Hung Lan (OIC)<br>Miss Siti Nurasyikin<br>Miss Kelly Sng | 
 | Chinese Dance &amp; Wushu | Mdm Cao Jiawei (OIC)<br>Mdm Wu Taojun<br>Miss Lee Lay Hwa | 
 | Chinese Orchestra | Ms Tan Tuan Ling (OIC)<br>Mr Raymond Loh <br>Mr Kok Wang Lin | 
-| Choir | Ms Angeline Chua (OIC)<br>Ms Jasmine Lim (2IC) | Miss Christine Choo |
-| Malay Cultural Society | Mdm Rohana Ismail | Mdm Chua Mei Qi
+| Choir | Ms Angeline Chua (OIC)<br>Ms Jasmine Lim (2IC) <br> Miss Christine Choo |
+| Malay Cultural Society | Mdm Rohana Ismail <br> Mdm Chua Mei Qi |
