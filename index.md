@@ -22,11 +22,11 @@ sections:
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
   - infobar:
-      title: Experiential Learning Week Timetable
-      subtitle: Term 2 Week 10
+      title: Supplementary Lesson Schedule
+      subtitle: For Graduating Classes
       id: infobar
       button: View here
-      url: http://go.gov.sg/fhss2025-t2w10
+      url: https://drive.google.com/file/d/12_4Wh0GwTJ8WH06P3LOOaustGFmQO6Ri/view?usp=sharing
   - infobar:
       title: Direct School Admission (DSA) Exercise
       id: infobar
