@@ -28,6 +28,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Khairi</p>
+<p>Ms Tam Zhi Ying</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +63,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Goh Kee Lee
-<br>Mdm Yeo Geck Hong</p>
+<br>Mdm Yeo Gek Hong</p>
 </td>
 </tr>
 <tr>
@@ -80,6 +81,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Khong Keong</p>
+<p>Miss Christine Choo</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +251,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Suvitha Prakass Pillay
-<br>Mr Loh Kuin Phei</p>
+<br>Mrs Rebekah Lin</p>
 </td>
 </tr>
 <tr>
@@ -312,6 +314,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hia Soo Ching</p>
+<p>Mdm Chua Mei Qi</p>
 </td>
 </tr>
 <tr>
@@ -345,6 +348,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Angeline Chua</p>
+<p>Mr Kristof Han</p>
 </td>
 </tr>
 <tr>
@@ -462,8 +466,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chen Siying Jasmine
-<br>Mr Azhari Bin Jasman
-<br>Mdm Yeo Geck Hong</p>
+<br>Mr Azhari Bin Jasman</p>
 </td>
 </tr>
 <tr>
@@ -474,7 +477,6 @@ variant: tiptap
 <p>Ms Lok Wai See
 <br>Ms Zhang Li
 <br>Mdm Chu Yusheng</p>
-<p>Ms Chua Meiqi</p>
 </td>
 </tr>
 <tr>
@@ -494,7 +496,7 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Kuin Phei
+<p>Mrs Rebekah Lin
 <br>Ms Jasmine Lim</p>
 </td>
 </tr>
@@ -506,6 +508,15 @@ variant: tiptap
 <p>Mrs Tay Ai Chin
 <br>Miss Gao Conger
 <br>Miss Huang Xiaojun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principles of Accounts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jerry Yeo Kim Yeow</p>
+<p>Ms Ng Yan Ling</p>
 </td>
 </tr>
 </tbody>
