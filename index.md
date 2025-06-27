@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: 2025 Class Timetable
           description: ""
-          url: https://drive.google.com/file/d/1qvaMM08dArvBSqiT3XUULZVnQpz_ArZw/view?usp=drive_link
+          url: https://drive.google.com/file/d/1dbBhew6l-QoU_2gHIAFrJA8hSogC_G6K/view?usp=sharing
         - title: 2025 Student Handbook
           description: ""
           url: https://www.go.gov.sg/fhss2025studenthandbook
