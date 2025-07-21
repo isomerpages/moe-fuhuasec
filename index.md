@@ -32,11 +32,11 @@ sections:
       subtitle: For graduating classes
       id: textcards
       cards:
-        - title: O' Level Prelim Schedule
+        - title: 4E/5N Prelim Schedule
           description: ""
           linktext: View here
           url: https://drive.google.com/file/d/1mxVsLvMfZDwA6L9msOpLMKkIsTYyu0qX/view?usp=drive_link
-        - title: N' Level Prelim Schedule
+        - title: 4NA/NT Prelim Schedule
           description: ""
           linktext: View here
           url: https://drive.google.com/file/d/167b7KhPxa3La-2UqZz_YnI6K7tJ5KWid/view?usp=drive_link
