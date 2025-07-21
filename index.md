@@ -27,6 +27,19 @@ sections:
       id: infobar
       button: View here
       url: https://drive.google.com/file/d/12_4Wh0GwTJ8WH06P3LOOaustGFmQO6Ri/view?usp=sharing
+  - textcards:
+      title: Preliminary Examinations Schedule
+      subtitle: For graduating classes
+      id: textcards
+      cards:
+        - title: 4E/5N Prelim Schedule
+          description: ""
+          linktext: View here
+          url: https://drive.google.com/file/d/1mxVsLvMfZDwA6L9msOpLMKkIsTYyu0qX/view?usp=drive_link
+        - title: 4NA/NT Prelim Schedule
+          description: ""
+          linktext: View here
+          url: https://drive.google.com/file/d/167b7KhPxa3La-2UqZz_YnI6K7tJ5KWid/view?usp=drive_link
   - infobar:
       title: Direct School Admission (DSA) Exercise
       id: infobar
