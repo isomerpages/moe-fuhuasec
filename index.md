@@ -21,12 +21,6 @@ sections:
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
-  - infobar:
-      title: Supplementary Lesson Schedule
-      subtitle: For Graduating Classes
-      id: infobar
-      button: View here
-      url: https://drive.google.com/file/d/12_4Wh0GwTJ8WH06P3LOOaustGFmQO6Ri/view?usp=sharing
   - textcards:
       title: Preliminary Examinations Schedule
       subtitle: For graduating classes
