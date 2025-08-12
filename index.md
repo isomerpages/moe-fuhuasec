@@ -34,17 +34,10 @@ sections:
           description: ""
           linktext: View here
           url: https://drive.google.com/file/d/167b7KhPxa3La-2UqZz_YnI6K7tJ5KWid/view?usp=drive_link
-  - infobar:
-      title: Direct School Admission (DSA) Exercise
-      id: infobar
-      description: For 2026 Secondary 1 Intake
-      button: LEARN MORE
-      url: https://fuhuasec.moe.edu.sg/dsa-for-2026-secondary-1-cohort/
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: EOY Examination Schedules
+      subtitle: For Secondary 1-3 Students
       id: textcards
-      description: Text card description
       cards:
         - title: Sec 1 G1/G2/G3
           description: ""
@@ -62,4 +55,10 @@ sections:
           description: ""
           linktext: View here
           url: https://drive.google.com/file/d/1spJpiL8yAZKD5RNZo-EQtOwE0h5IJyFz/view?usp=sharing
+  - infobar:
+      title: Direct School Admission (DSA) Exercise
+      id: infobar
+      description: For 2026 Secondary 1 Intake
+      button: LEARN MORE
+      url: https://fuhuasec.moe.edu.sg/dsa-for-2026-secondary-1-cohort/
 ---
