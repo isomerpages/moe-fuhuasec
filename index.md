@@ -34,6 +34,27 @@ sections:
           description: ""
           linktext: View here
           url: https://drive.google.com/file/d/167b7KhPxa3La-2UqZz_YnI6K7tJ5KWid/view?usp=drive_link
+  - textcards:
+      title: EOY Examination Schedules
+      subtitle: For Secondary 1-3 Students
+      id: textcards
+      cards:
+        - title: Sec 1 G1/G2/G3
+          description: ""
+          linktext: View here
+          url: https://drive.google.com/file/d/12BJwwD-S531_CgJCaaLFq7q4MBU5zW78/view?usp=sharing
+        - title: Sec 2 G1/G2/G3
+          description: ""
+          linktext: View here
+          url: https://drive.google.com/file/d/1EA9eHxlU4SRwri0_O9A7fm8zPB56NAZN/view?usp=sharing
+        - title: Sec 3 Express
+          description: ""
+          linktext: View here
+          url: https://drive.google.com/file/d/1sdP_sLppwwqYRUqi4jRyn1gHNMJMmCbU/view?usp=sharing
+        - title: Sec 3 NA/NT
+          description: ""
+          linktext: View here
+          url: https://drive.google.com/file/d/1spJpiL8yAZKD5RNZo-EQtOwE0h5IJyFz/view?usp=sharing
   - infobar:
       title: Direct School Admission (DSA) Exercise
       id: infobar
