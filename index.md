@@ -40,4 +40,26 @@ sections:
       description: For 2026 Secondary 1 Intake
       button: LEARN MORE
       url: https://fuhuasec.moe.edu.sg/dsa-for-2026-secondary-1-cohort/
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Sec 1 G1/G2/G3
+          description: ""
+          linktext: View here
+          url: https://drive.google.com/file/d/12BJwwD-S531_CgJCaaLFq7q4MBU5zW78/view?usp=sharing
+        - title: Sec 2 G1/G2/G3
+          description: ""
+          linktext: View here
+          url: https://drive.google.com/file/d/1EA9eHxlU4SRwri0_O9A7fm8zPB56NAZN/view?usp=sharing
+        - title: Sec 3 Express
+          description: ""
+          linktext: View here
+          url: https://drive.google.com/file/d/1sdP_sLppwwqYRUqi4jRyn1gHNMJMmCbU/view?usp=sharing
+        - title: Sec 3 NA/NT
+          description: ""
+          linktext: View here
+          url: https://drive.google.com/file/d/1spJpiL8yAZKD5RNZo-EQtOwE0h5IJyFz/view?usp=sharing
 ---
