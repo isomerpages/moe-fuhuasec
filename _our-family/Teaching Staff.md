@@ -475,8 +475,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lok Wai See
-<br>Ms Zhang Li
-<br>Mdm Chu Yusheng</p>
+<br>Ms Zhang Li</p>
+<p>Mr Morgan Law</p>
 </td>
 </tr>
 <tr>
@@ -517,6 +517,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Jerry Yeo Kim Yeow</p>
 <p>Ms Ng Yan Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE/CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Sai Cheong</p>
 </td>
 </tr>
 </tbody>
