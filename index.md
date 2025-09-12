@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: 2025 Class Timetable
           description: ""
-          url: https://drive.google.com/file/d/1dbBhew6l-QoU_2gHIAFrJA8hSogC_G6K/view?usp=sharing
+          url: https://drive.google.com/file/d/1Y6iYL3bWvAySQL4uhvJh8AM7ncwesIVx/view?usp=sharing
         - title: 2025 Student Handbook
           description: ""
           url: https://www.go.gov.sg/fhss2025studenthandbook
@@ -21,19 +21,6 @@ sections:
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
-  - textcards:
-      title: Preliminary Examinations Schedule
-      subtitle: For graduating classes
-      id: textcards
-      cards:
-        - title: 4E/5N Prelim Schedule
-          description: ""
-          linktext: View here
-          url: https://drive.google.com/file/d/1mxVsLvMfZDwA6L9msOpLMKkIsTYyu0qX/view?usp=drive_link
-        - title: 4NA/NT Prelim Schedule
-          description: ""
-          linktext: View here
-          url: https://drive.google.com/file/d/167b7KhPxa3La-2UqZz_YnI6K7tJ5KWid/view?usp=drive_link
   - textcards:
       title: EOY Examination Schedules
       subtitle: For Secondary 1-3 Students
