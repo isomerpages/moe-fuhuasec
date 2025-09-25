@@ -2,9 +2,9 @@ collections:
   our-family:
     output: true
     order:
-      - Engagement Charter.md
       - School Management Committee.md
       - Executive, Administration and ICT Staff.md
       - Teaching Staff.md
       - CCA Teachers–in–charge.md
       - Student Well–Being Support.md
+      - Engagement Charter.md
