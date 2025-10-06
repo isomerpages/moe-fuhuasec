@@ -22,15 +22,15 @@ sections:
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
   - infobar:
-      title: Direct School Admission (DSA) Exercise
-      id: infobar
-      description: For 2026 Secondary 1 Intake
-      button: LEARN MORE
-      url: https://fuhuasec.moe.edu.sg/dsa-for-2026-secondary-1-cohort/
-  - infobar:
       title: Post-Exam Timetable
       id: infobar
       description: For Sec 1 to 3 students
       button: view here
       url: http://go.gov.sg/fhss2025-t4pea
+  - infobar:
+      title: Direct School Admission (DSA) Exercise
+      id: infobar
+      description: For 2026 Secondary 1 Intake
+      button: LEARN MORE
+      url: https://fuhuasec.moe.edu.sg/dsa-for-2026-secondary-1-cohort/
 ---
