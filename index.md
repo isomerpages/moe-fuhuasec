@@ -21,27 +21,12 @@ sections:
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
-  - textcards:
-      title: EOY Examination Schedules
-      subtitle: For Secondary 1-3 Students
-      id: textcards
-      cards:
-        - title: Sec 1 G1/G2/G3
-          description: ""
-          linktext: View here
-          url: https://drive.google.com/file/d/12BJwwD-S531_CgJCaaLFq7q4MBU5zW78/view?usp=sharing
-        - title: Sec 2 G1/G2/G3
-          description: ""
-          linktext: View here
-          url: https://drive.google.com/file/d/1EA9eHxlU4SRwri0_O9A7fm8zPB56NAZN/view?usp=sharing
-        - title: Sec 3 Express
-          description: ""
-          linktext: View here
-          url: https://drive.google.com/file/d/1sdP_sLppwwqYRUqi4jRyn1gHNMJMmCbU/view?usp=sharing
-        - title: Sec 3 NA/NT
-          description: ""
-          linktext: View here
-          url: https://drive.google.com/file/d/1spJpiL8yAZKD5RNZo-EQtOwE0h5IJyFz/view?usp=sharing
+  - infobar:
+      title: Post-Exam Timetable
+      id: infobar
+      description: For Sec 1 to 3 students
+      button: view here
+      url: http://go.gov.sg/fhss2025-t4pea
   - infobar:
       title: Direct School Admission (DSA) Exercise
       id: infobar
