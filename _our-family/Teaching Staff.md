@@ -27,8 +27,8 @@ variant: tiptap
 <p>1R1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Khairi</p>
-<p>Ms Tam Zhi Ying</p>
+<p>Mr Muhammad Khairi
+<br>Ms Tam Zhi Ying</p>
 </td>
 </tr>
 <tr>
@@ -37,7 +37,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Adrian Sim</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -79,8 +78,8 @@ variant: tiptap
 <p>1R7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Khong Keong</p>
-<p>Miss Christine Choo</p>
+<p>Mr Ng Khong Keong
+<br>Miss Christine Choo</p>
 </td>
 </tr>
 <tr>
@@ -161,8 +160,8 @@ variant: tiptap
 <p>2I6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Liau</p>
-<p>Mr Lim Enjian</p>
+<p>Ms Rachel Liau
+<br>Mr Lim Enjian</p>
 </td>
 </tr>
 <tr>
@@ -207,8 +206,8 @@ variant: tiptap
 <p>3S1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Raymond Loh</p>
-<p>Mr Wong Chunheng Malcolm</p>
+<p>Mr Raymond Loh
+<br>Mr Wong Chunheng Malcolm</p>
 </td>
 </tr>
 <tr>
@@ -312,8 +311,8 @@ variant: tiptap
 <p>4E2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hia Soo Ching</p>
-<p>Mdm Chua Mei Qi</p>
+<p>Mdm Hia Soo Ching
+<br>Mdm Chua Mei Qi</p>
 </td>
 </tr>
 <tr>
@@ -346,8 +345,8 @@ variant: tiptap
 <p>4E6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Angeline Chua</p>
-<p>Mr Kristof Han</p>
+<p>Miss Angeline Chua
+<br>Mr Kristof Han</p>
 </td>
 </tr>
 <tr>
@@ -473,8 +472,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lok Wai See
-<br>Ms Zhang Li</p>
-<p>Mr Morgan Law</p>
+<br>Ms Zhang Li
+<br>Mr Morgan Law</p>
 </td>
 </tr>
 <tr>
@@ -513,8 +512,8 @@ variant: tiptap
 <p>Principles of Accounts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jerry Yeo Kim Yeow</p>
-<p>Ms Ng Yan Ling</p>
+<p>Mr Jerry Yeo Kim Yeow
+<br>Ms Ng Yan Ling</p>
 </td>
 </tr>
 <tr>
