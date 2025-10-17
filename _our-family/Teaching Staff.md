@@ -37,7 +37,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Adrian Sim</p>
-<p>Ms Mabel Loon</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -62,8 +62,7 @@ variant: tiptap
 <p>1R5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Kee Lee
-<br>Mdm Yeo Gek Hong</p>
+<p>Mr Goh Kee Lee</p>
 </td>
 </tr>
 <tr>
@@ -457,7 +456,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ang Aai Lynn</p>
-<p>Ms Mabel Loon</p>
 </td>
 </tr>
 <tr>
