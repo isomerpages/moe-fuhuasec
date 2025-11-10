@@ -24,6 +24,6 @@ In planning and implementing our CCA programmes, it is ensured that there is:&nb
 3\.  Balance between individual pursuit of excellence and collaboration that allow for participation by all students  
 4\.  Social bonding and integration which present opportunities for friendships and teamwork  
 
-The specific knowledge, skills and values developed depends on the choice of CCA. There are four broad clusters of CCAs: [Clubs and Societies](https://staging.d2jrpotv8emy04.amplifyapp.com/co-curricular-activities/Clubs-and-Societies/overview/), [Physical Sports](https://staging.d2jrpotv8emy04.amplifyapp.com/co-curricular-activities/Physical-Sports/overview/), [Uniformed Groups](https://staging.d2jrpotv8emy04.amplifyapp.com/co-curricular-activities/Uniformed-Groups/overview/), and [Visual and Performing Arts](https://staging.d2jrpotv8emy04.amplifyapp.com/co-curricular-activities/Visual-and-Performing-Arts/overview/).
+The specific knowledge, skills and values developed depends on the choice of CCA. There are four broad clusters of CCAs: [Clubs and Societies](/co-curricular-activities/clubs-and-societies/overview/), [Physical Sports](/co-curricular-activities/physical-sports/overview/), [Uniformed Groups](/co-curricular-activities/uniformed-groups/overview/) and [Visual and Performing Arts](/co-curricular-activities/visual-and-performing-arts/overview/)
 
 Clink on the links above for more information on the CCA offerings.
