@@ -13,5 +13,5 @@ The Student Development Curriculum, which enables students to acquire sound valu
 1\.  [Student Well-being](/our-curriculum/student-development-curriculum/student-well-being/)<br>
 2\.  [Physical Education](/our-curriculum/student-development-curriculum/pe/)<br>
 3\.  [Character and Citizenship Education](/our-curriculum/student-development-curriculum/cce/)<br>
-4\.  [Information and Communication Technology](https://staging.d2jrpotv8emy04.amplifyapp.com/our-curriculum/Student-Development-Curriculum/ICT/)<br>
-5\.  [Co-curricular Activities Programme](https://staging.d2jrpotv8emy04.amplifyapp.com/our-curriculum/Student-Development-Curriculum/CCA/)
+4\.  [Information and Communication Technology](/our-curriculum/student-development-curriculum/ict/)<br>
+5\.  [Co-curricular Activities Programme](/our-curriculum/student-development-curriculum/cca/)
