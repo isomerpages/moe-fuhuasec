@@ -10,7 +10,7 @@ variant: markdown
 The Student Development Curriculum, which enables students to acquire sound values and skills to take them through life as responsible adults and active citizens, consists of the following areas:  
   
 
-1\.  [Student Well-being](our-curriculum/Student-Development-Curriculum/student-well-being/) <br>
+1\.  [Student Well-being](/our-curriculum/student-development-curriculum/student-well-being/)<br>
 2\.  [Physical Education](https://staging.d2jrpotv8emy04.amplifyapp.com/our-curriculum/Student-Development-Curriculum/PE/)<br>
 3\.  [Character and Citizenship Education](https://staging.d2jrpotv8emy04.amplifyapp.com/our-curriculum/Student-Development-Curriculum/CCE/)<br>
 4\.  [Information and Communication Technology](https://staging.d2jrpotv8emy04.amplifyapp.com/our-curriculum/Student-Development-Curriculum/ICT/)<br>
