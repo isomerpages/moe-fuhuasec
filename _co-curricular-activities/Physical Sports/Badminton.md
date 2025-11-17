@@ -3,32 +3,90 @@ title: Badminton
 permalink: /co-curricular-activities/physical-sports/badminton/
 description: ""
 third_nav_title: Physical Sports
-variant: markdown
+variant: tiptap
 ---
-### Badminton
-##### About Us
-
-**Vision**<br>Outstanding Player, Upstanding Character
-
-**Mission**<br>To develop the essence of sportsmanship in all our players
-
-##### OUR Key Programmes
-
-*   National Schools Games Badminton Championships
-*   Secondary One Welcome Tea
-*   Annual 2-day Camp
-*   Learning Journeys
-*   Friendly matches
-*   Intra-school Badminton Tournament
-
-##### OUR Achievements
-
-| Year | Event | Achievement |
-|:---:|:---:|:---:|
-| 2021 | National School Games Badminton Championship (West Zone) | B Division Boys - 2nd |
-| 2022 | National School Games Badminton Championship (West Zone) | B Division Boys - 2nd |
-| 2022 | National School Games Badminton Championship (West Zone) | C Division Boys - 2nd |
-| 2023 | National School Games Badminton Championship (West Zone) | B Division Boys - 1st |
-| 2023 | National School Games Badminton Championship (National) | B Division Boys - Top 8 |
-| 2023 | National School Games Badminton Championship (West Zone) | B Division Girls - 4th |
-| 2023 | National School Games Badminton Championship (West Zone) | C Division Boys - 2nd |
+<h3>Badminton</h3>
+<h5>About Us</h5>
+<p><strong>Vision</strong>
+<br>Outstanding Player, Upstanding Character</p>
+<p><strong>Mission</strong>
+<br>To develop the essence of sportsmanship in all our players</p>
+<h5>OUR Key Programmes</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Schools Games Badminton Championships</p>
+</li>
+<li>
+<p>Secondary One Welcome Tea</p>
+</li>
+<li>
+<p>Annual 2-day Camp</p>
+</li>
+<li>
+<p>Learning Journeys</p>
+</li>
+<li>
+<p>Friendly matches</p>
+</li>
+<li>
+<p>Intra-school Badminton Tournament</p>
+</li>
+</ul>
+<h5>OUR Achievements</h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Badminton Championship (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division Boys (1st Place)</p>
+<p>B Division Girls (4th Place)</p>
+<p>C Division Boys (2nd Place)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Badminton Championship (National)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division Boys (Top 8)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Badminton Championship (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division Boys (4th Place)</p>
+<p>B Division Girls (4th Place)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
