@@ -1,8 +1,9 @@
 ---
 title: Overview
-permalink: /co-curricular-activities/Visual-and-Performing-Arts/overview/
+permalink: /co-curricular-activities/visual-and-performing-arts/overview/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: tiptap
 ---
 ### Visual and Performing Arts
 

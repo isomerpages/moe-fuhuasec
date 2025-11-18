@@ -1,8 +1,9 @@
 ---
 title: Overview
-permalink: /co-curricular-activities/Clubs-and-Societies/overview/
+permalink: /co-curricular-activities/clubs-and-societies/overview/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ### Clubs and Societies
 

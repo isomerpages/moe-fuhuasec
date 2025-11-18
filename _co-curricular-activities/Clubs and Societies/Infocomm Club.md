@@ -1,6 +1,6 @@
 ---
 title: Infocomm Club
-permalink: /co-curricular-activities/Clubs-and-Societies/infocomm-club/
+permalink: /co-curricular-activities/clubs-and-societies/infocomm-club/
 description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
