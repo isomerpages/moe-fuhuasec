@@ -41,10 +41,7 @@ Open House&nbsp;</p>
 <p>Weekly training practices with the guidance of our coaches</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/tt1.png">
-</div>
-<p>E-CCA Sessions in 2021</p>
+<p></p>
 <h5>OUR Achievements</h5>
 <table style="minWidth: 75px">
 <colgroup>
