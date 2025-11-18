@@ -5,76 +5,198 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-### Sea Scouts
-##### About Us
-
-**Vision**&nbsp;<br>To provide our scouts with an enriching and meaningful scouting experience that develops confident and competent leaders of tomorrow.
-
-**Mission**<br>To nurture our scouts to be useful contributors to society through a values system based on the Scout Promise and Law.
-
-##### OUR Key Programmes
-
-**Outdoor Activities**  
-
-*   Kayaking
-*   Dragonboating
-*   Camping/Camp Development
-*   Campfires
-*   Exploration/Orienteering
-*   Campcraft
-*   Pioneering
-*   Outdoor Adventure
-*   Hiking/Trekking
-*   Maritime Port Authority Learning Journey
-
-  
-**Leadership Programmes**  
-
-*   HQ Scout Leadership Course
-*   Assistant Patrol Leader Training
-*   Venture-in-Training Course
-
-  
-
-**Courses**
-
-*   Basic First Aid
-*   1-star Kayaking
-*   Basic Windsurfing
-*   Total Defence
-*   Civil Defence
-*   SANA
-
-  
-
-**Exchange Programmes**
-
-*   Jamboree (Overseas)
-*   JOTA-JOTI
-*   Interschool Campfires
-*   Interschool Scouting Activities (Cubs &amp; Scouts)
-
-**Competitions**
-
-*   National Patrol Camp
-*   West Area Games Day
-*   Sea Scout Kayak Rally
-
-  
-
-**Values in Action Programmes**
-
-*   Istana Open House Guest Ambassador
-*   Job Week
-*   Donation Draw
-*   Scouting It Forward
-*   Food Bank
-
-##### OUR Achievements
-
-| Year | Event | Achievement |
-|:---:|:---:|:---:|
-| 2019 | Frank Cooper Sands Award  | Gold |
-| 2018 | Frank Cooper Sands Award  | Gold |
-| 2018 |  National Patrol Camp |  Silver |
-| 2017 | Frank Cooper Sands Award  | Gold |
+<h3>Sea Scouts</h3>
+<h5>About Us</h5>
+<p><strong>Vision</strong>&nbsp;
+<br>To provide our scouts with an enriching and meaningful scouting experience
+that develops confident and competent leaders of tomorrow.</p>
+<p><strong>Mission</strong>
+<br>To nurture our scouts to be useful contributors to society through a values
+system based on the Scout Promise and Law.</p>
+<h5>OUR Key Programmes</h5>
+<p><strong>Outdoor Activities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kayaking</p>
+</li>
+<li>
+<p>Dragonboating</p>
+</li>
+<li>
+<p>Camping/Camp Development</p>
+</li>
+<li>
+<p>Campfires</p>
+</li>
+<li>
+<p>Exploration/Orienteering</p>
+</li>
+<li>
+<p>Campcraft</p>
+</li>
+<li>
+<p>Pioneering</p>
+</li>
+<li>
+<p>Outdoor Adventure</p>
+</li>
+<li>
+<p>Hiking/Trekking</p>
+</li>
+<li>
+<p>Maritime Port Authority Learning Journey</p>
+</li>
+</ul>
+<p><strong>Leadership Programmes</strong>
+</p>
+<ul>
+<li>
+<p>Scout Leadership Courses</p>
+</li>
+<li>
+<p>Venturing scheme</p>
+</li>
+<li>
+<p>Rovering scheme</p>
+</li>
+</ul>
+<p><strong>Badge Schemes</strong>
+</p>
+<ul>
+<li>
+<p>Progress badges</p>
+</li>
+<li>
+<p>Proficiency badges</p>
+</li>
+<li>
+<p>Anchor badges</p>
+</li>
+<li>
+<p>Young Mariner badges</p>
+</li>
+<li>
+<p>Activity badges</p>
+</li>
+<li>
+<p>National campaign badges</p>
+</li>
+<li>
+<p>Youth service badges</p>
+</li>
+</ul>
+<p><strong>Exchange Programmes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Jamboree (International)</p>
+</li>
+<li>
+<p>JOTA-JOTI</p>
+</li>
+<li>
+<p>Interschool Campfires</p>
+</li>
+<li>
+<p>Interschool Scouting Activities (Cubs &amp; Scouts)</p>
+</li>
+</ul>
+<p><strong>Competitions</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Patrol Camp</p>
+</li>
+<li>
+<p>West Area Games Day</p>
+</li>
+<li>
+<p>Sea Scout Kayak Rally</p>
+</li>
+</ul>
+<p><strong>Values in Action Programmes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Istana Open House Guest Ambassador</p>
+</li>
+<li>
+<p>Job Week</p>
+</li>
+<li>
+<p>Donation Draw</p>
+</li>
+<li>
+<p>Scouting It Forward</p>
+</li>
+<li>
+<p>Food Bank</p>
+</li>
+</ul>
+<h5>OUR Achievements</h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awarded</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awarded</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Scout Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Scout Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
