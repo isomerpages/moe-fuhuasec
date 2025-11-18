@@ -125,6 +125,19 @@ variant: tiptap
 <p>B Division Girls (4th Place)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Badminton Championship (National) C Division League
+2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Division Girls League 2 (4th Place)</p>
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
