@@ -81,6 +81,28 @@ the art of dance/wushu, regardless of ability &amp; background</p>
 <p>Invited to perform</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation - Chinese Dance &amp; Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NDP SG60 Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
