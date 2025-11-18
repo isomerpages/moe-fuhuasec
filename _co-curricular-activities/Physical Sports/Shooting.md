@@ -62,7 +62,7 @@ variant: tiptap
 <p>NTU Invitational Shoot - Air Rifle (Women)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bronze Award (Team Event)</p>
+<p>Bronze Award (Team)</p>
 <p></p>
 </td>
 </tr>
@@ -71,10 +71,21 @@ variant: tiptap
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>'B' Division National School Games Shooting Championships</p>
+<p>National School Games Shooting Championships B Division - Air Rifle (Men)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Top 25 (Individual)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Shooting Championships B Division - Air Rifle (Women)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 25 (Individual)</p>
 </td>
 </tr>
 </tbody>
