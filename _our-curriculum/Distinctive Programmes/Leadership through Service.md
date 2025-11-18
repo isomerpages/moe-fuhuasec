@@ -44,7 +44,7 @@ Sustainability (PAS)</p>
 <p>Build up personal strengths and interests</p>
 </li>
 </ul>
-<p><strong>Tier 2  Exemplary - For Student Leaders, Interested / Selected Students and Passionate Students</strong>
+<p><strong>Tier 2 Exemplary - For Student Leaders, Interested / Selected Students and Passionate Students</strong>
 </p>
 <ul>
 <li>
