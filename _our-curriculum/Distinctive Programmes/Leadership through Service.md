@@ -59,8 +59,5 @@ of the 3 domains: People, Arts, Sustainability (PAS)&nbsp;</p>
 <p>Strengthen leadership skillsets through seeking out mentors and mentoring
 others</p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
 <p></p>
