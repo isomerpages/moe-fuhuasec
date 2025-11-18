@@ -85,7 +85,7 @@ the environment through conservation and recycling efforts</p>
 <p>School Green Awards</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vanda Miss Joaquim</p>
+<p>Vanda Miss Joaquim Sustained Achievement Award</p>
 </td>
 </tr>
 </tbody>
