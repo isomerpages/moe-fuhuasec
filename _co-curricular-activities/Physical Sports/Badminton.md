@@ -87,6 +87,44 @@ variant: tiptap
 <p>B Division Girls (4th Place)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Badminton Championship (National) C Division League
+1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Division Boys League 1 (Top 8)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Badminton Championship (National) C Division League
+2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Division Girls League 2 (3rd Place)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Badminton Championship (West Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division Boys (3rd Place)</p>
+<p>B Division Girls (4th Place)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
