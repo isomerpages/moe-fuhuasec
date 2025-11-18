@@ -66,8 +66,7 @@ Open House&nbsp;</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games Table Tennis&nbsp;Championship</p>
-<p>(West Zone)</p>
+<p>National School Games Table Tennis&nbsp;Championship (West Zone)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>B Division Boys (4th Place)</p>
@@ -80,8 +79,7 @@ Open House&nbsp;</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games Table Tennis&nbsp;Championship</p>
-<p>(West Zone)</p>
+<p>National School Games Table Tennis&nbsp;Championship (West Zone)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>B Division Boys (4th Place)</p>
@@ -93,7 +91,7 @@ Open House&nbsp;</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games Table Tennis&nbsp; Championships (National) C Division
+<p>National School Games Table Tennis&nbsp;Championships (National) C Division
 League</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,8 +104,7 @@ League</p>
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games Table Tennis Championship</p>
-<p>(West Zone)</p>
+<p>National School Games Table Tennis Championship (West Zone)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>B Division Boys (3rd Place)</p>
