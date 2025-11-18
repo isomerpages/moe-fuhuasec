@@ -3,39 +3,64 @@ title: Leadership through Service
 permalink: /our-curriculum/Distinctive-Programmes/leadership-through-service/
 description: ""
 third_nav_title: Distinctive Programmes
-variant: markdown
+variant: tiptap
 ---
-### Learning for Life Programme (LLP)
-
-#### Community Youth Leadership
-
-**Vision**
-<br> Servant Leaders in the Community
-
-**Mission**
-<br> To nurture Fuhuanites in their journey towards personal self-discovery;&nbsp; to develop in them empathy for others&nbsp; and the commitment to lead self and others with purpose.
-
-**Goals**<br>
-(1) Active Citizenship<br>
-Students who know the community well and are interested in addressing issues in the community. Students initiating new programmes that meet community needs and establish long-standing relationships with community partners.
-
-(2) Servant Leadership  
-Compassionate and responsible students who take pride in being part of and contributing to their school and the larger community well beyond their schooling years.
-
-(3) Inspiring Others  
-Students are role models and mentors within their school and the larger community. They commit themselves to influencing others to make meaningful contributions to society.
-
-##### **CYL Framework**
-
-**Tier 1 - All Fuhuanites**  
-* All Fuhuanites are exposed to service learning opportunities within the school and in the community.
-* The Design Thinking approach encourages our Fuhuanites to serve with compassion as they look into the needs of different organisations.
-
-**Tier 2 - Selected Fuhuanites**
-* Selected Fuhuanites such as Student Councillors or CCA leaders have the opportunities to lead their own Values in Action projects.
-* Overseas service learning programmes for students who are interested. These programmes develop our students to be global citizens with empathy.
-
-**Tier 3 - CYL Champions**
-* CYL Champions are role models and inspire others with their contributions to the society.
-* CYL Champions mentor and guide their peers within their school and the larger community.
-
+<h3>Learning for Life Programme (LLP)</h3>
+<h4>Community Youth Leadership</h4>
+<p><strong>Belief</strong>
+<br>Every Fuhuanite can and wants to serve the community</p>
+<p><strong>Vision</strong>
+<br>Youth Leaders <em>for </em>the Community</p>
+<p><strong>Mission</strong>
+<br>To nurture compassionate and community-minded Fuhuanites who steward their
+talents to lead with purpose to improve lives</p>
+<p><strong>Goals</strong>
+<br>
+<br><strong>(1) Active Citizenship</strong>
+<br>Students who know the community well and are interested in addressing
+issues in the community. Students initiating new programmes that meet community
+needs and establish long-standing relationships with community partners.</p>
+<p><strong>(2) Empathetic Stewardship&nbsp;</strong>
+<br>Compassionate and responsible students who take pride in being part of
+and contributing to their school and the larger community well beyond their
+schooling years.</p>
+<p><strong>(3) Inspiring Leadership</strong>
+<br>Students are role models and mentors within their school and the larger
+community. They commit themselves to influencing others to make meaningful
+contributions to society.</p>
+<h5><strong>CYL Framework</strong></h5>
+<p><strong>Tier 1 Experience - For all Fuhuanites</strong>
+</p>
+<ul>
+<li>
+<p>Develop leadership skillsets through service learning (i.e. planning class-/CCA-based
+VIA)</p>
+</li>
+<li>
+<p>Understand social issues in the community in 3 domains: People, Arts,
+Sustainability (PAS)</p>
+</li>
+<li>
+<p>Build up personal strengths and interests</p>
+</li>
+</ul>
+<p><strong>Tier 2  Exemplary - For Student Leaders, Interested / Selected Students and Passionate Students</strong>
+</p>
+<ul>
+<li>
+<p>Practise and apply knowledge and skills in curated projects that meet
+community needs</p>
+</li>
+<li>
+<p>Seek out opportunities to initiate and lead in passion projects in any
+of the 3 domains: People, Arts, Sustainability (PAS)&nbsp;</p>
+</li>
+<li>
+<p>Strengthen leadership skillsets through seeking out mentors and mentoring
+others</p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+<p></p>
