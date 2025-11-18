@@ -59,6 +59,17 @@ variant: tiptap
 <p>Certificate of Accomplishment</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation (Full Orchestra)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
