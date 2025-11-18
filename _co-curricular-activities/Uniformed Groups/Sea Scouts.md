@@ -100,38 +100,7 @@ system based on the Scout Promise and Law.</p>
 </li>
 <li>
 <p>Interschool Scouting Activities (Cubs &amp; Scouts)</p>
-</li>
-</ul>
-<p><strong>Competitions</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>National Patrol Camp</p>
-</li>
-<li>
-<p>West Area Games Day</p>
-</li>
-<li>
-<p>Sea Scout Kayak Rally</p>
-</li>
-</ul>
-<p><strong>Values in Action Programmes</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Istana Open House Guest Ambassador</p>
-</li>
-<li>
-<p>Job Week</p>
-</li>
-<li>
-<p>Donation Draw</p>
-</li>
-<li>
-<p>Scouting It Forward</p>
-</li>
-<li>
-<p>Food Bank</p>
+<p></p>
 </li>
 </ul>
 <h5>OUR Achievements</h5>
