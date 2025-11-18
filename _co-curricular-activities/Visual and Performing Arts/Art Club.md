@@ -3,27 +3,61 @@ title: Art Club
 permalink: /co-curricular-activities/visual-and-performing-arts/art-club/
 description: ""
 third_nav_title: Visual and Performing Arts
-variant: markdown
+variant: tiptap
 ---
-### Art Club
-##### About Us
-
-**Vision**&nbsp;<br>Love Art, Love Life
-
-**Mission**<br>&nbsp;To provide a nurturing and enriching environment to develop students’ ability to appreciate and make art, thus developing confident and compassionate leaders of tomorrow who share a love for art and life.
-
-##### OUR Key Programmes
-
-*   Digital Art Illustrations
-*   Western Art    
-*   Values In Action Projects    
-*   Art Camp
-
-##### OUR Achievements
-
-| Year | Event | Achievement |
-|:---:|:---:|:---:|
-| 2022 | Singapore Youth Festival Art Exhibition | Certificate of Recognition |
-| 2022 | Yellowren Arts Festival  | Honourable Mention |
-| 2022 | Public Hygience Council Comic Strip Competition | 3rd Prize |
-| 2023 | Live On Arts Festival | Merit Award &amp; Distinction Award |
+<h3>Art Club</h3>
+<h5>About Us</h5>
+<p><strong>Vision</strong>&nbsp;
+<br>Love Art, Love Life</p>
+<p><strong>Mission</strong>
+<br>&nbsp;To provide a nurturing and enriching environment to develop students’
+ability to appreciate and make art, thus developing confident and compassionate
+leaders of tomorrow who share a love for art and life.</p>
+<h5>OUR Key Programmes</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Digital Art Illustrations</p>
+</li>
+<li>
+<p>Western Art</p>
+</li>
+<li>
+<p>Values In Action Projects</p>
+</li>
+<li>
+<p>Art Camp</p>
+</li>
+</ul>
+<h5>OUR Achievements</h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Event</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Live On Arts Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award &amp; Distinction Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
