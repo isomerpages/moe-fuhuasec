@@ -62,6 +62,17 @@ embody the values of discipline, commitment, integrity and empathy.</p>
 <p>Certificate of Accomplishment</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation - Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
