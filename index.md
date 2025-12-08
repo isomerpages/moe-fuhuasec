@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WhatsApp_Image_2025_11_07_at_4_45_05_PM.jpg
+      background: /images/217.jpg
       key_highlights:
         - title: 2025 Class Timetable
           description: ""
