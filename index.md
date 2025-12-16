@@ -38,7 +38,8 @@ sections:
   - infobar:
       title: 2026 Sec 1 Transfer Application
       id: infobar
-      description: Please note that application period is from 19-24 Dec 2025.
+      description: Please note that the application form will only be available from
+        19-24 Dec 2025.
       button: view here
       url: https://go.gov.sg/2026fhsstransferapplication
 ---
