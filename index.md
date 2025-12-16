@@ -21,4 +21,10 @@ sections:
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
+  - infobar:
+      title: Release of 2025 GCE N' Level Results
+      subtitle: For 2025 Students of 4e5-4e8
+      id: infobar
+      button: VIEW INFO
+      url: https://docs.google.com/document/d/11x7GgmF3W1eoH51HS6DWRHzKNlYrz6Tk-t_nKP221_4/edit?usp=sharing
 ---
