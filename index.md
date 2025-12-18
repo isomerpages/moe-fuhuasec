@@ -22,11 +22,11 @@ sections:
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
   - infobar:
-      title: Release of 2025 GCE N' Level Results
+      title: 2025 GCE N' Level Results Briefing Slides
       subtitle: For 2025 Students of 4e5-4e8
       id: infobar
       button: VIEW INFO
-      url: https://docs.google.com/document/d/11x7GgmF3W1eoH51HS6DWRHzKNlYrz6Tk-t_nKP221_4/edit?usp=sharing
+      url: https://drive.google.com/file/d/1-QoTO04hsS9xRC9Ne0vy3MMuoN9uw2XA/view?usp=sharing
   - infobar:
       title: 2026 Sec 1 e-Registration Exercise
       subtitle: For 2026 Secondary 1 students
