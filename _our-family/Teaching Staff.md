@@ -43,7 +43,7 @@ variant: tiptap
 <p>1R3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rohani Bte Ismail</p>
+<p>Mdm Rohana Bte Ismail</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ variant: tiptap
 <p>1R4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Francisco Heremiah Luke
+<p>Mr Francisco Jeremiah Luke
 <br>Ms Liau Jia Yu Rachel</p>
 </td>
 </tr>
@@ -405,7 +405,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Non-Form Teachers</h4>
+<h4>Non Form Teachers</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
