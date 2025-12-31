@@ -159,7 +159,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>Secondary 3</strong><br>Miss Germain Kang Yin Ga / Year Head (US) </h4>
+<h4><strong>Secondary 3</strong><br>Miss Germain Kang Yin Ga / Year Head (US)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
