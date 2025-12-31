@@ -299,7 +299,7 @@ variant: tiptap
 <p>4E5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gao Conger
+<p>Miss Gao Conger
 <br>Mrs Rhyss Teo
 <br>Ms Faridah Binte Kudin</p>
 </td>
