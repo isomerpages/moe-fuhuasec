@@ -9,15 +9,12 @@ sections:
   - hero:
       background: /images/217.jpg
       key_highlights:
-        - title: 2025 Class Timetable
+        - title: 2026 Class Timetable
           description: ""
-          url: https://drive.google.com/file/d/1Y6iYL3bWvAySQL4uhvJh8AM7ncwesIVx/view?usp=sharing
-        - title: 2025 Student Handbook
+          url: https://docs.google.com/document/d/e/2PACX-1vQrh0SP1Qx7yccPX3bQK0uk1a4moYinQguRPfUVmMx_Ak-tjgB32wTT9MrIUWG1lBjtUaAML-8EUzfK/pub
+        - title: 2026 Student Handbook
           description: ""
-          url: https://www.go.gov.sg/fhss2025studenthandbook
-        - title: 2025 Schemes of Assessment
-          description: ""
-          url: https://docs.google.com/document/d/e/2PACX-1vSNUwKNoQYuwOgtneDZsst9M2OT-rdLwEHoYukxHls-BKCoSl2LUKmy_D3mDiQSdeK0gv2ikZ80GZLS/pub
+          url: https://www.go.gov.sg/fhss2026studenthandbook
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool

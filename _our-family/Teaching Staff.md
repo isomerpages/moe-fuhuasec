@@ -4,10 +4,8 @@ permalink: /our-family/teaching-staff/
 description: ""
 variant: tiptap
 ---
-<h3>Teaching Staff</h3>
-<h5><strong>Secondary 1</strong> <br></h5>
-<p><strong>Mr Woody Woo / Year Head (Lower Sec)</strong>
-</p>
+<h3><strong>Teaching Staff</strong></h3>
+<h4><strong>Secondary 1</strong> <br>Mrs Portia Sim / Assistant Year Head (LS)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -27,8 +25,8 @@ variant: tiptap
 <p>1R1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Khairi
-<br>Ms Tam Zhi Ying</p>
+<p>Ms Nur Sarah Bte Osman
+<br>Ms Yew Ning</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +34,8 @@ variant: tiptap
 <p>1R2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Adrian Sim</p>
+<p>Mr Chew Mingzhi
+<br>Ms Nuha Amani Bte Misbahuddin</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +43,7 @@ variant: tiptap
 <p>1R3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Ying Quan</p>
+<p>Mdm Rohani Bte Ismail</p>
 </td>
 </tr>
 <tr>
@@ -52,8 +51,8 @@ variant: tiptap
 <p>1R4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lai Hung Lan
-<br>Mr Ong Fui Liang</p>
+<p>Mr Francisco Heremiah Luke
+<br>Ms Liau Jia Yu Rachel</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +60,8 @@ variant: tiptap
 <p>1R5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Kee Lee</p>
+<p>Ms Lim Ying Hui
+<br>Ms Zhao Fangming</p>
 </td>
 </tr>
 <tr>
@@ -69,8 +69,8 @@ variant: tiptap
 <p>1R6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rafidah
-<br>Mr Samuel Cho</p>
+<p>Ms Low Lai Mei
+<br>Mr Han Guoding Kristof</p>
 </td>
 </tr>
 <tr>
@@ -78,24 +78,12 @@ variant: tiptap
 <p>1R7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Khong Keong
-<br>Miss Christine Choo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan June Keong Owen</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5><strong>Secondary 2</strong></h5>
-<p><strong>Mrs Portia Sim / Assistant Year Head (Lower Sec)</strong>
-<br>
-</p>
+<h4><strong>Secondary 2</strong><br>Mr Woody Woo / Year Head (LS)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -115,8 +103,7 @@ variant: tiptap
 <p>2I1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nur Sarah Binte Osman
-<br>Ms Lim Shuying Jeanne</p>
+<p>Mr Muhammad Khairi</p>
 </td>
 </tr>
 <tr>
@@ -124,8 +111,7 @@ variant: tiptap
 <p>2I2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Kelly Sng
-<br>Mdm Zhang Sijia</p>
+<p>Mr Adrian Sim</p>
 </td>
 </tr>
 <tr>
@@ -133,8 +119,7 @@ variant: tiptap
 <p>2I3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khoo Yong Kang
-<br>Miss Chang Hui Qi</p>
+<p>Mr Tan Ying Quan</p>
 </td>
 </tr>
 <tr>
@@ -142,8 +127,8 @@ variant: tiptap
 <p>2I4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Hafizah Bte Ismail
-<br>Miss Zhao Fangming</p>
+<p>Mdm Lai Hung Lan
+<br>Mr Ong Fui Liang</p>
 </td>
 </tr>
 <tr>
@@ -151,8 +136,8 @@ variant: tiptap
 <p>2I5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Ying Hui
-<br>Ms Rhyss Teo</p>
+<p>Mr Goh Kee Lee
+<br>Ms Lim Shuying Jeanne</p>
 </td>
 </tr>
 <tr>
@@ -160,8 +145,8 @@ variant: tiptap
 <p>2I6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Liau
-<br>Mr Lim Enjian</p>
+<p>Mr Samuel Cho
+<br>Mdm Rafidah</p>
 </td>
 </tr>
 <tr>
@@ -169,24 +154,12 @@ variant: tiptap
 <p>2I7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yew Ning
-<br>Miss Nuha Amani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ng Khong Keong</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5><strong>Secondary 3</strong> <br></h5>
-<p><strong>Miss Siti Rohani / Assistant Year Head (Upper Sec)</strong>
-<br>
-</p>
+<h4><strong>Secondary 3</strong><br>Miss Germain Kang Yin Ga / Year Head (US)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -206,8 +179,8 @@ variant: tiptap
 <p>3S1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Raymond Loh
-<br>Mr Wong Chunheng Malcolm</p>
+<p>Ms Kelly Sng
+<br>Mdm Zhang Sijia</p>
 </td>
 </tr>
 <tr>
@@ -215,8 +188,8 @@ variant: tiptap
 <p>3S2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Veronica Tei Ying Ying
-<br>Mdm Wu Taojun</p>
+<p>Mdm Hia Soo Ching
+<br>Mdm Yu Chunyun</p>
 </td>
 </tr>
 <tr>
@@ -224,7 +197,8 @@ variant: tiptap
 <p>3S3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Wen Hui</p>
+<p>Mr Lim Jeremiah E. M. Francisco
+<br>Ms Liu Jinyan</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +206,8 @@ variant: tiptap
 <p>3S4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Poh Loong</p>
+<p>Mr Khoo Yong Kang
+<br>Ms Ng Ling Ling Adeline</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +215,7 @@ variant: tiptap
 <p>3S5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Teo Chek Gin</p>
+<p>Ms Chua Wan Ching Angeline</p>
 </td>
 </tr>
 <tr>
@@ -248,8 +223,8 @@ variant: tiptap
 <p>3S6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suvitha Prakass Pillay
-<br>Mrs Rebekah Lin</p>
+<p>Ms Loh Su Min
+<br>Ms Siti Nurasyikin Bte Abdullah</p>
 </td>
 </tr>
 <tr>
@@ -257,7 +232,7 @@ variant: tiptap
 <p>3S7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Gek Guang</p>
+<p>Ms Tan Tuan Ling</p>
 </td>
 </tr>
 <tr>
@@ -265,24 +240,13 @@ variant: tiptap
 <p>3S8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yong Qiao Elton
-<br>Ms Ik Lee Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Chia Chun Teck James
+<br>Ms Nur Hafizah Bte Ismail</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5><strong>Secondary 4 and 5</strong> <br></h5>
-<p><strong>Miss Germain Kang Yin Ga / Year Head (Upper Sec)</strong>
-<br>
-</p>
+<h4><strong>Secondary 4 and 5</strong> <br>Miss Siti Rohani / Assistant Year Head (US)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -302,8 +266,7 @@ variant: tiptap
 <p>4E1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Owen Tan June Keong
-<br>Mdm Cao Jiawei</p>
+<p>Mr Raymond Loh</p>
 </td>
 </tr>
 <tr>
@@ -311,8 +274,8 @@ variant: tiptap
 <p>4E2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hia Soo Ching
-<br>Mdm Chua Mei Qi</p>
+<p>Ms Veronica Tei Ying Ying
+<br>Mdm Wu Taojun</p>
 </td>
 </tr>
 <tr>
@@ -320,7 +283,8 @@ variant: tiptap
 <p>4E3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Siti Nurasyikin</p>
+<p>Ms Tay Wen Hui
+<br>Mr Ian Tai Zhi Jian</p>
 </td>
 </tr>
 <tr>
@@ -328,7 +292,7 @@ variant: tiptap
 <p>4E4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Tuan Ling</p>
+<p>Mr Chan Poh Loong</p>
 </td>
 </tr>
 <tr>
@@ -336,8 +300,9 @@ variant: tiptap
 <p>4E5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Loh Su Min
-<br>Ms Siti Sunarti B Suphay</p>
+<p>Miss Gao Conger
+<br>Mrs Rhyss Teo
+<br>Ms Faridah Binte Kudin</p>
 </td>
 </tr>
 <tr>
@@ -345,8 +310,7 @@ variant: tiptap
 <p>4E6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Angeline Chua
-<br>Mr Kristof Han</p>
+<p>Ms Suvitha Prakass Pillay</p>
 </td>
 </tr>
 <tr>
@@ -354,7 +318,7 @@ variant: tiptap
 <p>4E7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr James Chia</p>
+<p>Mr Tan Gek Guang</p>
 </td>
 </tr>
 <tr>
@@ -362,8 +326,8 @@ variant: tiptap
 <p>4E8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rohana Bte Ismail
-<br>Mr Chew Mingzhi</p>
+<p>Ms Ik Lee Lee
+<br>Mr Tan Yong Qiao Elton</p>
 </td>
 </tr>
 <tr>
@@ -371,12 +335,12 @@ variant: tiptap
 <p>5E1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeremiah Lim</p>
+<p>Ms Siti Sunarti Binte Suphay</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5>Teacher Leaders</h5>
+<h4>Teacher Leaders</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -390,6 +354,14 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Name</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher (Art)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Low Lai Mei</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -433,8 +405,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>Non-Form Teachers</strong>
-</p>
+<h4>Non-Form Teachers</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -481,9 +452,9 @@ variant: tiptap
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Ang Li Ling Edna</p>
 <p>Miss Elaine Lim
 <br>Ms Lee Lay Hwa
-<br>Mr Ian Tai Zhi Jian
 <br>Mr Matthew Quek
 <br>Mr Fong Meng Tuck</p>
 </td>
@@ -503,7 +474,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tay Ai Chin
-<br>Miss Gao Conger
 <br>Miss Huang Xiaojun</p>
 </td>
 </tr>
