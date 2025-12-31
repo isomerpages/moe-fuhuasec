@@ -70,7 +70,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Low Lai Mei
-<br>Ms Yu Chunyun</p>
+<br>Mr Han Guoding Kristof</p>
 </td>
 </tr>
 <tr>
@@ -188,7 +188,8 @@ variant: tiptap
 <p>3S2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hia Soo Ching</p>
+<p>Mdm Hia Soo Ching
+<br>Ms Yu Chunyun</p>
 </td>
 </tr>
 <tr>
