@@ -20,7 +20,7 @@ sections:
           url: https://www.instagram.com/fuhuasecondaryschool
         - title: 2026 Timetable
           description: Key Highlight description
-          url: ""
+          url: https://docs.google.com/document/d/e/2PACX-1vQrh0SP1Qx7yccPX3bQK0uk1a4moYinQguRPfUVmMx_Ak-tjgB32wTT9MrIUWG1lBjtUaAML-8EUzfK/pub
   - infobar:
       title: 2025 GCE N' Level Results Briefing Slides
       subtitle: For 2025 Students of 4e5-4e8
