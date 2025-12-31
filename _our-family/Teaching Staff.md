@@ -433,7 +433,8 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Siying Jasmine
+<p>Mr Balasupramaniam S/O A T Krishna
+<br>Ms Chen Siying Jasmine
 <br>Mr Azhari Bin Jasman</p>
 </td>
 </tr>
@@ -442,8 +443,8 @@ variant: tiptap
 <p>Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lok Wai See
-<br>Ms Zhang Li
+<p>Mdm Cao Jiawei
+<br>Ms Lok Wai See
 <br>Mr Morgan Law</p>
 </td>
 </tr>
@@ -464,8 +465,7 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rebekah Lin
-<br>Ms Jasmine Lim</p>
+<p>Ms Jasmine Lim</p>
 </td>
 </tr>
 <tr>
@@ -482,8 +482,7 @@ variant: tiptap
 <p>Principles of Accounts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jerry Yeo Kim Yeow
-<br>Ms Ng Yan Ling</p>
+<p>Ms Ng Yan Ling</p>
 </td>
 </tr>
 <tr>
