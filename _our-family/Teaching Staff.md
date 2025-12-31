@@ -300,7 +300,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Gao Conger
-<br>Mdm Rhyss Houssineau
+<br>Mrs Rhyss Teo
 <br>Ms Faridah Binte Kudin</p>
 </td>
 </tr>
