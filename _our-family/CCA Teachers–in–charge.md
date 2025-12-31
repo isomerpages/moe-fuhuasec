@@ -85,7 +85,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Chan Poh Loong (IC)
 <br>Ms Tay Wen Hui (2IC)
-<br>Miss Nuha Amani</p>
+<br>Ms Nuha Amani</p>
 </td>
 </tr>
 <tr>
