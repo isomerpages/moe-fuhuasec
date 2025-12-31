@@ -43,7 +43,7 @@ variant: tiptap
 <p>1R3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rohani Bte Ismail</p>
+<p>Mdm Rohana Bte Ismail</p>
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ variant: tiptap
 <p>1R4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Francisco Heremiah Luke
+<p>Mr Francisco Jeremiah Luke
 <br>Ms Liau Jia Yu Rachel</p>
 </td>
 </tr>
@@ -300,7 +300,7 @@ variant: tiptap
 <p>4E5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Gao Conger
+<p>Ms Gao Conger
 <br>Mrs Rhyss Teo
 <br>Ms Faridah Binte Kudin</p>
 </td>
@@ -376,7 +376,7 @@ variant: tiptap
 <p>Senior Teacher (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Rachel Liau</p>
+<p>Ms Rachel Liau</p>
 </td>
 </tr>
 <tr>
@@ -405,7 +405,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Non-Form Teachers</h4>
+<h4>Non Form Teachers</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -452,8 +452,8 @@ variant: tiptap
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Li Ling Edna</p>
-<p>Miss Elaine Lim
+<p>Ms Ang Li Ling Edna</p>
+<p>Ms Elaine Lim
 <br>Ms Lee Lay Hwa
 <br>Mr Matthew Quek
 <br>Mr Fong Meng Tuck</p>
@@ -474,7 +474,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tay Ai Chin
-<br>Miss Huang Xiaojun</p>
+<br>Ms Huang Xiaojun</p>
 </td>
 </tr>
 <tr>
