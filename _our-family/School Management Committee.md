@@ -24,10 +24,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Low Lai Mei</p>
+<p>Mr Chua Chee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Aesthetics, Craft and Technology</p>
+<p>HOD Aesthetics, Craft &amp; Technology</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ variant: tiptap
 <p>Mr Richard Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Physical Education (Covering)</p>
+<p>HOD Physical Education</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Wei Ping</p>
+<p>Mr Qin Yixuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -140,6 +140,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (US)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Jeremiah E. M. Francisco</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH English</p>
 </td>
 </tr>
 <tr>
