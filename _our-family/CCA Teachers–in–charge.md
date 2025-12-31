@@ -34,7 +34,7 @@ variant: tiptap
 <p>English Language Drama</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Loh Su Min (IC)
+<p>Ms Loh Su Min (IC)
 <br>Ms Rachel Liau
 <br>Ms Ng Ling Ling Adeline</p>
 </td>
@@ -55,7 +55,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Fui Liang (IC)
-<br>Miss Gao Conger
+<br>Ms Gao Conger
 <br>Mrs Rhyss Teo
 <br>Mr Tan Boon Teck
 <br>Mr Balasupramaniam S/O A T Krishna</p>
@@ -197,8 +197,8 @@ variant: tiptap
 <p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Yew Ning (IC)
-<br>Miss Zhao Fangming</p>
+<p>Ms Yew Ning (IC)
+<br>Ms Zhao Fangming</p>
 </td>
 </tr>
 <tr>
@@ -207,7 +207,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lai Hung Lan (IC)
-<br>Miss Kelly Sng
+<br>Ms Kelly Sng
 <br>Mr Francisco Jeremiah Luke</p>
 </td>
 </tr>
@@ -218,7 +218,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Sijia (IC)
 <br>Mdm Wu Taojun
-<br>Miss Lee Lay Hwa</p>
+<br>Ms Lee Lay Hwa</p>
 </td>
 </tr>
 <tr>
