@@ -425,7 +425,8 @@ variant: tiptap
 <p>Aesthetics, Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Aai Lynn</p>
+<p>Ms Khatijah Bee Binte Syed Abdul Kadir
+<br>Mr Ng Yong Hee Johnny</p>
 </td>
 </tr>
 <tr>
@@ -433,7 +434,8 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Siying Jasmine
+<p>Mr Balasupramaniam S/O A T Krishna
+<br>Ms Chen Siying Jasmine
 <br>Mr Azhari Bin Jasman</p>
 </td>
 </tr>
@@ -442,9 +444,10 @@ variant: tiptap
 <p>Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lok Wai See
-<br>Ms Zhang Li
-<br>Mr Morgan Law</p>
+<p>Mdm Cao Jiawei
+<br>Ms Lok Wai See
+<br>Mr Morgan Law
+<br>Mdm Wang Wenxian</p>
 </td>
 </tr>
 <tr>
@@ -452,8 +455,8 @@ variant: tiptap
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Li Ling Edna</p>
-<p>Ms Elaine Lim
+<p>Ms Ang Li Ling Edna
+<br>Ms Elaine Lim
 <br>Ms Lee Lay Hwa
 <br>Mr Matthew Quek
 <br>Mr Fong Meng Tuck</p>
@@ -464,8 +467,7 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rebekah Lin
-<br>Ms Jasmine Lim</p>
+<p>Ms Jasmine Lim</p>
 </td>
 </tr>
 <tr>
@@ -474,7 +476,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tay Ai Chin
-<br>Ms Huang Xiaojun</p>
+<br>Ms Huang Xiaojun
+<br>Mdm Yap Suat Koon, Jois</p>
 </td>
 </tr>
 <tr>
@@ -482,8 +485,7 @@ variant: tiptap
 <p>Principles of Accounts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jerry Yeo Kim Yeow
-<br>Ms Ng Yan Ling</p>
+<p>Ms Ng Yan Ling</p>
 </td>
 </tr>
 <tr>

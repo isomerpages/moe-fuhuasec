@@ -46,7 +46,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Tan Gek Guang (IC)
 <br>Ms Suvitha Prakass Pillay
-<br>Mdm Wang Wen Xian</p>
+<br>Mdm Wang Wenxian</p>
 </td>
 </tr>
 <tr>
