@@ -116,8 +116,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chew Mingzhi (IC)
-<br>Ms Nur Hafizah
-<br>(2IC)
+<br>Ms Nur Hafizah (2IC)
 <br>Ms Eliz Ng</p>
 </td>
 </tr>
