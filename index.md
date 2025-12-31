@@ -11,16 +11,13 @@ sections:
       key_highlights:
         - title: 2026 Class Timetable
           description: ""
-          url: https://drive.google.com/file/d/10I3-MsVPY6I3_hFmS6smOjequw4brC9i/view?usp=sharing
+          url: https://docs.google.com/document/d/e/2PACX-1vQrh0SP1Qx7yccPX3bQK0uk1a4moYinQguRPfUVmMx_Ak-tjgB32wTT9MrIUWG1lBjtUaAML-8EUzfK/pub
         - title: 2026 Student Handbook
           description: ""
           url: https://www.go.gov.sg/fhss2026studenthandbook
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
-        - title: 2026 Timetable
-          description: ""
-          url: https://docs.google.com/document/d/e/2PACX-1vQrh0SP1Qx7yccPX3bQK0uk1a4moYinQguRPfUVmMx_Ak-tjgB32wTT9MrIUWG1lBjtUaAML-8EUzfK/pub
   - infobar:
       title: 2025 GCE N' Level Results Briefing Slides
       subtitle: For 2025 Students of 4e5-4e8
