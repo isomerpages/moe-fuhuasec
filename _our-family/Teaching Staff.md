@@ -452,7 +452,7 @@ variant: tiptap
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang Li Ling Edna</p>
+<p>Ms Ang Li Ling Edna</p>
 <p>Miss Elaine Lim
 <br>Ms Lee Lay Hwa
 <br>Mr Matthew Quek
