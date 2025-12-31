@@ -95,9 +95,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Adrian Sim (IC)
 <br>Mr Lim Jeremiah E.M. Francisco
-<br>Mdm Yap Suat Koon Jois
-<br>
-</p>
+<br>Mdm Yap Suat Koon Jois</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +142,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Ian Tai Zhi Jian (co-IC)
 <br>Mr Samuel Cho (co-IC)
-<br>Ms Yu Chunyun</p>
+<br>Mdm Yu Chunyun</p>
 </td>
 </tr>
 <tr>
