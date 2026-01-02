@@ -172,8 +172,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Khairi (IC)
 <br>Ms Nur Sarah (2IC)
-<br>Ms Lim Ying Hui</p>
-<p>Mr Han Guoding, Kristof</p>
+<br>Ms Lim Ying Hui
+<br>Mr Han Guoding, Kristof</p>
 </td>
 </tr>
 </tbody>
