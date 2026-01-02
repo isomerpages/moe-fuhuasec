@@ -19,7 +19,7 @@ sections:
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
   - infobar:
-      title: 2025 GCE N' Level Results Briefing Slides
+      title: 2025 GCE 'N' Level Results Briefing Slides
       subtitle: For 2025 Students of 4e5-4e8
       id: infobar
       button: VIEW INFO
