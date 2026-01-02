@@ -298,8 +298,8 @@ helpdesk at +65 6777 9661 from Mondays to Fridays, 7.30 am to 9.00 pm.</p>
 <br>3. DSA through Performing Arts (Choir, Concert Band and Chinese Orchestra)</p>
 <p><strong>17. What is the Primary School Leaving Examination (PSLE) aggregate range of students admitted?</strong>
 </p>
-<p>The ranges of the 2025 Secondary 1 cohort are as follows:</p>
-<p>Posting Group 3: 6-12 Posting Group 2: 21-23 Posting Group 1: 25-27</p>
+<p>The ranges of the 2026 Secondary 1 cohort are as follows:</p>
+<p>Posting Group 3: 8-13 Posting Group 2: 21-23 Posting Group 1: 25-28</p>
 <p><strong>E. Scholarships and Financial Matters</strong>
 </p>
 <p><strong>18. What are the school fees?</strong>
