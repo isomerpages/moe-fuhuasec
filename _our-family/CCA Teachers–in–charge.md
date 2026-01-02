@@ -173,6 +173,7 @@ variant: tiptap
 <p>Mr Muhammad Khairi (IC)
 <br>Ms Nur Sarah (2IC)
 <br>Ms Lim Ying Hui</p>
+<p>Mr Han Guoding, Kristof</p>
 </td>
 </tr>
 </tbody>
