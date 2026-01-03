@@ -67,7 +67,7 @@ variant: tiptap
 <p>Mr Richard Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Physical Education</p>
+<p>HOD Physical Education &amp; CCA</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ variant: tiptap
 <p>Mr Lim Jeremiah E. M. Francisco</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH English</p>
+<p>LH English (Covering)</p>
 </td>
 </tr>
 <tr>
