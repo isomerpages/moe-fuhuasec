@@ -18,6 +18,9 @@ sections:
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
+        - title: Class Timetable 2026
+          description: ""
+          url: https://drive.google.com/file/d/11DCMD9xkFd_j3cL2c59o_l_gcIB7qiQ8/view?usp=drive_link
   - infobar:
       title: 2025 GCE 'N' Level Results Briefing Slides
       subtitle: For 2025 Students of 4e5-4e8
