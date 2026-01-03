@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/217.jpg
       key_highlights:
-        - title: 2026 Class Timetable
+        - title: Project FRESH
           description: ""
           url: https://docs.google.com/document/d/e/2PACX-1vQrh0SP1Qx7yccPX3bQK0uk1a4moYinQguRPfUVmMx_Ak-tjgB32wTT9MrIUWG1lBjtUaAML-8EUzfK/pub
         - title: 2026 Student Handbook
@@ -18,6 +18,9 @@ sections:
         - title: Fuhua News
           description: ""
           url: https://www.instagram.com/fuhuasecondaryschool
+        - title: Class Timetable 2026
+          description: ""
+          url: https://drive.google.com/file/d/11DCMD9xkFd_j3cL2c59o_l_gcIB7qiQ8/view?usp=drive_link
   - infobar:
       title: 2025 GCE 'N' Level Results Briefing Slides
       subtitle: For 2025 Students of 4e5-4e8
