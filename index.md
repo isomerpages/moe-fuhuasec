@@ -42,7 +42,7 @@ sections:
       button: view here
       url: https://go.gov.sg/2026fhsstransferapplication
   - infobar:
-      title: Blending Learning Information
+      title: Blended Learning Information
       subtitle: For all students
       id: infobar
       button: View here
