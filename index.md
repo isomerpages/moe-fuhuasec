@@ -41,4 +41,10 @@ sections:
       description: Please note that application has been extended till 5 January 2026.
       button: view here
       url: https://go.gov.sg/2026fhsstransferapplication
+  - infobar:
+      title: Blended Learning Information
+      subtitle: For all students
+      id: infobar
+      button: View here
+      url: https://drive.google.com/file/d/1UeVdkCNHLAxNfZIHo67hCslwDkUiqRxe/view?usp=drive_link
 ---
