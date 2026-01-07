@@ -198,7 +198,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Jeremiah E. M. Francisco
-<br>Ms Liu Jinyan</p>
+<br>Ms Liu Jinyan Alice</p>
 </td>
 </tr>
 <tr>
@@ -275,7 +275,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Veronica Tei Ying Ying
-<br>Mdm Wu Taojun</p>
+<br>Mdm Wu Taojun Jennifer</p>
 </td>
 </tr>
 <tr>
@@ -436,7 +436,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Balasupramaniam S/O A T Krishna
 <br>Ms Chen Siying Jasmine
-<br>Mr Azhari Bin Jasman</p>
+<br>Mr Azhari Bin Jasman
+<br>Miss Charmaine Tan Yee Ning
+<br>Miss Jemima Huiting Ryan</p>
 </td>
 </tr>
 <tr>
@@ -447,7 +449,8 @@ variant: tiptap
 <p>Mdm Cao Jiawei
 <br>Ms Lok Wai See
 <br>Mr Morgan Law
-<br>Mdm Wang Wenxian</p>
+<br>Mdm Wang Wenxian
+<br>Ms Chua Mei Qi</p>
 </td>
 </tr>
 <tr>
@@ -467,7 +470,8 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Lim</p>
+<p>Ms Jasmine Lim
+<br>Ms Ng Si Qi Eliz</p>
 </td>
 </tr>
 <tr>
@@ -485,7 +489,8 @@ variant: tiptap
 <p>Principles of Accounts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Yan Ling</p>
+<p>Ms Ng Yan Ling
+<br>Mr Tan Boon Teck</p>
 </td>
 </tr>
 <tr>
