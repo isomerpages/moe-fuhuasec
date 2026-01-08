@@ -33,18 +33,4 @@ sections:
       id: infobar
       button: VIEW INFO
       url: https://drive.google.com/file/d/1-QoTO04hsS9xRC9Ne0vy3MMuoN9uw2XA/view?usp=sharing
-  - infobar:
-      title: 2026 Sec 1 Transfer Application
-      id: infobar
-      description: Please note that application has been extended till 5 January 2026.
-      button: view here
-      url: https://go.gov.sg/2026fhsstransferapplication
-  - infobar:
-      title: 2026 Sec 1 e-Registration Exercise
-      subtitle: For 2026 Secondary 1 students
-      id: infobar
-      description: Please note that the link will only be accessible while the
-        exercise is in progress.
-      button: View here
-      url: https://go.gov.sg/2026s1preereg
 ---
