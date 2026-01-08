@@ -22,11 +22,23 @@ sections:
           description: ""
           url: https://drive.google.com/file/d/11DCMD9xkFd_j3cL2c59o_l_gcIB7qiQ8/view?usp=drive_link
   - infobar:
+      title: Blended Learning Information
+      subtitle: For all students
+      id: infobar
+      button: View here
+      url: https://drive.google.com/file/d/1UeVdkCNHLAxNfZIHo67hCslwDkUiqRxe/view?usp=drive_link
+  - infobar:
       title: 2025 GCE 'N' Level Results Briefing Slides
       subtitle: For 2025 Students of 4e5-4e8
       id: infobar
       button: VIEW INFO
       url: https://drive.google.com/file/d/1-QoTO04hsS9xRC9Ne0vy3MMuoN9uw2XA/view?usp=sharing
+  - infobar:
+      title: 2026 Sec 1 Transfer Application
+      id: infobar
+      description: Please note that application has been extended till 5 January 2026.
+      button: view here
+      url: https://go.gov.sg/2026fhsstransferapplication
   - infobar:
       title: 2026 Sec 1 e-Registration Exercise
       subtitle: For 2026 Secondary 1 students
@@ -35,16 +47,4 @@ sections:
         exercise is in progress.
       button: View here
       url: https://go.gov.sg/2026s1preereg
-  - infobar:
-      title: 2026 Sec 1 Transfer Application
-      id: infobar
-      description: Please note that application has been extended till 5 January 2026.
-      button: view here
-      url: https://go.gov.sg/2026fhsstransferapplication
-  - infobar:
-      title: Blended Learning Information
-      subtitle: For all students
-      id: infobar
-      button: View here
-      url: https://drive.google.com/file/d/1UeVdkCNHLAxNfZIHo67hCslwDkUiqRxe/view?usp=drive_link
 ---
