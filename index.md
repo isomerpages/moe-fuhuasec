@@ -22,6 +22,12 @@ sections:
           description: ""
           url: https://drive.google.com/file/d/11DCMD9xkFd_j3cL2c59o_l_gcIB7qiQ8/view?usp=drive_link
   - infobar:
+      title: 2025 GCE 'O' Level Results Release
+      subtitle: For 2025 'O' Level students
+      id: infobar
+      button: View Info
+      url: https://drive.google.com/file/d/1A4M2v9HsGgqhnEtKAD_ZWDcSMCyAeuzQ/view?usp=sharing
+  - infobar:
       title: Blended Learning Information
       subtitle: For all students
       id: infobar
