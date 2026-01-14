@@ -9,10 +9,7 @@ sections:
   - hero:
       background: /images/217.jpg
       key_highlights:
-        - title: Project FRESH
-          description: ""
-          url: https://docs.google.com/document/d/e/2PACX-1vQrh0SP1Qx7yccPX3bQK0uk1a4moYinQguRPfUVmMx_Ak-tjgB32wTT9MrIUWG1lBjtUaAML-8EUzfK/pub
-        - title: 2026 Student Handbook
+        - title: Student Handbook 2026
           description: ""
           url: https://www.go.gov.sg/fhss2026studenthandbook
         - title: Fuhua News
