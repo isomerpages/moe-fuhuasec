@@ -30,8 +30,7 @@ CCE lessons, Form Teacher periods, National Education, Values-in-Action,
 Sexuality Education, Education and Career Guidance Programme and other
 level-based programmes.&nbsp;</p>
 <p>For more information about Sexuality Education at Fuhua Secondary School,
-please click&nbsp;<a href="https://fuhuasec.moe.edu.sg/cce/Sexuality-Education/" rel="noopener noreferrer nofollow" target="_blank">here</a>
-<a href="https://staging.d2jrpotv8emy04.amplifyapp.com/cce/Sexuality-Education/" rel="noopener noreferrer nofollow" target="_blank">.</a>
+please click&nbsp;<a href="https://fuhuasec.moe.edu.sg/cce/Sexuality-Education/" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p><strong>(2) Experiential Programme</strong>
 <br>The Experiential Programme aims to inculcate core values and skills through
