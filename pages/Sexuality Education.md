@@ -86,6 +86,8 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Fuhua Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
+<p>For details, please click <a href="https://drive.google.com/file/d/1lh4Sd9mQrUDLOjuLfzzXchbeWvNtwYBD/view?usp=sharing" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
