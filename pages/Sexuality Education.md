@@ -68,6 +68,8 @@ of the possible consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
+<p>Please click <a href="https://drive.google.com/file/d/1lh4Sd9mQrUDLOjuLfzzXchbeWvNtwYBD/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> for
+the S1 to S5 SEd Curriculum.</p>
 <p><strong><em>eTeens</em> Programme</strong>:</p>
 <p>8. <em>eTeens</em> is a programme that was developed by Health Promotion
 Board, in collaboration with the Ministry of Education, to provide Secondary
@@ -85,8 +87,6 @@ that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p><strong>At Fuhua Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
-</p>
-<p>For details, please click <a href="https://drive.google.com/file/d/1lh4Sd9mQrUDLOjuLfzzXchbeWvNtwYBD/view?usp=sharing" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
