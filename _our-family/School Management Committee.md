@@ -88,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teh Yi Yuan</p>
+<p>Mr Teh Yiyuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD ICT (Covering)</p>
