@@ -5,9 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h3>School Management Committee</h3>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLs_Org_Chart.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_Photo__.png">
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -88,7 +95,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teh Yi Yuan</p>
+<p>Mr Teh Yiyuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD ICT (Covering)</p>
