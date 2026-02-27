@@ -12,7 +12,7 @@ variant: tiptap
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_Photo__.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_Photo_Feb_2026.png">
 </div>
 <p></p>
 <table style="minWidth: 50px">
