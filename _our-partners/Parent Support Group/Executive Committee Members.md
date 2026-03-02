@@ -58,20 +58,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>PSG Representatives of "Let Us Chat" Programme</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Michelle Li</p>
-</li>
-<li>
-<p>Mdm Ruan Yang</p>
-</li>
-<li>
-<p>Mr Tham Yoke Meng</p>
-</li>
-<li>
-<p>Mdm Hazlina Rohani</p>
-</li>
-</ul>
 <p></p>
