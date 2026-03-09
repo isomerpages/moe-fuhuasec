@@ -27,7 +27,7 @@ sections:
       id: infobar
       description: For term 2
       button: VIEW HERE
-      url: go.gov.sg/fhss2026-t2supplementary
+      url: https://go.gov.sg/fhss2026-t2supplementary
   - infobar:
       title: Blended Learning Information
       subtitle: For all students
