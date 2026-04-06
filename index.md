@@ -25,9 +25,8 @@ sections:
       title: Chinese Rice Cooked Food Stall
       subtitle: School Canteen Advertisement
       id: infobar
-      description: Please click on the below link for more infomation.
       button: View here
-      url: e
+      url: https://www.fuhuasec.moe.edu.sg/school-canteen-advertisement/
   - infobar:
       title: Supplementary Lessons Schedule 2026
       subtitle: for s4 and s5 students
