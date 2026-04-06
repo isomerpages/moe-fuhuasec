@@ -22,6 +22,13 @@ sections:
           description: ""
           url: https://docs.google.com/document/d/e/2PACX-1vQJdGCO-nkEbjGIW10ZqswmiD3Yv3mnga1S8qG0CGBp8AiJROdxAcPiwMRhEr5TABGxtqJZTQoESs0e/pub
   - infobar:
+      title: Chinese Rice Cooked Food Stall
+      subtitle: School Canteen Advertisement
+      id: infobar
+      description: Please click on the below link for more infomation.
+      button: View here
+      url: https://drive.google.com/drive/folders/1I3W_fG_io33gmbzw9eYD0srOTGsrYYKj?usp=drive_link
+  - infobar:
       title: Supplementary Lessons Schedule 2026
       subtitle: for s4 and s5 students
       id: infobar
