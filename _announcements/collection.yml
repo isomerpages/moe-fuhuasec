@@ -2,10 +2,10 @@ collections:
   announcements:
     output: true
     order:
-      - School Canteen Advertisement/.keep
       - Announcements page.md
       - Direct School Admission/.keep
       - Direct School Admission/DSA for 2026 Secondary 1 Cohort.md
       - Edusave Awards for Secondary Schools.md
       - Full Home Based Learning Information Page.md
       - Navigating the Student Learning Space (SLS).md
+      - School Canteen Advertisement/.keep
