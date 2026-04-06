@@ -27,7 +27,7 @@ sections:
       id: infobar
       description: Please click on the below link for more infomation.
       button: View here
-      url: https://drive.google.com/drive/folders/1I3W_fG_io33gmbzw9eYD0srOTGsrYYKj?usp=drive_link
+      url: e
   - infobar:
       title: Supplementary Lessons Schedule 2026
       subtitle: for s4 and s5 students
