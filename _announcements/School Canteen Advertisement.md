@@ -51,7 +51,7 @@ Programme (HMSP)" guidelines (<a href="https://www.hpb.gov.sg/schools/school-pro
 </p>
 <p>* Possess catering experience or experience operating in a school environment.</p>
 <p></p>
-<p><strong> Successful applicant must:</strong>
+<p><strong>Successful applicant must:</strong>
 </p>
 <p>* Apply for a food stall license from Singapore Food Agency (SFA).
 <br>* Possess the WSQ Basic Food Hygiene Certificate.
