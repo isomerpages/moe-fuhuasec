@@ -94,7 +94,7 @@ respective talent area selection criteria.</p>
 </tbody>
 </table>
 <p></p>
-<p>Please refer to <a href="https://drive.google.com/file/d/112kqz8zvB38UWd1mlrYVYo_EJlE1Neve/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">this document</a> for
+<p>Please refer to this <a href="https://drive.google.com/file/d/112kqz8zvB38UWd1mlrYVYo_EJlE1Neve/view?usp=drive_link" rel="noopener nofollow" target="_blank">document</a> for
 information on key dates and processes for the DSA Exercise.</p>
 <p>For clarifications on the DSA Exercise, the school can be contacted via
 the following channels:</p>
