@@ -12,7 +12,7 @@ for students to gain admission to secondary schools based on their interests,
 aptitude and potential, beyond their performance at the Primary School
 Leaving Examination (PSLE). Primary 6 (P6) students who do not participate
 in the DSA-Sec will continue to seek admission based on their PSLE score
-through the Secondary 1 (S1) Posting.</p>
+through the Secondary 1 (S1) Posting.&nbsp;</p>
 <p><strong>DSA at Fuhua Secondary School</strong>
 </p>
 <p>The school is inviting applications for DSA in the following talent areas.
@@ -42,7 +42,7 @@ respective talent area selection criteria.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1Voya75AeU5lKNDFbo_VYPjF-p1SFZW3M/view?usp=drive_link" rel="noopener nofollow" target="_blank">Science, Technology, Engineering and Mathematics (STEM)</a>
+<p><a href="https://drive.google.com/file/d/1SrX8vAusjBRSx-GOLujIPUGasrjOZKMj/view?usp=drive_link" rel="noopener nofollow" target="_blank">Science, Technology, Engineering and Mathematics (STEM)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,7 @@ respective talent area selection criteria.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1mUkNhI6X_HVHlPVNfoSlpJo-P2fyGld0/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sports and Games</a>
+<p><a href="https://drive.google.com/file/d/1Ffcx836cXwvfhZFOuhZ-Rv_Jr1un3Ma_/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sports and Games</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,7 +70,7 @@ respective talent area selection criteria.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1XjFaGJ_2SMBCcIP2HKuYyjPAB_R34TZc/view?usp=drive_link" rel="noopener nofollow" target="_blank">Performing Arts</a>
+<p><a href="https://drive.google.com/file/d/1MDOet_LdjKk8AdEWIouItlqMxjj9KEFC/view?usp=drive_link" rel="noopener nofollow" target="_blank">Performing Arts</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,7 +84,7 @@ respective talent area selection criteria.</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/15G8r1rP55ls65Z_tR_lnNyenhGYbAjDL/view?usp=drive_link" rel="noopener nofollow" target="_blank">Leadership and Uniformed Groups</a>
+<p><a href="https://drive.google.com/file/d/14F6bn4ZUwsusPzYxApWSynekLgQe0FSr/view?usp=drive_link" rel="noopener nofollow" target="_blank">Leadership and Uniformed Groups</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,7 +94,7 @@ respective talent area selection criteria.</p>
 </tbody>
 </table>
 <p></p>
-<p>Please refer to <a href="https://drive.google.com/file/d/1x9Y4CD1QLgzgmR52Ni-Z_ANd2Un4JMjg/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">this document</a> for
+<p>Please refer to <a href="https://drive.google.com/file/d/112kqz8zvB38UWd1mlrYVYo_EJlE1Neve/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">this document</a> for
 information on key dates and processes for the DSA Exercise.</p>
 <p>For clarifications on the DSA Exercise, the school can be contacted via
 the following channels:</p>
