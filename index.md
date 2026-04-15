@@ -22,6 +22,12 @@ sections:
           description: ""
           url: https://docs.google.com/document/d/e/2PACX-1vQJdGCO-nkEbjGIW10ZqswmiD3Yv3mnga1S8qG0CGBp8AiJROdxAcPiwMRhEr5TABGxtqJZTQoESs0e/pub
   - infobar:
+      title: Direct-School Admission for Secondary School (DSA-Sec)
+      subtitle: For 2027 Secondary 1 cohort
+      id: infobar
+      button: view here
+      url: https://www.fuhuasec.moe.edu.sg/dsa-for-2027-secondary-1-cohort/
+  - infobar:
       title: Chinese Rice Cooked Food Stall
       subtitle: School Canteen Advertisement
       id: infobar
