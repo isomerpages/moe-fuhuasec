@@ -43,7 +43,8 @@ variant: tiptap
 <p>1R3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rohana Bte Ismail</p>
+<p>Mdm Rohana Bte Ismail
+<br>Ms Lin Xiuxia</p>
 </td>
 </tr>
 <tr>
@@ -284,7 +285,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tay Wen Hui
-<br>Mr Ian Tai Zhi Jian</p>
+<br>Ms Yeo Sian Hui Adeline</p>
 </td>
 </tr>
 <tr>
@@ -447,7 +448,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Cao Jiawei
-<br>Ms Lok Wai See
 <br>Mr Morgan Law
 <br>Mdm Wang Wenxian
 <br>Ms Chua Mei Qi</p>

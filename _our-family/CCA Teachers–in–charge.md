@@ -142,7 +142,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Ian Tai Zhi Jian (co-IC)
 <br>Mr Samuel Cho (co-IC)
-<br>Mdm Yu Chunyun</p>
+<br>Mdm Yu Chunyun
+<br>Ms Yeo Sian Hui Adeline</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +153,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Tan Ying Quan (IC)
 <br>Ms Veronica Tei (2IC)
-<br>Mr Goh Kee Lee</p>
+<br>Mr Goh Kee Lee
+<br>Ms Lin Xiuxia</p>
 </td>
 </tr>
 <tr>
