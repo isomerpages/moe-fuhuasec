@@ -46,4 +46,11 @@ sections:
       id: infobar
       button: View here
       url: https://drive.google.com/file/d/1UeVdkCNHLAxNfZIHo67hCslwDkUiqRxe/view?usp=drive_link
+  - infobar:
+      title: Experiential Learning Week (T2W10)
+      subtitle: For all students
+      id: infobar
+      description: Infobar description
+      button: View Here
+      url: https://go.gov.sg/fhss2026-t2w10
 ---
