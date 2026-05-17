@@ -22,6 +22,13 @@ sections:
           description: ""
           url: https://docs.google.com/document/d/e/2PACX-1vQJdGCO-nkEbjGIW10ZqswmiD3Yv3mnga1S8qG0CGBp8AiJROdxAcPiwMRhEr5TABGxtqJZTQoESs0e/pub
   - infobar:
+      title: Experiential Learning Week (T2W10)
+      subtitle: For all students
+      id: infobar
+      description: 25th, 26th & 28th May
+      button: View Here
+      url: https://go.gov.sg/fhss2026-t2w10
+  - infobar:
       title: Direct-School Admission for Secondary School (DSA-Sec)
       subtitle: For 2027 Secondary 1 cohort
       id: infobar
