@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Announcements page.md
+      - Subject Combination Allocation Exercise (SCAE).md
       - Direct School Admission/.keep
       - Direct School Admission/DSA for 2027 Secondary 1 Cohort.md
       - Edusave Awards for Secondary Schools.md
