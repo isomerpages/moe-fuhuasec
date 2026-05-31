@@ -35,12 +35,6 @@ sections:
       button: view here
       url: https://www.fuhuasec.moe.edu.sg/dsa-for-2027-secondary-1-cohort/
   - infobar:
-      title: Chinese Rice Cooked Food Stall
-      subtitle: School Canteen Advertisement
-      id: infobar
-      button: View here
-      url: https://www.fuhuasec.moe.edu.sg/school-canteen-advertisement/
-  - infobar:
       title: Supplementary Lessons Schedule 2026
       subtitle: for s4 and s5 students
       id: infobar
